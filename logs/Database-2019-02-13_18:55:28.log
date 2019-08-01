@@ -1,0 +1,2 @@
+2019-06-13 19:06:54 [main] INFO  gov.nist.hla.federates.database.Database - Reading JSON configuration file at conf/Database.json
+2019-06-13 19:06:54 [main] INFO  gov.nist.hla.gateway.ObjectModel - creating object model from conf/AV.xml

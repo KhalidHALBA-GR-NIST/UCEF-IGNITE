@@ -1,0 +1,10 @@
+./input/fedManager
+./output/fedManager
+./input/JavaFederate_ABS_0
+./output/JavaFederate_ABS_0
+./input/JavaFederate_BMS_0
+./output/JavaFederate_BMS_0
+./input/JavaFederate_MCU_0
+./output/JavaFederate_MCU_0
+./input/JavaFederate_VCU_0
+./output/JavaFederate_VCU_0

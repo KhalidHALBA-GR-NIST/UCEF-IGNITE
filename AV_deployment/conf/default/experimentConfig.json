@@ -1,0 +1,53 @@
+{
+  "federateTypesAllowed": [
+    "ABS",
+    "BMS",
+    "Database",
+    "MCU",
+    "VCU"
+  ],
+  "expectedFederates": [
+    {
+      "federateType": "ABS",
+      "count": 1
+    },
+    {
+      "federateType": "BMS",
+      "count": 1
+    },
+    {
+      "federateType": "Database",
+      "count": 1
+    },
+    {
+      "federateType": "MCU",
+      "count": 1
+    },
+    {
+      "federateType": "VCU",
+      "count": 1
+    }
+  ],
+  "lateJoinerFederates": [
+    {
+      "federateType": "ABS",
+      "count": 0
+    },
+    {
+      "federateType": "BMS",
+      "count": 0
+    },
+    {
+      "federateType": "Database",
+      "count": 0
+    },
+    {
+      "federateType": "MCU",
+      "count": 0
+    },
+    {
+      "federateType": "VCU",
+      "count": 0
+    }
+  ]
+}

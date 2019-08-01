@@ -1,0 +1,36 @@
+{
+  "federateTypesAllowed": [
+    "ABS",
+    "BMS",
+    "MCU",
+    "Database",
+    "VCU"
+  ],
+  "expectedFederates": [
+    {
+      "federateType": "ABS",
+      "count": 1
+    },
+    {
+      "federateType": "BMS",
+      "count": 1
+    },
+    {
+      "federateType": "MCU",
+      "count": 1
+    },
+  {
+      "federateType": "Database",
+      "count": 1
+    },
+    {
+      "federateType": "VCU",
+      "count": 1
+    }
+  ],
+  "lateJoinerFederates": [],
+  "coaDefinition": "conf/NewcoaConfig.json",
+  "coaSelection": "conf/federationexperiment/coaSelection_federationexperiment.json",
+  "terminateOnCOAFinish": false,
+  "COASelectionToExecute": "COA"
+}

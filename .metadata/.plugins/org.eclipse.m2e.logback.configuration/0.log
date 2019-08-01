@@ -1,0 +1,20 @@
+2019-08-01 02:51:40,001 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-01 02:52:45,907 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-01 02:53:48,564 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.webgme.guest:AV_exec:0.1.0-SNAPSHOT @ /home/vagrant/Desktop/AVCOA/AV_deployment/pom.xml.
+2019-08-01 02:53:51,655 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 02:53:51,660 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vagrant/Desktop/AVCOA/AV_deployment/src/fom
+2019-08-01 02:53:51,660 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vagrant/Desktop/AVCOA/AV_deployment/src/experiments
+2019-08-01 02:53:51,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 02:53:51,733 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 02:53:51,743 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vagrant/Desktop/AVCOA/AV_deployment/src/test/resources
+2019-08-01 02:53:51,913 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.webgme.guest:AV-root:0.1.0-SNAPSHOT @ /home/vagrant/Desktop/AVCOA/AV_generated/pom.xml.
+2019-08-01 02:53:53,283 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.webgme.guest:AV_exec:0.1.0-SNAPSHOT @ /home/vagrant/Desktop/AVCOA/AV_deployment/pom.xml.
+2019-08-01 02:53:57,943 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.webgme.guest:AV_exec:0.1.0-SNAPSHOT @ /home/vagrant/Desktop/AVCOA/AV_deployment/pom.xml.
+2019-08-01 02:53:58,523 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.webgme.guest:AV-root:0.1.0-SNAPSHOT @ /home/vagrant/Desktop/AVCOA/AV_generated/pom.xml.
+2019-08-01 02:54:00,719 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 02:54:00,725 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vagrant/Desktop/AVCOA/AV_deployment/src/fom
+2019-08-01 02:54:00,726 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vagrant/Desktop/AVCOA/AV_deployment/src/experiments
+2019-08-01 02:54:00,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-01 02:54:00,744 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-01 02:54:00,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/vagrant/Desktop/AVCOA/AV_deployment/src/test/resources
+2019-08-01 02:59:35,812 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration

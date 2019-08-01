@@ -1,0 +1,160 @@
+20:50:49.371 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "messageTime" (type: "double"). Default value set by runtime environment...
+20:50:49.372 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "lookAhead" (type: "double"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "VCU_PGN" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "Vehicle_Speed" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "Wheel_Speed" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "federationId" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "Traction_Stability_Torque_Request" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "Hydraulic_Valve_Commands" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.373 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "Wheel_Speed_Sensors" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "federateType" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "VCU_Motor_Torque" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "ABSPGN" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "isLateJoiner" (type: "boolean"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "ABSSPNs" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "ABS_Event_Status" (type: "class java.lang.String"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "federateRTIInitWaitTimeMs" (type: "int"). Default value set by runtime environment...
+20:50:49.374 [main] WARN  org.cpswt.config.FederateConfigParser - No config parameter was provided for "stepSize" (type: "double"). Default value set by runtime environment...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:49.498 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:50.002 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:50.510 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:51.012 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:51.516 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:52.017 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:52.520 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:53.022 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:53.523 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name null doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: Can't join a federation using a null or empty federation name
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: Can't join a federation using a null or empty federation name
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:77)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:54.024 [main] ERROR org.cpswt.hla.SynchronizedFederate - Federation was not found with the name {}. Quitting...
+ERROR [main] portico.lrc: 
+org.portico.lrc.compat.JFederateNotExecutionMember: 
+	at org.portico.lrc.LRCState.checkJoined(LRCState.java:427)
+	at org.portico.lrc.services.time.handlers.outgoing.EnableTimeConstrainedHandler.process(EnableTimeConstrainedHandler.java:55)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.enableTimeConstrained(Rti13Ambassador.java:3362)
+	at org.cpswt.hla.SynchronizedFederate.enableTimeConstrained(SynchronizedFederate.java:351)
+	at AV.ABSBase.<init>(ABSBase.java:29)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+20:50:54.025 [main] ERROR AV.ABS - hla.rti.FederateNotExecutionMember: org.portico.lrc.compat.JFederateNotExecutionMember:  serial:0

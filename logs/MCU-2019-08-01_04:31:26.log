@@ -1,0 +1,30 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-14378, cluster=AV, physical address=10.0.2.15:39099
+-------------------------------------------------------------------
+04:32:20.144 [main] INFO  AV.MCU - waiting on readyToPopulate...
+04:32:31.166 [main] INFO  AV.MCU - ...synchronized on readyToPopulate
+04:32:31.166 [main] INFO  AV.MCU - waiting on readyToRun...
+04:32:31.419 [main] INFO  AV.MCU - ...synchronized on readyToRun
+04:32:31.423 [main] INFO  AV.MCU - started logical time progression
+04:32:35.097 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  18.0  message time is 17.2 case 7
+04:32:35.245 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  19.0  message time is 18.2 case 8
+04:32:37.771 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  38.0  message time is 37.2 case 7
+04:32:37.920 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  39.0  message time is 38.2 case 8
+04:32:40.146 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  58.0  message time is 57.2 case 7
+04:32:40.244 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  59.0  message time is 58.2 case 8
+04:32:42.616 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  78.0  message time is 77.2 case 7
+04:32:42.715 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  79.0  message time is 78.2 case 8
+04:32:45.087 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  98.0  message time is 97.2 case 7
+04:32:45.244 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  99.0  message time is 98.2 case 8
+04:32:47.463 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  118.0  message time is 117.2 case 7
+04:32:47.643 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  119.0  message time is 118.2 case 8
+04:32:54.986 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  138.0  message time is 137.2 case 7
+04:32:55.786 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  139.0  message time is 138.2 case 8
+04:33:11.993 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  158.0  message time is 157.2 case 7
+04:33:12.978 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  159.0  message time is 158.2 case 8
+04:33:28.982 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  178.0  message time is 177.2 case 7
+04:33:29.752 [main] INFO  org.cpswt.hla.SynchronizedFederate - MCU-19a232d0-78e6-403f-b9b0-1b1bcbe776b9: SimEnd interaction received, exiting...
+04:33:29.753 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  179.0  message time is 178.2 case 8
+04:33:29.753 [main] INFO  org.cpswt.hla.SynchronizedFederate - Exiting gracefully ....
+04:33:34.811 [main] INFO  AV.MCU - Done.

@@ -1,0 +1,167 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-65017, cluster=AV, physical address=192.168.99.100:59297
+-------------------------------------------------------------------
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:54.102 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:54.605 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:55.106 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:55.608 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:56.112 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:56.616 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:57.118 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:57.620 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:58.125 [main] WARN  org.cpswt.hla.SynchronizedFederate - Federation with the name AV doesn't exist (yet). Trying to wait and join...
+ERROR [main] portico.lrc: federation doesn't exist: AV
+org.portico.lrc.compat.JFederationExecutionDoesNotExist: federation doesn't exist: AV
+	at org.portico.bindings.jgroups.Federation.sendJoinFederation(Federation.java:259)
+	at org.portico.bindings.jgroups.JGroupsConnection.joinFederation(JGroupsConnection.java:251)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:105)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:387)
+	at org.cpswt.hla.SynchronizedFederate.joinFederation(SynchronizedFederate.java:246)
+	at AV.ABSBase.<init>(ABSBase.java:27)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:58.628 [main] ERROR org.cpswt.hla.SynchronizedFederate - Federation was not found with the name {}. Quitting...
+ERROR [main] portico.lrc: 
+org.portico.lrc.compat.JFederateNotExecutionMember: 
+	at org.portico.lrc.LRCState.checkJoined(LRCState.java:427)
+	at org.portico.lrc.services.time.handlers.outgoing.EnableTimeConstrainedHandler.process(EnableTimeConstrainedHandler.java:55)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.enableTimeConstrained(Rti13Ambassador.java:3362)
+	at org.cpswt.hla.SynchronizedFederate.enableTimeConstrained(SynchronizedFederate.java:351)
+	at AV.ABSBase.<init>(ABSBase.java:29)
+	at AV.ABS.<init>(ABS.java:26)
+	at AV.ABS.main(ABS.java:245)
+18:52:58.629 [main] ERROR AV.ABS - hla.rti.FederateNotExecutionMember: org.portico.lrc.compat.JFederateNotExecutionMember:  serial:0

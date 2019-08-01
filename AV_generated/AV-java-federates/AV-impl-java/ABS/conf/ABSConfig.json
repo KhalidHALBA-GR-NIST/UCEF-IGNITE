@@ -1,0 +1,19 @@
+{
+"federateRTIInitWaitTimeMs": 200,
+"federateType": "ABS",
+"federationId": "AV",
+"isLateJoiner": false,
+"lookAhead": 0.2,
+"stepSize": 1.0,
+"Wheel_Speed": "88",
+"Vehicle_Speed": "88",
+"ABS_Event_Status":"placeholder",
+"Traction_Stability_Torque_Request":"placeholder",   
+"VCU_Motor_Torque" : "placeholder", 
+"VCU_PGN" : "placeholder",
+"Wheel_Speed_Sensors":"placeholder", 
+"Hydraulic_Valve_Commands":"placeholder",
+"ABSPGN" : "ABS",
+"ABSSPNs" :   "0",
+"messageTime":0.0
+}

@@ -1,0 +1,11 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-19525, cluster=AV, physical address=10.0.2.15:59463
+-------------------------------------------------------------------
+02:43:21.125 [main] INFO  AV.BMS - waiting on readyToPopulate...
+02:43:50.661 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+02:43:50.661 [main] INFO  AV.BMS - waiting on readyToRun...
+02:43:50.918 [main] INFO  AV.BMS - ...synchronized on readyToRun
+02:43:50.920 [main] INFO  AV.BMS - started logical time progression
+WARN  [VERIFY_SUSPECT.TimerThread,AV,vagrant-19525] portico.lrc.jgroups: Detected that federate [unkonwn] may have crashed, investigating...
+WARN  [Regular] portico.lrc.jgroups: Unknown channel member crashed. Don't think it was a federate. Ignoring. uuid=e6ead192-babf-4ffe-becc-3295eb2bfef2

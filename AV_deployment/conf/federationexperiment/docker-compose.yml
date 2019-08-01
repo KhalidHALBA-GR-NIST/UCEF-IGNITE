@@ -1,0 +1,67 @@
+--- 
+services: 
+  fedManager:
+    build: .
+    tty: true
+    image: ""
+    command: "sh start.sh FedManager"
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+    extra_hosts:
+      - "cpswtng_archiva:"
+    volumes:
+      - undefined/input//fedManager:/root/Projects/c2wt/input
+      - undefined/output//fedManager:/root/Projects/c2wt/logs
+  JavaFederate_ABS_0:
+    build: .
+    image: ""
+    command: "sh start.sh ABS,ExecJava" 
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+    extra_hosts:
+      - "cpswtng_archiva:"
+    links:
+      - fedManager  
+    volumes:
+      - undefined/input//JavaFederate_ABS_0:/root/Projects/c2wt/input
+      - undefined/output//JavaFederate_ABS_0:/root/Projects/c2wt/logs
+  JavaFederate_BMS_0:
+    build: .
+    image: ""
+    command: "sh start.sh BMS,ExecJava" 
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+    extra_hosts:
+      - "cpswtng_archiva:"
+    links:
+      - fedManager  
+    volumes:
+      - undefined/input//JavaFederate_BMS_0:/root/Projects/c2wt/input
+      - undefined/output//JavaFederate_BMS_0:/root/Projects/c2wt/logs
+  JavaFederate_MCU_0:
+    build: .
+    image: ""
+    command: "sh start.sh MCU,ExecJava" 
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+    extra_hosts:
+      - "cpswtng_archiva:"
+    links:
+      - fedManager  
+    volumes:
+      - undefined/input//JavaFederate_MCU_0:/root/Projects/c2wt/input
+      - undefined/output//JavaFederate_MCU_0:/root/Projects/c2wt/logs
+  JavaFederate_VCU_0:
+    build: .
+    image: ""
+    command: "sh start.sh VCU,ExecJava" 
+    sysctls:
+      - net.ipv6.conf.all.disable_ipv6=1
+    extra_hosts:
+      - "cpswtng_archiva:"
+    links:
+      - fedManager  
+    volumes:
+      - undefined/input//JavaFederate_VCU_0:/root/Projects/c2wt/input
+      - undefined/output//JavaFederate_VCU_0:/root/Projects/c2wt/logs
+version: "2.1"

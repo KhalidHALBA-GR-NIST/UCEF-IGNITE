@@ -1,0 +1,9 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-47579, cluster=AV, physical address=10.0.2.15:53950
+-------------------------------------------------------------------
+20:13:52.286 [main] INFO  AV.BMS - waiting on readyToPopulate...
+20:14:09.132 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+20:14:09.133 [main] INFO  AV.BMS - waiting on readyToRun...
+20:14:09.389 [main] INFO  AV.BMS - ...synchronized on readyToRun
+20:14:09.391 [main] INFO  AV.BMS - started logical time progression
