@@ -1,9 +1,0 @@
-
--------------------------------------------------------------------
-GMS: address=vagrant-52691, cluster=AV, physical address=10.0.2.15:34739
--------------------------------------------------------------------
-18:39:58.017 [main] INFO  AV.MCU - waiting on readyToPopulate...
-18:40:08.503 [main] INFO  AV.MCU - ...synchronized on readyToPopulate
-18:40:08.504 [main] INFO  AV.MCU - waiting on readyToRun...
-18:40:08.755 [main] INFO  AV.MCU - ...synchronized on readyToRun
-18:40:08.759 [main] INFO  AV.MCU - started logical time progression
