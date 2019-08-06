@@ -1,0 +1,178 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building AV_exec 0.1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://cpswtng_archiva:8080/repository/snapshots/org/cpswt/fedmanager-host/0.6.0-SNAPSHOT/maven-metadata.xml
+Downloading: http://cpswtng_archiva:8080/repository/internal/org/cpswt/fedmanager-host/0.6.0-SNAPSHOT/maven-metadata.xml
+361/361 B               Downloaded: http://cpswtng_archiva:8080/repository/snapshots/org/cpswt/fedmanager-host/0.6.0-SNAPSHOT/maven-metadata.xml (361 B at 0.4 KB/sec)
+[INFO] 
+[INFO] --- exec-maven-plugin:1.5.0:java (default-cli) @ AV_exec ---
+16:33:11.347 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.362 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 24500.000000, No. of branches to finish: -1
+16:33:11.364 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.365 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.366 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 4000.000000, No. of branches to finish: -1
+16:33:11.367 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.368 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.369 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 15000.000000, No. of branches to finish: -1
+16:33:11.372 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.373 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.375 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.376 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.378 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.379 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.380 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.383 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.384 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.385 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.388 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.389 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.390 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.391 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.392 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.393 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.394 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: Action, Type: Action, Status: Inactive, NodeExecutedTime: -1.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:33:11.395 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 24000.000000, No. of branches to finish: -1
+16:33:11.397 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 25000.000000, No. of branches to finish: -1
+16:33:11.398 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 27000.000000, No. of branches to finish: -1
+16:33:11.399 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 26500.000000, No. of branches to finish: -1
+16:33:11.401 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 0.000000, No. of branches to finish: -1
+16:33:11.402 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 1500.000000, No. of branches to finish: -1
+16:33:11.404 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 2000.000000, No. of branches to finish: -1
+16:33:11.405 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 2500.000000, No. of branches to finish: -1
+16:33:11.406 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 3000.000000, No. of branches to finish: -1
+16:33:11.407 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 11000.000000, No. of branches to finish: -1
+16:33:11.408 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 13000.000000, No. of branches to finish: -1
+16:33:11.409 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 14000.000000, No. of branches to finish: -1
+16:33:11.412 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 17500.000000, No. of branches to finish: -1
+16:33:11.414 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 20500.000000, No. of branches to finish: -1
+16:33:11.415 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 21000.000000, No. of branches to finish: -1
+16:33:11.416 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 21500.000000, No. of branches to finish: -1
+16:33:11.417 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 23500.000000, No. of branches to finish: -1
+16:33:11.418 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 25500.000000, No. of branches to finish: -1
+16:33:11.419 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding node to the COA graph: Name: SyncPoint, Type: SyncPoint, Status: Inactive, NodeExecutedTime: -1.000000, SyncTime: 26000.000000, No. of branches to finish: -1
+16:33:11.437 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.439 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.439 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.440 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.441 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.441 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.442 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.443 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.443 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.444 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.445 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.445 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.446 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.448 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.448 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.455 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.456 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.457 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.459 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.460 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.460 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.462 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.463 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.467 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.468 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.469 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.469 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.470 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.478 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.480 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.489 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.490 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.491 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.491 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.495 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.496 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.504 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.507 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.509 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.516 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.521 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.522 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] SyncPoint --to--> Action
+16:33:11.523 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Adding edge to the COA graph: [COAFlow] Action --to--> SyncPoint
+16:33:11.533 [org.cpswt.host.FederationManagerHostApp.main()] INFO  org.cpswt.coa.COALoader - Loaded COAGraph successfully
+16:33:11.534 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.coa.COALoader - Loaded the following COAGraph:
+{}SyncPoint
+		Action	
+			SyncPoint		
+				Action			
+					SyncPoint				
+						Action					
+							SyncPoint						
+								Action							
+									SyncPoint								
+										Action									
+											SyncPoint										
+												Action											
+													SyncPoint												
+														Action													
+															SyncPoint														
+																Action															
+																	SyncPoint																
+																		Action																	
+																			SyncPoint																		
+																				Action																			
+																					SyncPoint																				
+																						Action																					
+																							SyncPoint																						
+																								Action																							
+																									SyncPoint																								
+																										Action																									
+																											SyncPoint																										
+																												Action																											
+																													SyncPoint																												
+																														Action																													
+																															SyncPoint																														
+																																Action																															
+																																	SyncPoint																																
+																																		Action																																	
+																																			SyncPoint																																		
+																																				Action																																			
+																																					SyncPoint																																				
+																																						Action																																					
+																																							SyncPoint																																						
+																																								Action																																							
+																																									SyncPoint																																								
+																																										Action																																									
+																																											SyncPoint																																										
+																																												Action
+
+16:33:11.591 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SynchronizedFederate - Federate FederationManager-55f874fb-5fc2-4d42-befd-1d795419a4ee acquiring connection to RTI ...
+16:33:12.132 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SynchronizedFederate - Federate FederationManager-55f874fb-5fc2-4d42-befd-1d795419a4ee connection to RTI successful.
+16:33:12.133 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederationManager - Local RTI component created successfully.
+
+-------------------------------------------------------------------
+GMS: address=vagrant-64489, cluster=AV, physical address=10.0.2.15:49856
+-------------------------------------------------------------------
+16:33:17.515 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederationManager - Federation "AV" created successfully.
+16:33:17.515 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SynchronizedFederate - [FederationManager-55f874fb-5fc2-4d42-befd-1d795419a4ee] federate joining federation [AV] attempt #1
+16:33:17.628 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SynchronizedFederate - [FederationManager-55f874fb-5fc2-4d42-befd-1d795419a4ee] federate joined federation [AV] successfully
+16:33:17.679 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SimEnd - subscribe: InteractionRoot.C2WInteractionRoot.SimulationControl.SimEnd
+16:33:17.701 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederateJoinInteraction - publish: InteractionRoot.C2WInteractionRoot.FederateJoinInteraction
+16:33:17.713 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederateResignInteraction - publish: InteractionRoot.C2WInteractionRoot.FederateResignInteraction
+16:33:19.781 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederationManager - Synchronization point "readyToPopulate" registered successfully.
+16:33:20.806 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederationManager - Synchronization point "readyToRun" registered successfully.
+16:33:21.809 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederationManager - Synchronization point "readyToResign" registered successfully.
+16:33:21.809 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederateJoinInteraction - subscribe: InteractionRoot.C2WInteractionRoot.FederateJoinInteraction
+16:33:21.810 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.FederateResignInteraction - subscribe: InteractionRoot.C2WInteractionRoot.FederateResignInteraction
+16:33:21.816 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SimEnd - publish: InteractionRoot.C2WInteractionRoot.SimulationControl.SimEnd
+16:33:21.828 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SimPause - publish: InteractionRoot.C2WInteractionRoot.SimulationControl.SimPause
+16:33:21.840 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG org.cpswt.hla.SimResume - publish: InteractionRoot.C2WInteractionRoot.SimulationControl.SimResume
+16:33:21.873 [org.cpswt.host.FederationManagerHostApp.main()] DEBUG AV.CAN - publish: InteractionRoot.C2WInteractionRoot.CAN
+16:33:24.375 [org.cpswt.host.FederationManagerHostApp.main()] INFO  org.cpswt.host.FederationManagerHostApp - Server online at 0.0.0.0:8083 ...
+16:33:30.133 [routes-akka.actor.default-dispatcher-2] DEBUG org.cpswt.host.FederationManagerHostApp - Starting simulation
+16:33:30.140 [Thread-1] DEBUG org.cpswt.hla.FederationManager - Starting simulation
+16:33:30.252 [Thread-1] DEBUG org.cpswt.hla.FederateObject - subscribe: ObjectRoot.Manager.Federate
+16:34:33.651 [Thread-1] DEBUG org.cpswt.hla.FederationManager - All expected federates have joined the federation. Proceeding with the simulation...
+16:34:34.166 [Thread-1] DEBUG org.cpswt.hla.FederationManager - Susbcribing to High priority logs
+16:34:34.179 [Thread-1] DEBUG org.cpswt.hla.HighPrio - subscribe: InteractionRoot.C2WInteractionRoot.SimLog.HighPrio
+16:34:34.188 [Thread-3] DEBUG org.cpswt.hla.FederationManager - Main execution loop of federation started at: 2019-08-04T16:34:34.187+0000
+16:34:34.190 [Thread-3] DEBUG org.cpswt.coa.COAGraph - Node executed in sequence graph: Name: SyncPoint, Type: SyncPoint, Status: Executed, NodeExecutedTime: 0.000000, SyncTime: 0.000000, No. of branches to finish: -1
+16:34:34.195 [Thread-3] INFO  org.cpswt.coa.COAExecutor - Successfully sent interaction 'InteractionRoot.C2WInteractionRoot.CAN' at time '0.10001'
+16:34:34.198 [Thread-3] DEBUG org.cpswt.coa.COAGraph - Node executed in sequence graph: Name: Action, Type: Action, Status: Executed, NodeExecutedTime: 0.000000, Interaction: InteractionRoot.C2WInteractionRoot.CAN
+16:34:34.199 [Thread-3] INFO  org.cpswt.hla.FederationManager - Current_time = 0.0 and step = 1.0 and requested_time = 1.0

@@ -18,7 +18,8 @@ public class BMS extends BMSBase {
     private final static Logger log = LogManager.getLogger();
 
     private double currentTime = 0;
-
+	
+    boolean d = false ;
     public BMSConfig BMSparameter = new BMSConfig();
     
     CAN BmsCAN = create_CAN();
@@ -26,6 +27,7 @@ public class BMS extends BMSBase {
     public BMS(BMSConfig params) throws Exception {
         super(params);
         BMSparameter.Peak_Voltage = params.Peak_Voltage;
+        BMSparameter.Obstacle_Presence_distance = params.Obstacle_Presence_distance;
         BMSparameter.Peak_Current = params.Peak_Current;
         BMSparameter.State_Of_Charge = params.State_Of_Charge;
         BMSparameter.State_Of_Health = params.State_Of_Health;
@@ -54,7 +56,7 @@ public class BMS extends BMSBase {
 
     
     
-public void Calculate_power_limits()
+public void Send_Obstacle_Notification()
 
     
     {
@@ -63,46 +65,46 @@ public void Calculate_power_limits()
     	
     	
     	
-    	BMSparameter.Peak_Current_Limit =Integer.toString(ThreadLocalRandom.current().nextInt(1,3 + 1));
-    	
-    	
+//    	BMSparameter.Peak_Current_Limit =Integer.toString(ThreadLocalRandom.current().nextInt(1,3 + 1));
+
+	if (((currentTime/20) > 30 ) &&  ((currentTime/20) < 40 ))
+	{
+	d=true;
+
+	   BMSparameter.Obstacle_Presence_distance = Boolean.toString(d);
+	System.out.println("obstacle detected");
+	   log.info("obstacle distance " + Boolean.toString(d) +" currenttime " +   Double.toString(currentTime));
+	
+	
+	   System.out.println("print string boolean " +  BMSparameter.Obstacle_Presence_distance);
+	}
+	
+	else {
+		d=false;
+		   BMSparameter.Obstacle_Presence_distance = Boolean.toString(d);
+		System.out.println("obstacle not detected currenttime " +   Double.toString(currentTime));
+		   System.out.println("print string boolean " +  BMSparameter.Obstacle_Presence_distance);
 	}
     
+    }
+	
     public String Build_SPN(){    	    	   
-    	return   BMSparameter.BMSSPNs = BMSparameter.Peak_Voltage  + " " + BMSparameter.Peak_Current  + " " +BMSparameter.State_Of_Charge  + " " +BMSparameter.State_Of_Health  + " " +BMSparameter.Remaining_Capacity + " " + BMSparameter.Max_Temperature + " " + BMSparameter.Min_Temperature  + " " +BMSparameter.Peak_Current_Limit;
-        } 
+//    	return   BMSparameter.BMSSPNs = BMSparameter.Peak_Voltage  + " " + BMSparameter.Peak_Current  + " " +BMSparameter.State_Of_Charge  + " " +BMSparameter.State_Of_Health  + " " +BMSparameter.Remaining_Capacity + " " + BMSparameter.Max_Temperature + " " + BMSparameter.Min_Temperature  + " " +BMSparameter.Peak_Current_Limit;
+      
+    	
+    	 
+    return   BMSparameter.BMSSPNs = BMSparameter.Obstacle_Presence_distance;
+    } 
     
     public void Build_and_Send_CAN_Frame(String pgn,String spn)
     
     {
    	
-
         BmsCAN.set_ID18B(pgn);
-
         BmsCAN.set_DataField(spn);
         BmsCAN.sendInteraction(getLRC(), currentTime + getLookAhead());
-
  	   
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     private void execute() throws Exception {
@@ -170,19 +172,34 @@ public void Calculate_power_limits()
             ////////////////////////////////////////////////////////////////////////////////////////
 
             checkReceivedSubscriptions();
-            int osd = (int)(currentTime/2) % 10;
+            int osd = (int)(currentTime) % 20;
+//            int kk = (int)(currentTime/20);
+//            Send_Obstacle_Notification();
+//        	System.out.println("outside");
      	   switch (osd)
      	   {
-     	       case 2:	   
-     	    	   Calculate_power_limits();
-     	    	   Build_and_Send_CAN_Frame( BMSparameter.BMSPGN, Build_SPN());  
-     	           break;        
+     	   
+     	   
+     	   case 0:
+     		   Send_Obstacle_Notification();
+     		  Build_and_Send_CAN_Frame( BMSparameter.BMSPGN, Build_SPN());  
+     		  log.info(" OSD 0" + Integer.toString(osd) + " currentime " + Double.toString(currentTime));
+     		  break;
+     	   
+     	       
+     		  
+//     		   
+//     	   case 1:
+//     		   
+//     		  log.info(" OSD 1" + Integer.toString(osd) + " currentime " + Double.toString(currentTime));
+//     		  break;
+//     		  
+//     	       case 2:	   
+//     	    	
+//     	    	  log.info(" OSD 2" + Integer.toString(osd) + " currentime " + Double.toString(currentTime));
+//     	    	   Build_and_Send_CAN_Frame( BMSparameter.BMSPGN, Build_SPN());  
+//     	           break;        
      	   }
-            
-            
-            
-            
-            
             
             ////////////////////////////////////////////////////////////////////////////////////////
             // TODO break here if ready to resign and break out of while loop

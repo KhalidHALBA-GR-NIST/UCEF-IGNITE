@@ -231,7 +231,7 @@ public class MCU extends MCUBase {
             ////////////////////////////////////////////////////////////////////////////////////////
 
             checkReceivedSubscriptions();
-            int osd = (int)(currentTime/2) % 10;
+            int osd = (int)(currentTime) % 20;
 
       	   switch (osd)
       	   {

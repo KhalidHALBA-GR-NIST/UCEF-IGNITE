@@ -1,0 +1,71 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-43668, cluster=AV, physical address=10.0.2.15:49869
+-------------------------------------------------------------------
+18:53:37.121 [main] INFO  AV.BMS - waiting on readyToPopulate...
+18:54:00.418 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+18:54:00.418 [main] INFO  AV.BMS - waiting on readyToRun...
+18:54:00.676 [main] INFO  AV.BMS - ...synchronized on readyToRun
+18:54:00.684 [main] INFO  AV.BMS - started logical time progression
+inside
+18:54:00.686 [main] INFO  AV.BMS - obstacle distance 19
+18:54:00.687 [main] INFO  AV.BMS - 19
+inside
+18:54:00.688 [main] INFO  AV.BMS - obstacle distance 18
+18:54:00.688 [main] INFO  AV.BMS - 18
+inside
+18:54:00.688 [main] INFO  AV.BMS - obstacle distance 17
+18:54:00.688 [main] INFO  AV.BMS - 17
+inside
+18:54:00.689 [main] INFO  AV.BMS - obstacle distance 16
+18:54:00.690 [main] INFO  AV.BMS - 16
+inside
+18:54:00.690 [main] INFO  AV.BMS - obstacle distance 15
+18:54:00.691 [main] INFO  AV.BMS - 15
+inside
+18:54:00.691 [main] INFO  AV.BMS - obstacle distance 14
+18:54:00.691 [main] INFO  AV.BMS - 14
+inside
+18:54:00.692 [main] INFO  AV.BMS - obstacle distance 13
+18:54:00.692 [main] INFO  AV.BMS - 13
+inside
+18:54:00.692 [main] INFO  AV.BMS - obstacle distance 12
+18:54:00.692 [main] INFO  AV.BMS - 12
+inside
+18:54:00.692 [main] INFO  AV.BMS - obstacle distance 11
+18:54:00.692 [main] INFO  AV.BMS - 11
+inside
+18:54:00.694 [main] INFO  AV.BMS - obstacle distance 10
+18:54:00.694 [main] INFO  AV.BMS - 10
+inside
+18:54:00.694 [main] INFO  AV.BMS - obstacle distance 9
+18:54:00.694 [main] INFO  AV.BMS - 9
+inside
+18:54:00.694 [main] INFO  AV.BMS - obstacle distance 8
+18:54:00.695 [main] INFO  AV.BMS - 8
+inside
+18:54:00.695 [main] INFO  AV.BMS - obstacle distance 7
+18:54:00.695 [main] INFO  AV.BMS - 7
+inside
+18:54:00.695 [main] INFO  AV.BMS - obstacle distance 6
+18:54:00.698 [main] INFO  AV.BMS - 6
+inside
+18:54:00.706 [main] INFO  AV.BMS - obstacle distance 5
+18:54:00.706 [main] INFO  AV.BMS - 5
+inside
+18:54:00.707 [main] INFO  AV.BMS - obstacle distance 4
+18:54:00.707 [main] INFO  AV.BMS - 4
+inside
+18:54:00.714 [main] INFO  AV.BMS - obstacle distance 3
+18:54:00.725 [main] INFO  AV.BMS - 3
+inside
+18:54:00.726 [main] INFO  AV.BMS - obstacle distance 2
+18:54:00.726 [main] INFO  AV.BMS - 2
+inside
+18:54:00.726 [main] INFO  AV.BMS - obstacle distance 1
+18:54:00.726 [main] INFO  AV.BMS - 1
+inside
+18:54:00.727 [main] INFO  AV.BMS - obstacle distance 0
+18:54:00.727 [main] INFO  AV.BMS - 0
+18:54:00.727 [main] INFO  AV.BMS - 0
+outside

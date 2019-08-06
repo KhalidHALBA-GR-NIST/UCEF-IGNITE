@@ -1,0 +1,312 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-45255, cluster=AV, physical address=10.0.2.15:43014
+-------------------------------------------------------------------
+00:14:11.555 [main] INFO  AV.VCU - waiting on readyToRun...
+00:14:11.812 [main] INFO  AV.VCU - ...synchronized on readyToRun
+00:14:11.815 [main] INFO  AV.VCU - started logical time progression
+00:14:12.077 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.0  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  1.0 current simulation time  1.0
+00:14:13.052 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  4.0 current simulation time  4.0
+speed0 time 4.0
+speed0 time 5.0
+00:14:13.283 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  7.0 current simulation time  7.0
+00:14:13.372 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  8.0 current simulation time  8.0
+00:14:13.567 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  11.0 current simulation time  11.0
+00:14:13.627 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  12.0 current simulation time  12.0
+00:14:13.845 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  15.0 current simulation time  15.0
+00:14:13.905 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  16.0 current simulation time  16.0
+00:14:13.990 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  17.0 current simulation time  17.0
+00:14:14.027 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  18.0 current simulation time  18.0
+00:14:14.153 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  19.0 current simulation time  19.0
+00:14:14.201 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  20.0 current simulation time  20.0
+00:14:14.417 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  23.0 current simulation time  23.0
+00:14:14.472 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  24.0 current simulation time  24.0
+speed0 time 24.0
+speed0 time 25.0
+00:14:14.699 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  27.0 current simulation time  27.0
+00:14:14.764 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  28.0 current simulation time  28.0
+00:14:14.957 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  31.0 current simulation time  31.0
+00:14:15.009 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  32.0 current simulation time  32.0
+00:14:15.189 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  35.0 current simulation time  35.0
+00:14:15.254 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  36.0 current simulation time  36.0
+00:14:15.319 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  37.0 current simulation time  37.0
+00:14:15.366 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  38.0 current simulation time  38.0
+00:14:15.431 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  39.0 current simulation time  39.0
+00:14:15.478 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  40.0 current simulation time  40.0
+00:14:15.673 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  43.0 current simulation time  43.0
+00:14:15.719 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  44.0 current simulation time  44.0
+speed0 time 44.0
+speed0 time 45.0
+00:14:15.904 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  47.0 current simulation time  47.0
+00:14:15.950 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  48.0 current simulation time  48.0
+00:14:16.136 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  51.0 current simulation time  51.0
+00:14:16.189 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  52.0 current simulation time  52.0
+00:14:16.387 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  55.0 current simulation time  55.0
+00:14:16.448 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  56.0 current simulation time  56.0
+00:14:16.496 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  57.0 current simulation time  57.0
+00:14:16.560 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  58.0 current simulation time  58.0
+00:14:16.616 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  59.0 current simulation time  59.0
+00:14:16.673 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  60.0 current simulation time  60.0
+00:14:16.971 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  63.0 current simulation time  63.0
+00:14:17.032 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  64.0 current simulation time  64.0
+speed0 time 64.0
+speed0 time 65.0
+00:14:17.256 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  67.0 current simulation time  67.0
+00:14:17.311 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  68.0 current simulation time  68.0
+00:14:17.601 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  71.0 current simulation time  71.0
+00:14:17.648 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  72.0 current simulation time  72.0
+00:14:17.884 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  75.0 current simulation time  75.0
+00:14:17.938 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  76.0 current simulation time  76.0
+00:14:17.997 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  77.0 current simulation time  77.0
+00:14:18.117 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  78.0 current simulation time  78.0
+00:14:18.170 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  79.0 current simulation time  79.0
+00:14:18.218 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  80.0 current simulation time  80.0
+00:14:18.401 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  83.0 current simulation time  83.0
+00:14:18.443 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  84.0 current simulation time  84.0
+speed0 time 84.0
+speed0 time 85.0
+00:14:18.652 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  87.0 current simulation time  87.0
+00:14:18.708 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  88.0 current simulation time  88.0
+00:14:18.861 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  91.0 current simulation time  91.0
+00:14:18.926 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  92.0 current simulation time  92.0
+00:14:19.221 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  95.0 current simulation time  95.0
+00:14:19.276 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  96.0 current simulation time  96.0
+00:14:19.305 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  97.0 current simulation time  97.0
+00:14:19.389 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  98.0 current simulation time  98.0
+00:14:19.439 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  99.0 current simulation time  99.0
+00:14:19.488 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  100.0 current simulation time  100.0
+00:14:19.660 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  103.0 current simulation time  103.0
+00:14:19.708 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  104.0 current simulation time  104.0
+speed0 time 104.0
+speed0 time 105.0
+00:14:19.865 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  107.0 current simulation time  107.0
+00:14:19.919 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  108.0 current simulation time  108.0
+00:14:20.080 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  111.0 current simulation time  111.0
+00:14:20.129 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  112.0 current simulation time  112.0
+00:14:20.295 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  115.0 current simulation time  115.0
+00:14:20.345 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  116.0 current simulation time  116.0
+00:14:20.399 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  117.0 current simulation time  117.0
+00:14:20.456 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  118.0 current simulation time  118.0
+00:14:20.528 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  119.0 current simulation time  119.0
+00:14:20.584 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  120.0 current simulation time  120.0
+00:14:20.779 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  123.0 current simulation time  123.0
+00:14:20.834 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  124.0 current simulation time  124.0
+speed0 time 124.0
+speed0 time 125.0
+00:14:21.010 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  127.0 current simulation time  127.0
+00:14:21.064 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  128.0 current simulation time  128.0
+00:14:21.258 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  131.0 current simulation time  131.0
+00:14:21.309 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  132.0 current simulation time  132.0
+00:14:21.471 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  135.0 current simulation time  135.0
+00:14:21.543 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  136.0 current simulation time  136.0
+00:14:21.599 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  137.0 current simulation time  137.0
+00:14:21.690 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  138.0 current simulation time  138.0
+00:14:21.731 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  139.0 current simulation time  139.0
+00:14:21.800 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  140.0 current simulation time  140.0
+00:14:21.999 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  143.0 current simulation time  143.0
+00:14:22.048 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  144.0 current simulation time  144.0
+speed0 time 144.0
+speed0 time 145.0
+00:14:22.301 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  147.0 current simulation time  147.0
+00:14:22.353 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  148.0 current simulation time  148.0
+00:14:22.500 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  151.0 current simulation time  151.0
+00:14:22.559 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  152.0 current simulation time  152.0
+00:14:22.734 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  155.0 current simulation time  155.0
+00:14:22.774 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  156.0 current simulation time  156.0
+00:14:22.823 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  157.0 current simulation time  157.0
+00:14:22.905 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  158.0 current simulation time  158.0
+00:14:22.957 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  159.0 current simulation time  159.0
+00:14:23.008 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  160.0 current simulation time  160.0
+00:14:23.159 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  163.0 current simulation time  163.0
+00:14:23.219 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  164.0 current simulation time  164.0
+speed0 time 164.0
+speed0 time 165.0
+00:14:23.401 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  167.0 current simulation time  167.0
+00:14:23.709 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  168.0 current simulation time  168.0
+00:14:23.879 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  171.0 current simulation time  171.0
+00:14:23.990 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  172.0 current simulation time  172.0
+00:14:24.170 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  175.0 current simulation time  175.0
+00:14:24.202 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  176.0 current simulation time  176.0
+00:14:24.298 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  177.0 current simulation time  177.0
+00:14:24.341 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  178.0 current simulation time  178.0
+00:14:24.439 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  179.0 current simulation time  179.0
+00:14:24.498 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  180.0 current simulation time  180.0
+00:14:24.991 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  183.0 current simulation time  183.0
+00:14:25.047 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  184.0 current simulation time  184.0
+speed0 time 184.0
+speed0 time 185.0
+00:14:25.217 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  187.0 current simulation time  187.0
+00:14:25.271 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  188.0 current simulation time  188.0
+00:14:25.481 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  191.0 current simulation time  191.0
+00:14:25.541 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  192.0 current simulation time  192.0
+00:14:25.706 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  195.0 current simulation time  195.0
+00:14:25.753 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  196.0 current simulation time  196.0
+00:14:25.809 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  197.0 current simulation time  197.0
+00:14:25.856 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  198.0 current simulation time  198.0
+00:14:25.914 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  199.0 current simulation time  199.0
+00:14:25.960 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  200.0 current simulation time  200.0
+00:14:26.149 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  203.0 current simulation time  203.0
+00:14:26.201 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  204.0 current simulation time  204.0
+speed0 time 204.0
+speed0 time 205.0
+00:14:26.367 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  207.0 current simulation time  207.0
+00:14:26.424 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  208.0 current simulation time  208.0
+00:14:26.593 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  211.0 current simulation time  211.0
+00:14:26.632 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  212.0 current simulation time  212.0
+00:14:26.820 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  215.0 current simulation time  215.0
+00:14:26.861 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  216.0 current simulation time  216.0
+00:14:26.924 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  217.0 current simulation time  217.0
+00:14:26.979 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  218.0 current simulation time  218.0
+00:14:27.061 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  219.0 current simulation time  219.0
+00:14:27.110 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  220.0 current simulation time  220.0
+00:14:27.266 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  223.0 current simulation time  223.0
+00:14:27.332 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  224.0 current simulation time  224.0
+speed0 time 224.0
+speed0 time 225.0
+00:14:27.520 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  227.0 current simulation time  227.0
+00:14:27.592 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  228.0 current simulation time  228.0
+00:14:27.764 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  231.0 current simulation time  231.0
+00:14:27.796 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  232.0 current simulation time  232.0
+00:14:27.912 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  235.0 current simulation time  235.0
+00:14:27.962 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  236.0 current simulation time  236.0
+00:14:28.015 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  237.0 current simulation time  237.0
+00:14:28.082 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  238.0 current simulation time  238.0
+00:14:28.127 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  239.0 current simulation time  239.0
+00:14:28.190 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  240.0 current simulation time  240.0
+00:14:28.371 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  243.0 current simulation time  243.0
+00:14:28.414 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  244.0 current simulation time  244.0
+speed0 time 244.0
+speed0 time 245.0
+00:14:28.569 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  247.0 current simulation time  247.0
+00:14:28.623 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  248.0 current simulation time  248.0
+00:14:28.777 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  251.0 current simulation time  251.0
+00:14:28.820 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  252.0 current simulation time  252.0
+00:14:28.981 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  255.0 current simulation time  255.0
+00:14:29.035 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  256.0 current simulation time  256.0
+00:14:29.089 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  257.0 current simulation time  257.0
+00:14:29.136 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  258.0 current simulation time  258.0
+00:14:29.195 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  259.0 current simulation time  259.0
+00:14:29.236 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  260.0 current simulation time  260.0
+00:14:29.391 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  263.0 current simulation time  263.0
+00:14:29.447 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  264.0 current simulation time  264.0
+speed0 time 264.0
+speed0 time 265.0
+00:14:29.597 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  267.0 current simulation time  267.0
+00:14:29.655 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  268.0 current simulation time  268.0
+00:14:29.784 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  271.0 current simulation time  271.0
+00:14:29.948 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  272.0 current simulation time  272.0
+00:14:30.090 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  275.0 current simulation time  275.0
+00:14:30.137 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  276.0 current simulation time  276.0
+00:14:30.196 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  277.0 current simulation time  277.0
+00:14:30.245 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  278.0 current simulation time  278.0
+00:14:30.301 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  279.0 current simulation time  279.0
+00:14:30.349 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  280.0 current simulation time  280.0
+00:14:30.501 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  283.0 current simulation time  283.0
+00:14:30.553 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  284.0 current simulation time  284.0
+speed0 time 284.0
+speed0 time 285.0
+00:14:30.725 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  287.0 current simulation time  287.0
+00:14:30.773 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  288.0 current simulation time  288.0
+00:14:30.945 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  291.0 current simulation time  291.0
+00:14:30.985 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  292.0 current simulation time  292.0
+00:14:31.136 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  295.0 current simulation time  295.0
+00:14:31.175 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  296.0 current simulation time  296.0
+00:14:31.232 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  297.0 current simulation time  297.0
+00:14:31.270 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  298.0 current simulation time  298.0
+00:14:31.338 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  299.0 current simulation time  299.0
+00:14:31.373 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  300.0 current simulation time  300.0
+00:14:31.550 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  303.0 current simulation time  303.0
+00:14:31.591 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  304.0 current simulation time  304.0
+speed0 time 304.0
+speed0 time 305.0
+00:14:31.764 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  307.0 current simulation time  307.0
+00:14:31.800 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  308.0 current simulation time  308.0
+00:14:31.961 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  311.0 current simulation time  311.0
+00:14:32.020 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  312.0 current simulation time  312.0
+00:14:32.175 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  315.0 current simulation time  315.0
+00:14:32.235 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  316.0 current simulation time  316.0
+00:14:32.284 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  317.0 current simulation time  317.0
+00:14:32.360 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  318.0 current simulation time  318.0
+00:14:32.412 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  319.0 current simulation time  319.0
+00:14:32.451 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  320.0 current simulation time  320.0
+00:14:32.612 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  323.0 current simulation time  323.0
+00:14:32.659 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  324.0 current simulation time  324.0
+speed0 time 324.0
+speed0 time 325.0
+00:14:32.818 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  327.0 current simulation time  327.0
+00:14:32.866 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  328.0 current simulation time  328.0
+00:14:33.029 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  331.0 current simulation time  331.0
+00:14:33.080 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  332.0 current simulation time  332.0
+00:14:33.240 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  335.0 current simulation time  335.0
+00:14:33.293 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  336.0 current simulation time  336.0
+00:14:33.348 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  337.0 current simulation time  337.0
+00:14:33.405 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  338.0 current simulation time  338.0
+00:14:33.459 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  339.0 current simulation time  339.0
+00:14:33.510 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  340.0 current simulation time  340.0
+00:14:33.665 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  343.0 current simulation time  343.0
+00:14:33.714 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  344.0 current simulation time  344.0
+speed0 time 344.0
+speed0 time 345.0
+00:14:33.889 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  347.0 current simulation time  347.0
+00:14:33.933 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  348.0 current simulation time  348.0
+00:14:34.087 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  351.0 current simulation time  351.0
+00:14:34.137 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  352.0 current simulation time  352.0
+00:14:34.292 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  355.0 current simulation time  355.0
+00:14:34.348 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  356.0 current simulation time  356.0
+00:14:34.386 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  357.0 current simulation time  357.0
+00:14:34.447 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  358.0 current simulation time  358.0
+00:14:34.501 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  359.0 current simulation time  359.0
+00:14:34.544 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  360.0 current simulation time  360.0
+00:14:34.694 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  363.0 current simulation time  363.0
+00:14:34.752 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  364.0 current simulation time  364.0
+speed0 time 364.0
+speed0 time 365.0
+00:14:34.914 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  367.0 current simulation time  367.0
+00:14:34.955 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  368.0 current simulation time  368.0
+00:14:35.096 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  371.0 current simulation time  371.0
+00:14:35.158 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  372.0 current simulation time  372.0
+00:14:35.304 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  375.0 current simulation time  375.0
+00:14:35.346 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  376.0 current simulation time  376.0
+00:14:35.405 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  377.0 current simulation time  377.0
+00:14:35.448 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  378.0 current simulation time  378.0
+00:14:35.489 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  379.0 current simulation time  379.0
+00:14:35.553 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  380.0 current simulation time  380.0
+00:14:35.697 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  383.0 current simulation time  383.0
+00:14:35.765 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  384.0 current simulation time  384.0
+speed0 time 384.0
+speed0 time 385.0
+00:14:35.919 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  387.0 current simulation time  387.0
+00:14:35.966 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  388.0 current simulation time  388.0
+00:14:36.195 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  391.0 current simulation time  391.0
+00:14:36.226 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  392.0 current simulation time  392.0
+00:14:36.311 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  395.0 current simulation time  395.0
+00:14:36.342 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  396.0 current simulation time  396.0
+00:14:36.418 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  397.0 current simulation time  397.0
+00:14:36.472 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  398.0 current simulation time  398.0
+00:14:36.526 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  399.0 current simulation time  399.0
+00:14:36.584 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  400.0 current simulation time  400.0
+00:14:36.727 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  403.0 current simulation time  403.0
+00:14:36.784 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  404.0 current simulation time  404.0
+speed0 time 404.0
+speed0 time 405.0
+00:14:36.955 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  407.0 current simulation time  407.0
+00:14:37.009 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  408.0 current simulation time  408.0
+00:14:37.161 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  411.0 current simulation time  411.0
+00:14:37.218 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  412.0 current simulation time  412.0
+00:14:37.372 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  415.0 current simulation time  415.0
+00:14:37.427 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  416.0 current simulation time  416.0
+00:14:37.469 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  417.0 current simulation time  417.0
+00:14:37.527 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  418.0 current simulation time  418.0
+00:14:37.566 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  419.0 current simulation time  419.0
+00:14:37.625 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  420.0 current simulation time  420.0
+00:14:37.764 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  423.0 current simulation time  423.0
+00:14:37.818 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  424.0 current simulation time  424.0
+speed0 time 424.0
+speed0 time 425.0
+00:14:37.971 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  427.0 current simulation time  427.0
+00:14:38.026 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  428.0 current simulation time  428.0
+00:14:38.175 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  431.0 current simulation time  431.0
+00:14:38.226 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  432.0 current simulation time  432.0
+00:14:38.375 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  435.0 current simulation time  435.0
+00:14:38.429 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  436.0 current simulation time  436.0
+00:14:38.487 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  437.0 current simulation time  437.0

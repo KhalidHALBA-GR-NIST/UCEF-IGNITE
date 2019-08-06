@@ -1,0 +1,846 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-29084, cluster=AV, physical address=10.0.2.15:35891
+-------------------------------------------------------------------
+14:03:17.077 [main] INFO  AV.BMS - waiting on readyToPopulate...
+14:03:41.142 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+14:03:41.142 [main] INFO  AV.BMS - waiting on readyToRun...
+14:03:41.399 [main] INFO  AV.BMS - ...synchronized on readyToRun
+14:03:41.401 [main] INFO  AV.BMS - started logical time progression
+obstacle not detected currenttime 0.0
+14:03:41.402 [main] INFO  AV.BMS -  OSD 00 currentime 0.0
+obstacle not detected currenttime 20.0
+14:03:43.407 [main] INFO  AV.BMS -  OSD 00 currentime 20.0
+obstacle not detected currenttime 40.0
+14:03:44.664 [main] INFO  AV.BMS -  OSD 00 currentime 40.0
+obstacle not detected currenttime 60.0
+14:03:45.733 [main] INFO  AV.BMS -  OSD 00 currentime 60.0
+obstacle not detected currenttime 80.0
+14:03:46.885 [main] INFO  AV.BMS -  OSD 00 currentime 80.0
+obstacle not detected currenttime 100.0
+14:03:47.975 [main] INFO  AV.BMS -  OSD 00 currentime 100.0
+obstacle not detected currenttime 120.0
+14:03:49.037 [main] INFO  AV.BMS -  OSD 00 currentime 120.0
+obstacle not detected currenttime 140.0
+14:03:50.037 [main] INFO  AV.BMS -  OSD 00 currentime 140.0
+obstacle not detected currenttime 160.0
+14:03:51.073 [main] INFO  AV.BMS -  OSD 00 currentime 160.0
+obstacle not detected currenttime 180.0
+14:03:52.331 [main] INFO  AV.BMS -  OSD 00 currentime 180.0
+obstacle not detected currenttime 200.0
+14:03:53.935 [main] INFO  AV.BMS -  OSD 00 currentime 200.0
+obstacle not detected currenttime 220.0
+14:03:54.971 [main] INFO  AV.BMS -  OSD 00 currentime 220.0
+obstacle not detected currenttime 240.0
+14:03:56.109 [main] INFO  AV.BMS -  OSD 00 currentime 240.0
+obstacle not detected currenttime 260.0
+14:03:57.189 [main] INFO  AV.BMS -  OSD 00 currentime 260.0
+obstacle not detected currenttime 280.0
+14:03:58.213 [main] INFO  AV.BMS -  OSD 00 currentime 280.0
+obstacle not detected currenttime 300.0
+14:03:59.333 [main] INFO  AV.BMS -  OSD 00 currentime 300.0
+obstacle not detected currenttime 320.0
+14:04:00.362 [main] INFO  AV.BMS -  OSD 00 currentime 320.0
+obstacle not detected currenttime 340.0
+14:04:01.381 [main] INFO  AV.BMS -  OSD 00 currentime 340.0
+obstacle not detected currenttime 360.0
+14:04:02.395 [main] INFO  AV.BMS -  OSD 00 currentime 360.0
+obstacle not detected currenttime 380.0
+14:04:03.455 [main] INFO  AV.BMS -  OSD 00 currentime 380.0
+obstacle not detected currenttime 400.0
+14:04:04.411 [main] INFO  AV.BMS -  OSD 00 currentime 400.0
+obstacle not detected currenttime 420.0
+14:04:05.547 [main] INFO  AV.BMS -  OSD 00 currentime 420.0
+obstacle not detected currenttime 440.0
+14:04:06.571 [main] INFO  AV.BMS -  OSD 00 currentime 440.0
+obstacle not detected currenttime 460.0
+14:04:07.558 [main] INFO  AV.BMS -  OSD 00 currentime 460.0
+obstacle not detected currenttime 480.0
+14:04:08.541 [main] INFO  AV.BMS -  OSD 00 currentime 480.0
+obstacle not detected currenttime 500.0
+14:04:09.526 [main] INFO  AV.BMS -  OSD 00 currentime 500.0
+obstacle not detected currenttime 520.0
+14:04:10.519 [main] INFO  AV.BMS -  OSD 00 currentime 520.0
+obstacle not detected currenttime 540.0
+14:04:11.509 [main] INFO  AV.BMS -  OSD 00 currentime 540.0
+obstacle not detected currenttime 560.0
+14:04:12.542 [main] INFO  AV.BMS -  OSD 00 currentime 560.0
+obstacle not detected currenttime 580.0
+14:04:13.503 [main] INFO  AV.BMS -  OSD 00 currentime 580.0
+obstacle not detected currenttime 600.0
+14:04:14.507 [main] INFO  AV.BMS -  OSD 00 currentime 600.0
+obstacle not detected currenttime 620.0
+14:04:15.444 [main] INFO  AV.BMS -  OSD 00 currentime 620.0
+obstacle not detected currenttime 640.0
+14:04:16.409 [main] INFO  AV.BMS -  OSD 00 currentime 640.0
+obstacle not detected currenttime 660.0
+14:04:17.374 [main] INFO  AV.BMS -  OSD 00 currentime 660.0
+obstacle not detected currenttime 680.0
+14:04:18.359 [main] INFO  AV.BMS -  OSD 00 currentime 680.0
+obstacle not detected currenttime 700.0
+14:04:19.292 [main] INFO  AV.BMS -  OSD 00 currentime 700.0
+obstacle not detected currenttime 720.0
+14:04:20.294 [main] INFO  AV.BMS -  OSD 00 currentime 720.0
+obstacle not detected currenttime 740.0
+14:04:21.285 [main] INFO  AV.BMS -  OSD 00 currentime 740.0
+obstacle not detected currenttime 760.0
+14:04:22.277 [main] INFO  AV.BMS -  OSD 00 currentime 760.0
+obstacle not detected currenttime 780.0
+14:04:23.226 [main] INFO  AV.BMS -  OSD 00 currentime 780.0
+obstacle not detected currenttime 800.0
+14:04:24.175 [main] INFO  AV.BMS -  OSD 00 currentime 800.0
+obstacle not detected currenttime 820.0
+14:04:25.146 [main] INFO  AV.BMS -  OSD 00 currentime 820.0
+obstacle not detected currenttime 840.0
+14:04:26.145 [main] INFO  AV.BMS -  OSD 00 currentime 840.0
+obstacle not detected currenttime 860.0
+14:04:27.136 [main] INFO  AV.BMS -  OSD 00 currentime 860.0
+obstacle not detected currenttime 880.0
+14:04:28.121 [main] INFO  AV.BMS -  OSD 00 currentime 880.0
+obstacle not detected currenttime 900.0
+14:04:29.118 [main] INFO  AV.BMS -  OSD 00 currentime 900.0
+obstacle not detected currenttime 920.0
+14:04:30.217 [main] INFO  AV.BMS -  OSD 00 currentime 920.0
+obstacle not detected currenttime 940.0
+14:04:31.206 [main] INFO  AV.BMS -  OSD 00 currentime 940.0
+obstacle not detected currenttime 960.0
+14:04:32.088 [main] INFO  AV.BMS -  OSD 00 currentime 960.0
+obstacle not detected currenttime 980.0
+14:04:33.044 [main] INFO  AV.BMS -  OSD 00 currentime 980.0
+obstacle not detected currenttime 1000.0
+14:04:34.031 [main] INFO  AV.BMS -  OSD 00 currentime 1000.0
+obstacle not detected currenttime 1020.0
+14:04:34.996 [main] INFO  AV.BMS -  OSD 00 currentime 1020.0
+obstacle not detected currenttime 1040.0
+14:04:35.950 [main] INFO  AV.BMS -  OSD 00 currentime 1040.0
+obstacle not detected currenttime 1060.0
+14:04:36.907 [main] INFO  AV.BMS -  OSD 00 currentime 1060.0
+obstacle not detected currenttime 1080.0
+14:04:37.807 [main] INFO  AV.BMS -  OSD 00 currentime 1080.0
+obstacle not detected currenttime 1100.0
+14:04:38.759 [main] INFO  AV.BMS -  OSD 00 currentime 1100.0
+obstacle not detected currenttime 1120.0
+14:04:39.729 [main] INFO  AV.BMS -  OSD 00 currentime 1120.0
+obstacle not detected currenttime 1140.0
+14:04:40.715 [main] INFO  AV.BMS -  OSD 00 currentime 1140.0
+obstacle not detected currenttime 1160.0
+14:04:41.693 [main] INFO  AV.BMS -  OSD 00 currentime 1160.0
+obstacle not detected currenttime 1180.0
+14:04:42.654 [main] INFO  AV.BMS -  OSD 00 currentime 1180.0
+obstacle not detected currenttime 1200.0
+14:04:43.668 [main] INFO  AV.BMS -  OSD 00 currentime 1200.0
+obstacle not detected currenttime 1220.0
+14:04:44.672 [main] INFO  AV.BMS -  OSD 00 currentime 1220.0
+obstacle not detected currenttime 1240.0
+14:04:45.675 [main] INFO  AV.BMS -  OSD 00 currentime 1240.0
+obstacle not detected currenttime 1260.0
+14:04:46.663 [main] INFO  AV.BMS -  OSD 00 currentime 1260.0
+obstacle not detected currenttime 1280.0
+14:04:47.664 [main] INFO  AV.BMS -  OSD 00 currentime 1280.0
+obstacle not detected currenttime 1300.0
+14:04:48.660 [main] INFO  AV.BMS -  OSD 00 currentime 1300.0
+obstacle not detected currenttime 1320.0
+14:04:49.614 [main] INFO  AV.BMS -  OSD 00 currentime 1320.0
+obstacle not detected currenttime 1340.0
+14:04:50.567 [main] INFO  AV.BMS -  OSD 00 currentime 1340.0
+obstacle not detected currenttime 1360.0
+14:04:51.553 [main] INFO  AV.BMS -  OSD 00 currentime 1360.0
+obstacle not detected currenttime 1380.0
+14:04:52.548 [main] INFO  AV.BMS -  OSD 00 currentime 1380.0
+obstacle not detected currenttime 1400.0
+14:04:53.537 [main] INFO  AV.BMS -  OSD 00 currentime 1400.0
+obstacle not detected currenttime 1420.0
+14:04:54.549 [main] INFO  AV.BMS -  OSD 00 currentime 1420.0
+obstacle not detected currenttime 1440.0
+14:04:55.483 [main] INFO  AV.BMS -  OSD 00 currentime 1440.0
+obstacle not detected currenttime 1460.0
+14:04:56.519 [main] INFO  AV.BMS -  OSD 00 currentime 1460.0
+obstacle not detected currenttime 1480.0
+14:04:57.538 [main] INFO  AV.BMS -  OSD 00 currentime 1480.0
+obstacle not detected currenttime 1500.0
+14:04:58.520 [main] INFO  AV.BMS -  OSD 00 currentime 1500.0
+obstacle not detected currenttime 1520.0
+14:04:59.509 [main] INFO  AV.BMS -  OSD 00 currentime 1520.0
+obstacle not detected currenttime 1540.0
+14:05:00.509 [main] INFO  AV.BMS -  OSD 00 currentime 1540.0
+obstacle not detected currenttime 1560.0
+14:05:01.500 [main] INFO  AV.BMS -  OSD 00 currentime 1560.0
+obstacle not detected currenttime 1580.0
+14:05:02.466 [main] INFO  AV.BMS -  OSD 00 currentime 1580.0
+obstacle not detected currenttime 1600.0
+14:05:03.331 [main] INFO  AV.BMS -  OSD 00 currentime 1600.0
+obstacle not detected currenttime 1620.0
+14:05:03.941 [main] INFO  AV.BMS -  OSD 00 currentime 1620.0
+obstacle not detected currenttime 1640.0
+14:05:04.866 [main] INFO  AV.BMS -  OSD 00 currentime 1640.0
+obstacle not detected currenttime 1660.0
+14:05:05.850 [main] INFO  AV.BMS -  OSD 00 currentime 1660.0
+obstacle not detected currenttime 1680.0
+14:05:06.818 [main] INFO  AV.BMS -  OSD 00 currentime 1680.0
+obstacle not detected currenttime 1700.0
+14:05:07.767 [main] INFO  AV.BMS -  OSD 00 currentime 1700.0
+obstacle not detected currenttime 1720.0
+14:05:08.711 [main] INFO  AV.BMS -  OSD 00 currentime 1720.0
+obstacle not detected currenttime 1740.0
+14:05:09.688 [main] INFO  AV.BMS -  OSD 00 currentime 1740.0
+obstacle not detected currenttime 1760.0
+14:05:10.695 [main] INFO  AV.BMS -  OSD 00 currentime 1760.0
+obstacle not detected currenttime 1780.0
+14:05:11.693 [main] INFO  AV.BMS -  OSD 00 currentime 1780.0
+obstacle not detected currenttime 1800.0
+14:05:12.626 [main] INFO  AV.BMS -  OSD 00 currentime 1800.0
+obstacle not detected currenttime 1820.0
+14:05:13.589 [main] INFO  AV.BMS -  OSD 00 currentime 1820.0
+obstacle not detected currenttime 1840.0
+14:05:14.627 [main] INFO  AV.BMS -  OSD 00 currentime 1840.0
+obstacle not detected currenttime 1860.0
+14:05:15.607 [main] INFO  AV.BMS -  OSD 00 currentime 1860.0
+obstacle not detected currenttime 1880.0
+14:05:16.484 [main] INFO  AV.BMS -  OSD 00 currentime 1880.0
+obstacle not detected currenttime 1900.0
+14:05:17.485 [main] INFO  AV.BMS -  OSD 00 currentime 1900.0
+obstacle not detected currenttime 1920.0
+14:05:18.482 [main] INFO  AV.BMS -  OSD 00 currentime 1920.0
+obstacle not detected currenttime 1940.0
+14:05:19.459 [main] INFO  AV.BMS -  OSD 00 currentime 1940.0
+obstacle not detected currenttime 1960.0
+14:05:20.456 [main] INFO  AV.BMS -  OSD 00 currentime 1960.0
+obstacle not detected currenttime 1980.0
+14:05:21.470 [main] INFO  AV.BMS -  OSD 00 currentime 1980.0
+obstacle not detected currenttime 2000.0
+14:05:22.449 [main] INFO  AV.BMS -  OSD 00 currentime 2000.0
+obstacle detected
+14:05:23.437 [main] INFO  AV.BMS - obstacle distance true currenttime 2020.0
+14:05:23.438 [main] INFO  AV.BMS -  OSD 00 currentime 2020.0
+obstacle detected
+14:05:24.430 [main] INFO  AV.BMS - obstacle distance true currenttime 2040.0
+14:05:24.431 [main] INFO  AV.BMS -  OSD 00 currentime 2040.0
+obstacle detected
+14:05:25.410 [main] INFO  AV.BMS - obstacle distance true currenttime 2060.0
+14:05:25.410 [main] INFO  AV.BMS -  OSD 00 currentime 2060.0
+obstacle detected
+14:05:26.343 [main] INFO  AV.BMS - obstacle distance true currenttime 2080.0
+14:05:26.343 [main] INFO  AV.BMS -  OSD 00 currentime 2080.0
+obstacle detected
+14:05:27.406 [main] INFO  AV.BMS - obstacle distance true currenttime 2100.0
+14:05:27.407 [main] INFO  AV.BMS -  OSD 00 currentime 2100.0
+obstacle detected
+14:05:28.409 [main] INFO  AV.BMS - obstacle distance true currenttime 2120.0
+14:05:28.409 [main] INFO  AV.BMS -  OSD 00 currentime 2120.0
+obstacle detected
+14:05:29.385 [main] INFO  AV.BMS - obstacle distance true currenttime 2140.0
+14:05:29.387 [main] INFO  AV.BMS -  OSD 00 currentime 2140.0
+obstacle detected
+14:05:30.361 [main] INFO  AV.BMS - obstacle distance true currenttime 2160.0
+14:05:30.361 [main] INFO  AV.BMS -  OSD 00 currentime 2160.0
+obstacle detected
+14:05:31.326 [main] INFO  AV.BMS - obstacle distance true currenttime 2180.0
+14:05:31.327 [main] INFO  AV.BMS -  OSD 00 currentime 2180.0
+obstacle detected
+14:05:32.321 [main] INFO  AV.BMS - obstacle distance true currenttime 2200.0
+14:05:32.322 [main] INFO  AV.BMS -  OSD 00 currentime 2200.0
+obstacle detected
+14:05:33.240 [main] INFO  AV.BMS - obstacle distance true currenttime 2220.0
+14:05:33.241 [main] INFO  AV.BMS -  OSD 00 currentime 2220.0
+obstacle detected
+14:05:34.233 [main] INFO  AV.BMS - obstacle distance true currenttime 2240.0
+14:05:34.234 [main] INFO  AV.BMS -  OSD 00 currentime 2240.0
+obstacle detected
+14:05:35.214 [main] INFO  AV.BMS - obstacle distance true currenttime 2260.0
+14:05:35.214 [main] INFO  AV.BMS -  OSD 00 currentime 2260.0
+obstacle detected
+14:05:36.113 [main] INFO  AV.BMS - obstacle distance true currenttime 2280.0
+14:05:36.114 [main] INFO  AV.BMS -  OSD 00 currentime 2280.0
+obstacle detected
+14:05:37.051 [main] INFO  AV.BMS - obstacle distance true currenttime 2300.0
+14:05:37.052 [main] INFO  AV.BMS -  OSD 00 currentime 2300.0
+obstacle detected
+14:05:38.018 [main] INFO  AV.BMS - obstacle distance true currenttime 2320.0
+14:05:38.018 [main] INFO  AV.BMS -  OSD 00 currentime 2320.0
+obstacle detected
+14:05:39.017 [main] INFO  AV.BMS - obstacle distance true currenttime 2340.0
+14:05:39.017 [main] INFO  AV.BMS -  OSD 00 currentime 2340.0
+obstacle detected
+14:05:40.025 [main] INFO  AV.BMS - obstacle distance true currenttime 2360.0
+14:05:40.026 [main] INFO  AV.BMS -  OSD 00 currentime 2360.0
+obstacle detected
+14:05:41.113 [main] INFO  AV.BMS - obstacle distance true currenttime 2380.0
+14:05:41.114 [main] INFO  AV.BMS -  OSD 00 currentime 2380.0
+obstacle detected
+14:05:42.087 [main] INFO  AV.BMS - obstacle distance true currenttime 2400.0
+14:05:42.089 [main] INFO  AV.BMS -  OSD 00 currentime 2400.0
+obstacle detected
+14:05:43.059 [main] INFO  AV.BMS - obstacle distance true currenttime 2420.0
+14:05:43.060 [main] INFO  AV.BMS -  OSD 00 currentime 2420.0
+obstacle detected
+14:05:44.002 [main] INFO  AV.BMS - obstacle distance true currenttime 2440.0
+14:05:44.003 [main] INFO  AV.BMS -  OSD 00 currentime 2440.0
+obstacle detected
+14:05:44.986 [main] INFO  AV.BMS - obstacle distance true currenttime 2460.0
+14:05:44.987 [main] INFO  AV.BMS -  OSD 00 currentime 2460.0
+obstacle detected
+14:05:45.968 [main] INFO  AV.BMS - obstacle distance true currenttime 2480.0
+14:05:45.969 [main] INFO  AV.BMS -  OSD 00 currentime 2480.0
+obstacle detected
+14:05:46.952 [main] INFO  AV.BMS - obstacle distance true currenttime 2500.0
+14:05:46.952 [main] INFO  AV.BMS -  OSD 00 currentime 2500.0
+obstacle detected
+14:05:47.946 [main] INFO  AV.BMS - obstacle distance true currenttime 2520.0
+14:05:47.947 [main] INFO  AV.BMS -  OSD 00 currentime 2520.0
+obstacle detected
+14:05:48.934 [main] INFO  AV.BMS - obstacle distance true currenttime 2540.0
+14:05:48.935 [main] INFO  AV.BMS -  OSD 00 currentime 2540.0
+obstacle detected
+14:05:49.920 [main] INFO  AV.BMS - obstacle distance true currenttime 2560.0
+14:05:49.920 [main] INFO  AV.BMS -  OSD 00 currentime 2560.0
+obstacle detected
+14:05:50.909 [main] INFO  AV.BMS - obstacle distance true currenttime 2580.0
+14:05:50.910 [main] INFO  AV.BMS -  OSD 00 currentime 2580.0
+obstacle detected
+14:05:51.868 [main] INFO  AV.BMS - obstacle distance true currenttime 2600.0
+14:05:51.869 [main] INFO  AV.BMS -  OSD 00 currentime 2600.0
+obstacle detected
+14:05:52.881 [main] INFO  AV.BMS - obstacle distance true currenttime 2620.0
+14:05:52.882 [main] INFO  AV.BMS -  OSD 00 currentime 2620.0
+obstacle detected
+14:05:53.874 [main] INFO  AV.BMS - obstacle distance true currenttime 2640.0
+14:05:53.874 [main] INFO  AV.BMS -  OSD 00 currentime 2640.0
+obstacle detected
+14:05:54.920 [main] INFO  AV.BMS - obstacle distance true currenttime 2660.0
+14:05:54.923 [main] INFO  AV.BMS -  OSD 00 currentime 2660.0
+obstacle detected
+14:05:55.926 [main] INFO  AV.BMS - obstacle distance true currenttime 2680.0
+14:05:55.927 [main] INFO  AV.BMS -  OSD 00 currentime 2680.0
+obstacle detected
+14:05:56.921 [main] INFO  AV.BMS - obstacle distance true currenttime 2700.0
+14:05:56.921 [main] INFO  AV.BMS -  OSD 00 currentime 2700.0
+obstacle detected
+14:05:57.894 [main] INFO  AV.BMS - obstacle distance true currenttime 2720.0
+14:05:57.894 [main] INFO  AV.BMS -  OSD 00 currentime 2720.0
+obstacle detected
+14:05:58.770 [main] INFO  AV.BMS - obstacle distance true currenttime 2740.0
+14:05:58.771 [main] INFO  AV.BMS -  OSD 00 currentime 2740.0
+obstacle detected
+14:05:59.785 [main] INFO  AV.BMS - obstacle distance true currenttime 2760.0
+14:05:59.786 [main] INFO  AV.BMS -  OSD 00 currentime 2760.0
+obstacle detected
+14:06:00.734 [main] INFO  AV.BMS - obstacle distance true currenttime 2780.0
+14:06:00.734 [main] INFO  AV.BMS -  OSD 00 currentime 2780.0
+obstacle detected
+14:06:01.678 [main] INFO  AV.BMS - obstacle distance true currenttime 2800.0
+14:06:01.681 [main] INFO  AV.BMS -  OSD 00 currentime 2800.0
+obstacle detected
+14:06:02.651 [main] INFO  AV.BMS - obstacle distance true currenttime 2820.0
+14:06:02.651 [main] INFO  AV.BMS -  OSD 00 currentime 2820.0
+obstacle detected
+14:06:03.573 [main] INFO  AV.BMS - obstacle distance true currenttime 2840.0
+14:06:03.573 [main] INFO  AV.BMS -  OSD 00 currentime 2840.0
+obstacle detected
+14:06:04.585 [main] INFO  AV.BMS - obstacle distance true currenttime 2860.0
+14:06:04.585 [main] INFO  AV.BMS -  OSD 00 currentime 2860.0
+obstacle detected
+14:06:05.561 [main] INFO  AV.BMS - obstacle distance true currenttime 2880.0
+14:06:05.562 [main] INFO  AV.BMS -  OSD 00 currentime 2880.0
+obstacle detected
+14:06:06.558 [main] INFO  AV.BMS - obstacle distance true currenttime 2900.0
+14:06:06.558 [main] INFO  AV.BMS -  OSD 00 currentime 2900.0
+obstacle detected
+14:06:07.541 [main] INFO  AV.BMS - obstacle distance true currenttime 2920.0
+14:06:07.542 [main] INFO  AV.BMS -  OSD 00 currentime 2920.0
+obstacle detected
+14:06:08.537 [main] INFO  AV.BMS - obstacle distance true currenttime 2940.0
+14:06:08.537 [main] INFO  AV.BMS -  OSD 00 currentime 2940.0
+obstacle detected
+14:06:09.358 [main] INFO  AV.BMS - obstacle distance true currenttime 2960.0
+14:06:09.358 [main] INFO  AV.BMS -  OSD 00 currentime 2960.0
+obstacle detected
+14:06:10.309 [main] INFO  AV.BMS - obstacle distance true currenttime 2980.0
+14:06:10.309 [main] INFO  AV.BMS -  OSD 00 currentime 2980.0
+obstacle detected
+14:06:11.247 [main] INFO  AV.BMS - obstacle distance true currenttime 3000.0
+14:06:11.248 [main] INFO  AV.BMS -  OSD 00 currentime 3000.0
+obstacle detected
+14:06:12.238 [main] INFO  AV.BMS - obstacle distance true currenttime 3020.0
+14:06:12.239 [main] INFO  AV.BMS -  OSD 00 currentime 3020.0
+obstacle detected
+14:06:13.235 [main] INFO  AV.BMS - obstacle distance true currenttime 3040.0
+14:06:13.235 [main] INFO  AV.BMS -  OSD 00 currentime 3040.0
+obstacle detected
+14:06:14.216 [main] INFO  AV.BMS - obstacle distance true currenttime 3060.0
+14:06:14.216 [main] INFO  AV.BMS -  OSD 00 currentime 3060.0
+obstacle detected
+14:06:15.642 [main] INFO  AV.BMS - obstacle distance true currenttime 3080.0
+14:06:15.643 [main] INFO  AV.BMS -  OSD 00 currentime 3080.0
+obstacle detected
+14:06:16.631 [main] INFO  AV.BMS - obstacle distance true currenttime 3100.0
+14:06:16.632 [main] INFO  AV.BMS -  OSD 00 currentime 3100.0
+obstacle detected
+14:06:17.597 [main] INFO  AV.BMS - obstacle distance true currenttime 3120.0
+14:06:17.597 [main] INFO  AV.BMS -  OSD 00 currentime 3120.0
+obstacle detected
+14:06:18.606 [main] INFO  AV.BMS - obstacle distance true currenttime 3140.0
+14:06:18.606 [main] INFO  AV.BMS -  OSD 00 currentime 3140.0
+obstacle detected
+14:06:19.609 [main] INFO  AV.BMS - obstacle distance true currenttime 3160.0
+14:06:19.609 [main] INFO  AV.BMS -  OSD 00 currentime 3160.0
+obstacle detected
+14:06:20.601 [main] INFO  AV.BMS - obstacle distance true currenttime 3180.0
+14:06:20.605 [main] INFO  AV.BMS -  OSD 00 currentime 3180.0
+obstacle detected
+14:06:21.619 [main] INFO  AV.BMS - obstacle distance true currenttime 3200.0
+14:06:21.619 [main] INFO  AV.BMS -  OSD 00 currentime 3200.0
+obstacle detected
+14:06:22.575 [main] INFO  AV.BMS - obstacle distance true currenttime 3220.0
+14:06:22.575 [main] INFO  AV.BMS -  OSD 00 currentime 3220.0
+obstacle detected
+14:06:23.576 [main] INFO  AV.BMS - obstacle distance true currenttime 3240.0
+14:06:23.577 [main] INFO  AV.BMS -  OSD 00 currentime 3240.0
+obstacle detected
+14:06:24.570 [main] INFO  AV.BMS - obstacle distance true currenttime 3260.0
+14:06:24.571 [main] INFO  AV.BMS -  OSD 00 currentime 3260.0
+obstacle detected
+14:06:25.469 [main] INFO  AV.BMS - obstacle distance true currenttime 3280.0
+14:06:25.470 [main] INFO  AV.BMS -  OSD 00 currentime 3280.0
+obstacle detected
+14:06:26.422 [main] INFO  AV.BMS - obstacle distance true currenttime 3300.0
+14:06:26.423 [main] INFO  AV.BMS -  OSD 00 currentime 3300.0
+obstacle detected
+14:06:27.426 [main] INFO  AV.BMS - obstacle distance true currenttime 3320.0
+14:06:27.426 [main] INFO  AV.BMS -  OSD 00 currentime 3320.0
+obstacle detected
+14:06:28.432 [main] INFO  AV.BMS - obstacle distance true currenttime 3340.0
+14:06:28.432 [main] INFO  AV.BMS -  OSD 00 currentime 3340.0
+obstacle detected
+14:06:29.411 [main] INFO  AV.BMS - obstacle distance true currenttime 3360.0
+14:06:29.412 [main] INFO  AV.BMS -  OSD 00 currentime 3360.0
+obstacle detected
+14:06:30.403 [main] INFO  AV.BMS - obstacle distance true currenttime 3380.0
+14:06:30.404 [main] INFO  AV.BMS -  OSD 00 currentime 3380.0
+obstacle detected
+14:06:31.404 [main] INFO  AV.BMS - obstacle distance true currenttime 3400.0
+14:06:31.404 [main] INFO  AV.BMS -  OSD 00 currentime 3400.0
+obstacle detected
+14:06:32.387 [main] INFO  AV.BMS - obstacle distance true currenttime 3420.0
+14:06:32.388 [main] INFO  AV.BMS -  OSD 00 currentime 3420.0
+obstacle detected
+14:06:33.383 [main] INFO  AV.BMS - obstacle distance true currenttime 3440.0
+14:06:33.383 [main] INFO  AV.BMS -  OSD 00 currentime 3440.0
+obstacle detected
+14:06:34.352 [main] INFO  AV.BMS - obstacle distance true currenttime 3460.0
+14:06:34.352 [main] INFO  AV.BMS -  OSD 00 currentime 3460.0
+obstacle detected
+14:06:35.366 [main] INFO  AV.BMS - obstacle distance true currenttime 3480.0
+14:06:35.367 [main] INFO  AV.BMS -  OSD 00 currentime 3480.0
+obstacle detected
+14:06:36.367 [main] INFO  AV.BMS - obstacle distance true currenttime 3500.0
+14:06:36.368 [main] INFO  AV.BMS -  OSD 00 currentime 3500.0
+obstacle detected
+14:06:37.843 [main] INFO  AV.BMS - obstacle distance true currenttime 3520.0
+14:06:37.847 [main] INFO  AV.BMS -  OSD 00 currentime 3520.0
+obstacle detected
+14:06:38.821 [main] INFO  AV.BMS - obstacle distance true currenttime 3540.0
+14:06:38.822 [main] INFO  AV.BMS -  OSD 00 currentime 3540.0
+obstacle detected
+14:06:39.902 [main] INFO  AV.BMS - obstacle distance true currenttime 3560.0
+14:06:39.903 [main] INFO  AV.BMS -  OSD 00 currentime 3560.0
+obstacle detected
+14:06:40.863 [main] INFO  AV.BMS - obstacle distance true currenttime 3580.0
+14:06:40.864 [main] INFO  AV.BMS -  OSD 00 currentime 3580.0
+obstacle detected
+14:06:41.468 [main] INFO  AV.BMS - obstacle distance true currenttime 3600.0
+14:06:41.468 [main] INFO  AV.BMS -  OSD 00 currentime 3600.0
+obstacle detected
+14:06:42.255 [main] INFO  AV.BMS - obstacle distance true currenttime 3620.0
+14:06:42.255 [main] INFO  AV.BMS -  OSD 00 currentime 3620.0
+obstacle detected
+14:06:43.207 [main] INFO  AV.BMS - obstacle distance true currenttime 3640.0
+14:06:43.208 [main] INFO  AV.BMS -  OSD 00 currentime 3640.0
+obstacle detected
+14:06:44.195 [main] INFO  AV.BMS - obstacle distance true currenttime 3660.0
+14:06:44.195 [main] INFO  AV.BMS -  OSD 00 currentime 3660.0
+obstacle detected
+14:06:45.015 [main] INFO  AV.BMS - obstacle distance true currenttime 3680.0
+14:06:45.015 [main] INFO  AV.BMS -  OSD 00 currentime 3680.0
+obstacle detected
+14:06:45.673 [main] INFO  AV.BMS - obstacle distance true currenttime 3700.0
+14:06:45.674 [main] INFO  AV.BMS -  OSD 00 currentime 3700.0
+obstacle detected
+14:06:46.641 [main] INFO  AV.BMS - obstacle distance true currenttime 3720.0
+14:06:46.643 [main] INFO  AV.BMS -  OSD 00 currentime 3720.0
+obstacle detected
+14:06:47.664 [main] INFO  AV.BMS - obstacle distance true currenttime 3740.0
+14:06:47.664 [main] INFO  AV.BMS -  OSD 00 currentime 3740.0
+obstacle detected
+14:06:48.667 [main] INFO  AV.BMS - obstacle distance true currenttime 3760.0
+14:06:48.668 [main] INFO  AV.BMS -  OSD 00 currentime 3760.0
+obstacle detected
+14:06:49.683 [main] INFO  AV.BMS - obstacle distance true currenttime 3780.0
+14:06:49.683 [main] INFO  AV.BMS -  OSD 00 currentime 3780.0
+obstacle detected
+14:06:50.640 [main] INFO  AV.BMS - obstacle distance true currenttime 3800.0
+14:06:50.645 [main] INFO  AV.BMS -  OSD 00 currentime 3800.0
+obstacle detected
+14:06:51.611 [main] INFO  AV.BMS - obstacle distance true currenttime 3820.0
+14:06:51.615 [main] INFO  AV.BMS -  OSD 00 currentime 3820.0
+obstacle detected
+14:06:52.615 [main] INFO  AV.BMS - obstacle distance true currenttime 3840.0
+14:06:52.616 [main] INFO  AV.BMS -  OSD 00 currentime 3840.0
+obstacle detected
+14:06:53.630 [main] INFO  AV.BMS - obstacle distance true currenttime 3860.0
+14:06:53.631 [main] INFO  AV.BMS -  OSD 00 currentime 3860.0
+obstacle detected
+14:06:54.675 [main] INFO  AV.BMS - obstacle distance true currenttime 3880.0
+14:06:54.675 [main] INFO  AV.BMS -  OSD 00 currentime 3880.0
+obstacle detected
+14:06:55.622 [main] INFO  AV.BMS - obstacle distance true currenttime 3900.0
+14:06:55.622 [main] INFO  AV.BMS -  OSD 00 currentime 3900.0
+obstacle detected
+14:06:56.579 [main] INFO  AV.BMS - obstacle distance true currenttime 3920.0
+14:06:56.579 [main] INFO  AV.BMS -  OSD 00 currentime 3920.0
+obstacle detected
+14:06:57.609 [main] INFO  AV.BMS - obstacle distance true currenttime 3940.0
+14:06:57.610 [main] INFO  AV.BMS -  OSD 00 currentime 3940.0
+obstacle detected
+14:06:58.587 [main] INFO  AV.BMS - obstacle distance true currenttime 3960.0
+14:06:58.588 [main] INFO  AV.BMS -  OSD 00 currentime 3960.0
+obstacle detected
+14:06:59.583 [main] INFO  AV.BMS - obstacle distance true currenttime 3980.0
+14:06:59.584 [main] INFO  AV.BMS -  OSD 00 currentime 3980.0
+obstacle detected
+14:07:00.615 [main] INFO  AV.BMS - obstacle distance true currenttime 4000.0
+14:07:00.615 [main] INFO  AV.BMS -  OSD 00 currentime 4000.0
+obstacle detected
+14:07:01.574 [main] INFO  AV.BMS - obstacle distance true currenttime 4020.0
+14:07:01.574 [main] INFO  AV.BMS -  OSD 00 currentime 4020.0
+obstacle detected
+14:07:02.645 [main] INFO  AV.BMS - obstacle distance true currenttime 4040.0
+14:07:02.647 [main] INFO  AV.BMS -  OSD 00 currentime 4040.0
+obstacle detected
+14:07:03.661 [main] INFO  AV.BMS - obstacle distance true currenttime 4060.0
+14:07:03.661 [main] INFO  AV.BMS -  OSD 00 currentime 4060.0
+obstacle detected
+14:07:04.374 [main] INFO  AV.BMS - obstacle distance true currenttime 4080.0
+14:07:04.375 [main] INFO  AV.BMS -  OSD 00 currentime 4080.0
+obstacle detected
+14:07:05.226 [main] INFO  AV.BMS - obstacle distance true currenttime 4100.0
+14:07:05.231 [main] INFO  AV.BMS -  OSD 00 currentime 4100.0
+obstacle detected
+14:07:06.220 [main] INFO  AV.BMS - obstacle distance true currenttime 4120.0
+14:07:06.223 [main] INFO  AV.BMS -  OSD 00 currentime 4120.0
+obstacle detected
+14:07:07.247 [main] INFO  AV.BMS - obstacle distance true currenttime 4140.0
+14:07:07.248 [main] INFO  AV.BMS -  OSD 00 currentime 4140.0
+obstacle detected
+14:07:08.229 [main] INFO  AV.BMS - obstacle distance true currenttime 4160.0
+14:07:08.229 [main] INFO  AV.BMS -  OSD 00 currentime 4160.0
+obstacle detected
+14:07:09.234 [main] INFO  AV.BMS - obstacle distance true currenttime 4180.0
+14:07:09.234 [main] INFO  AV.BMS -  OSD 00 currentime 4180.0
+obstacle detected
+14:07:10.231 [main] INFO  AV.BMS - obstacle distance true currenttime 4200.0
+14:07:10.232 [main] INFO  AV.BMS -  OSD 00 currentime 4200.0
+obstacle detected
+14:07:11.385 [main] INFO  AV.BMS - obstacle distance true currenttime 4220.0
+14:07:11.385 [main] INFO  AV.BMS -  OSD 00 currentime 4220.0
+obstacle detected
+14:07:12.392 [main] INFO  AV.BMS - obstacle distance true currenttime 4240.0
+14:07:12.393 [main] INFO  AV.BMS -  OSD 00 currentime 4240.0
+obstacle detected
+14:07:13.337 [main] INFO  AV.BMS - obstacle distance true currenttime 4260.0
+14:07:13.340 [main] INFO  AV.BMS -  OSD 00 currentime 4260.0
+obstacle detected
+14:07:14.314 [main] INFO  AV.BMS - obstacle distance true currenttime 4280.0
+14:07:14.315 [main] INFO  AV.BMS -  OSD 00 currentime 4280.0
+obstacle detected
+14:07:15.324 [main] INFO  AV.BMS - obstacle distance true currenttime 4300.0
+14:07:15.324 [main] INFO  AV.BMS -  OSD 00 currentime 4300.0
+obstacle detected
+14:07:16.334 [main] INFO  AV.BMS - obstacle distance true currenttime 4320.0
+14:07:16.335 [main] INFO  AV.BMS -  OSD 00 currentime 4320.0
+obstacle detected
+14:07:17.313 [main] INFO  AV.BMS - obstacle distance true currenttime 4340.0
+14:07:17.315 [main] INFO  AV.BMS -  OSD 00 currentime 4340.0
+obstacle detected
+14:07:18.314 [main] INFO  AV.BMS - obstacle distance true currenttime 4360.0
+14:07:18.314 [main] INFO  AV.BMS -  OSD 00 currentime 4360.0
+obstacle detected
+14:07:19.338 [main] INFO  AV.BMS - obstacle distance true currenttime 4380.0
+14:07:19.338 [main] INFO  AV.BMS -  OSD 00 currentime 4380.0
+obstacle detected
+14:07:20.256 [main] INFO  AV.BMS - obstacle distance true currenttime 4400.0
+14:07:20.256 [main] INFO  AV.BMS -  OSD 00 currentime 4400.0
+obstacle detected
+14:07:21.192 [main] INFO  AV.BMS - obstacle distance true currenttime 4420.0
+14:07:21.192 [main] INFO  AV.BMS -  OSD 00 currentime 4420.0
+obstacle detected
+14:07:22.156 [main] INFO  AV.BMS - obstacle distance true currenttime 4440.0
+14:07:22.157 [main] INFO  AV.BMS -  OSD 00 currentime 4440.0
+obstacle detected
+14:07:23.115 [main] INFO  AV.BMS - obstacle distance true currenttime 4460.0
+14:07:23.115 [main] INFO  AV.BMS -  OSD 00 currentime 4460.0
+obstacle detected
+14:07:24.126 [main] INFO  AV.BMS - obstacle distance true currenttime 4480.0
+14:07:24.128 [main] INFO  AV.BMS -  OSD 00 currentime 4480.0
+obstacle detected
+14:07:25.113 [main] INFO  AV.BMS - obstacle distance true currenttime 4500.0
+14:07:25.114 [main] INFO  AV.BMS -  OSD 00 currentime 4500.0
+obstacle detected
+14:07:26.112 [main] INFO  AV.BMS - obstacle distance true currenttime 4520.0
+14:07:26.113 [main] INFO  AV.BMS -  OSD 00 currentime 4520.0
+obstacle detected
+14:07:27.094 [main] INFO  AV.BMS - obstacle distance true currenttime 4540.0
+14:07:27.094 [main] INFO  AV.BMS -  OSD 00 currentime 4540.0
+obstacle detected
+14:07:28.202 [main] INFO  AV.BMS - obstacle distance true currenttime 4560.0
+14:07:28.203 [main] INFO  AV.BMS -  OSD 00 currentime 4560.0
+obstacle detected
+14:07:29.174 [main] INFO  AV.BMS - obstacle distance true currenttime 4580.0
+14:07:29.179 [main] INFO  AV.BMS -  OSD 00 currentime 4580.0
+obstacle detected
+14:07:30.185 [main] INFO  AV.BMS - obstacle distance true currenttime 4600.0
+14:07:30.192 [main] INFO  AV.BMS -  OSD 00 currentime 4600.0
+obstacle detected
+14:07:31.173 [main] INFO  AV.BMS - obstacle distance true currenttime 4620.0
+14:07:31.173 [main] INFO  AV.BMS -  OSD 00 currentime 4620.0
+obstacle detected
+14:07:32.183 [main] INFO  AV.BMS - obstacle distance true currenttime 4640.0
+14:07:32.187 [main] INFO  AV.BMS -  OSD 00 currentime 4640.0
+obstacle detected
+14:07:33.241 [main] INFO  AV.BMS - obstacle distance true currenttime 4660.0
+14:07:33.242 [main] INFO  AV.BMS -  OSD 00 currentime 4660.0
+obstacle detected
+14:07:34.204 [main] INFO  AV.BMS - obstacle distance true currenttime 4680.0
+14:07:34.204 [main] INFO  AV.BMS -  OSD 00 currentime 4680.0
+obstacle detected
+14:07:35.182 [main] INFO  AV.BMS - obstacle distance true currenttime 4700.0
+14:07:35.183 [main] INFO  AV.BMS -  OSD 00 currentime 4700.0
+obstacle detected
+14:07:36.223 [main] INFO  AV.BMS - obstacle distance true currenttime 4720.0
+14:07:36.223 [main] INFO  AV.BMS -  OSD 00 currentime 4720.0
+obstacle detected
+14:07:37.214 [main] INFO  AV.BMS - obstacle distance true currenttime 4740.0
+14:07:37.217 [main] INFO  AV.BMS -  OSD 00 currentime 4740.0
+obstacle detected
+14:07:38.203 [main] INFO  AV.BMS - obstacle distance true currenttime 4760.0
+14:07:38.204 [main] INFO  AV.BMS -  OSD 00 currentime 4760.0
+obstacle detected
+14:07:39.084 [main] INFO  AV.BMS - obstacle distance true currenttime 4780.0
+14:07:39.085 [main] INFO  AV.BMS -  OSD 00 currentime 4780.0
+obstacle detected
+14:07:40.054 [main] INFO  AV.BMS - obstacle distance true currenttime 4800.0
+14:07:40.054 [main] INFO  AV.BMS -  OSD 00 currentime 4800.0
+obstacle detected
+14:07:41.041 [main] INFO  AV.BMS - obstacle distance true currenttime 4820.0
+14:07:41.042 [main] INFO  AV.BMS -  OSD 00 currentime 4820.0
+obstacle detected
+14:07:42.040 [main] INFO  AV.BMS - obstacle distance true currenttime 4840.0
+14:07:42.040 [main] INFO  AV.BMS -  OSD 00 currentime 4840.0
+obstacle detected
+14:07:43.035 [main] INFO  AV.BMS - obstacle distance true currenttime 4860.0
+14:07:43.036 [main] INFO  AV.BMS -  OSD 00 currentime 4860.0
+obstacle detected
+14:07:43.935 [main] INFO  AV.BMS - obstacle distance true currenttime 4880.0
+14:07:43.936 [main] INFO  AV.BMS -  OSD 00 currentime 4880.0
+obstacle detected
+14:07:45.077 [main] INFO  AV.BMS - obstacle distance true currenttime 4900.0
+14:07:45.077 [main] INFO  AV.BMS -  OSD 00 currentime 4900.0
+obstacle detected
+14:07:46.042 [main] INFO  AV.BMS - obstacle distance true currenttime 4920.0
+14:07:46.043 [main] INFO  AV.BMS -  OSD 00 currentime 4920.0
+obstacle detected
+14:07:47.031 [main] INFO  AV.BMS - obstacle distance true currenttime 4940.0
+14:07:47.032 [main] INFO  AV.BMS -  OSD 00 currentime 4940.0
+obstacle detected
+14:07:48.024 [main] INFO  AV.BMS - obstacle distance true currenttime 4960.0
+14:07:48.024 [main] INFO  AV.BMS -  OSD 00 currentime 4960.0
+obstacle detected
+14:07:49.035 [main] INFO  AV.BMS - obstacle distance true currenttime 4980.0
+14:07:49.036 [main] INFO  AV.BMS -  OSD 00 currentime 4980.0
+obstacle detected
+14:07:50.002 [main] INFO  AV.BMS - obstacle distance true currenttime 5000.0
+14:07:50.002 [main] INFO  AV.BMS -  OSD 00 currentime 5000.0
+obstacle detected
+14:07:50.961 [main] INFO  AV.BMS - obstacle distance true currenttime 5020.0
+14:07:50.962 [main] INFO  AV.BMS -  OSD 00 currentime 5020.0
+obstacle detected
+14:07:51.916 [main] INFO  AV.BMS - obstacle distance true currenttime 5040.0
+14:07:51.918 [main] INFO  AV.BMS -  OSD 00 currentime 5040.0
+obstacle detected
+14:07:52.903 [main] INFO  AV.BMS - obstacle distance true currenttime 5060.0
+14:07:52.904 [main] INFO  AV.BMS -  OSD 00 currentime 5060.0
+obstacle detected
+14:07:53.859 [main] INFO  AV.BMS - obstacle distance true currenttime 5080.0
+14:07:53.859 [main] INFO  AV.BMS -  OSD 00 currentime 5080.0
+obstacle detected
+14:07:54.851 [main] INFO  AV.BMS - obstacle distance true currenttime 5100.0
+14:07:54.851 [main] INFO  AV.BMS -  OSD 00 currentime 5100.0
+obstacle detected
+14:07:55.839 [main] INFO  AV.BMS - obstacle distance true currenttime 5120.0
+14:07:55.839 [main] INFO  AV.BMS -  OSD 00 currentime 5120.0
+obstacle detected
+14:07:56.872 [main] INFO  AV.BMS - obstacle distance true currenttime 5140.0
+14:07:56.872 [main] INFO  AV.BMS -  OSD 00 currentime 5140.0
+obstacle detected
+14:07:57.877 [main] INFO  AV.BMS - obstacle distance true currenttime 5160.0
+14:07:57.878 [main] INFO  AV.BMS -  OSD 00 currentime 5160.0
+obstacle detected
+14:07:58.904 [main] INFO  AV.BMS - obstacle distance true currenttime 5180.0
+14:07:58.905 [main] INFO  AV.BMS -  OSD 00 currentime 5180.0
+obstacle detected
+14:07:59.872 [main] INFO  AV.BMS - obstacle distance true currenttime 5200.0
+14:07:59.872 [main] INFO  AV.BMS -  OSD 00 currentime 5200.0
+obstacle detected
+14:08:00.912 [main] INFO  AV.BMS - obstacle distance true currenttime 5220.0
+14:08:00.913 [main] INFO  AV.BMS -  OSD 00 currentime 5220.0
+obstacle detected
+14:08:01.904 [main] INFO  AV.BMS - obstacle distance true currenttime 5240.0
+14:08:01.904 [main] INFO  AV.BMS -  OSD 00 currentime 5240.0
+obstacle detected
+14:08:02.998 [main] INFO  AV.BMS - obstacle distance true currenttime 5260.0
+14:08:02.998 [main] INFO  AV.BMS -  OSD 00 currentime 5260.0
+obstacle detected
+14:08:03.986 [main] INFO  AV.BMS - obstacle distance true currenttime 5280.0
+14:08:03.986 [main] INFO  AV.BMS -  OSD 00 currentime 5280.0
+obstacle detected
+14:08:04.989 [main] INFO  AV.BMS - obstacle distance true currenttime 5300.0
+14:08:04.989 [main] INFO  AV.BMS -  OSD 00 currentime 5300.0
+obstacle detected
+14:08:05.980 [main] INFO  AV.BMS - obstacle distance true currenttime 5320.0
+14:08:05.980 [main] INFO  AV.BMS -  OSD 00 currentime 5320.0
+obstacle detected
+14:08:06.980 [main] INFO  AV.BMS - obstacle distance true currenttime 5340.0
+14:08:06.980 [main] INFO  AV.BMS -  OSD 00 currentime 5340.0
+obstacle detected
+14:08:07.952 [main] INFO  AV.BMS - obstacle distance true currenttime 5360.0
+14:08:07.952 [main] INFO  AV.BMS -  OSD 00 currentime 5360.0
+obstacle detected
+14:08:08.951 [main] INFO  AV.BMS - obstacle distance true currenttime 5380.0
+14:08:08.951 [main] INFO  AV.BMS -  OSD 00 currentime 5380.0
+obstacle detected
+14:08:09.935 [main] INFO  AV.BMS - obstacle distance true currenttime 5400.0
+14:08:09.935 [main] INFO  AV.BMS -  OSD 00 currentime 5400.0
+obstacle detected
+14:08:11.260 [main] INFO  AV.BMS - obstacle distance true currenttime 5420.0
+14:08:11.261 [main] INFO  AV.BMS -  OSD 00 currentime 5420.0
+obstacle detected
+14:08:12.263 [main] INFO  AV.BMS - obstacle distance true currenttime 5440.0
+14:08:12.264 [main] INFO  AV.BMS -  OSD 00 currentime 5440.0
+obstacle detected
+14:08:13.247 [main] INFO  AV.BMS - obstacle distance true currenttime 5460.0
+14:08:13.247 [main] INFO  AV.BMS -  OSD 00 currentime 5460.0
+obstacle detected
+14:08:14.210 [main] INFO  AV.BMS - obstacle distance true currenttime 5480.0
+14:08:14.211 [main] INFO  AV.BMS -  OSD 00 currentime 5480.0
+obstacle detected
+14:08:15.245 [main] INFO  AV.BMS - obstacle distance true currenttime 5500.0
+14:08:15.247 [main] INFO  AV.BMS -  OSD 00 currentime 5500.0
+obstacle detected
+14:08:16.239 [main] INFO  AV.BMS - obstacle distance true currenttime 5520.0
+14:08:16.240 [main] INFO  AV.BMS -  OSD 00 currentime 5520.0
+obstacle detected
+14:08:17.220 [main] INFO  AV.BMS - obstacle distance true currenttime 5540.0
+14:08:17.220 [main] INFO  AV.BMS -  OSD 00 currentime 5540.0
+obstacle detected
+14:08:18.671 [main] INFO  AV.BMS - obstacle distance true currenttime 5560.0
+14:08:18.671 [main] INFO  AV.BMS -  OSD 00 currentime 5560.0
+obstacle detected
+14:08:19.678 [main] INFO  AV.BMS - obstacle distance true currenttime 5580.0
+14:08:19.679 [main] INFO  AV.BMS -  OSD 00 currentime 5580.0
+obstacle detected
+14:08:20.656 [main] INFO  AV.BMS - obstacle distance true currenttime 5600.0
+14:08:20.657 [main] INFO  AV.BMS -  OSD 00 currentime 5600.0
+obstacle detected
+14:08:21.703 [main] INFO  AV.BMS - obstacle distance true currenttime 5620.0
+14:08:21.706 [main] INFO  AV.BMS -  OSD 00 currentime 5620.0
+obstacle detected
+14:08:22.690 [main] INFO  AV.BMS - obstacle distance true currenttime 5640.0
+14:08:22.691 [main] INFO  AV.BMS -  OSD 00 currentime 5640.0
+obstacle detected
+14:08:23.673 [main] INFO  AV.BMS - obstacle distance true currenttime 5660.0
+14:08:23.673 [main] INFO  AV.BMS -  OSD 00 currentime 5660.0
+obstacle detected
+14:08:24.658 [main] INFO  AV.BMS - obstacle distance true currenttime 5680.0
+14:08:24.660 [main] INFO  AV.BMS -  OSD 00 currentime 5680.0
+obstacle detected
+14:08:26.055 [main] INFO  AV.BMS - obstacle distance true currenttime 5700.0
+14:08:26.055 [main] INFO  AV.BMS -  OSD 00 currentime 5700.0
+obstacle detected
+14:08:26.910 [main] INFO  AV.BMS - obstacle distance true currenttime 5720.0
+14:08:26.911 [main] INFO  AV.BMS -  OSD 00 currentime 5720.0
+obstacle detected
+14:08:27.918 [main] INFO  AV.BMS - obstacle distance true currenttime 5740.0
+14:08:27.918 [main] INFO  AV.BMS -  OSD 00 currentime 5740.0
+obstacle detected
+14:08:28.878 [main] INFO  AV.BMS - obstacle distance true currenttime 5760.0
+14:08:28.878 [main] INFO  AV.BMS -  OSD 00 currentime 5760.0
+obstacle detected
+14:08:29.870 [main] INFO  AV.BMS - obstacle distance true currenttime 5780.0
+14:08:29.871 [main] INFO  AV.BMS -  OSD 00 currentime 5780.0
+obstacle detected
+14:08:30.865 [main] INFO  AV.BMS - obstacle distance true currenttime 5800.0
+14:08:30.866 [main] INFO  AV.BMS -  OSD 00 currentime 5800.0
+obstacle detected
+14:08:31.808 [main] INFO  AV.BMS - obstacle distance true currenttime 5820.0
+14:08:31.808 [main] INFO  AV.BMS -  OSD 00 currentime 5820.0
+obstacle detected
+14:08:32.816 [main] INFO  AV.BMS - obstacle distance true currenttime 5840.0
+14:08:32.817 [main] INFO  AV.BMS -  OSD 00 currentime 5840.0
+obstacle detected
+14:08:33.761 [main] INFO  AV.BMS - obstacle distance true currenttime 5860.0
+14:08:33.762 [main] INFO  AV.BMS -  OSD 00 currentime 5860.0
+obstacle detected
+14:08:34.699 [main] INFO  AV.BMS - obstacle distance true currenttime 5880.0
+14:08:34.699 [main] INFO  AV.BMS -  OSD 00 currentime 5880.0
+obstacle detected
+14:08:35.594 [main] INFO  AV.BMS - obstacle distance true currenttime 5900.0
+14:08:35.595 [main] INFO  AV.BMS -  OSD 00 currentime 5900.0
+obstacle detected
+14:08:36.277 [main] INFO  AV.BMS - obstacle distance true currenttime 5920.0
+14:08:36.278 [main] INFO  AV.BMS -  OSD 00 currentime 5920.0
+obstacle detected
+14:08:37.176 [main] INFO  AV.BMS - obstacle distance true currenttime 5940.0
+14:08:37.177 [main] INFO  AV.BMS -  OSD 00 currentime 5940.0
+obstacle detected
+14:08:38.131 [main] INFO  AV.BMS - obstacle distance true currenttime 5960.0
+14:08:38.131 [main] INFO  AV.BMS -  OSD 00 currentime 5960.0
+obstacle detected
+14:08:39.128 [main] INFO  AV.BMS - obstacle distance true currenttime 5980.0
+14:08:39.128 [main] INFO  AV.BMS -  OSD 00 currentime 5980.0
+obstacle not detected currenttime 6000.0
+14:08:40.232 [main] INFO  AV.BMS -  OSD 00 currentime 6000.0
+obstacle not detected currenttime 6020.0
+14:08:41.235 [main] INFO  AV.BMS -  OSD 00 currentime 6020.0
+obstacle not detected currenttime 6040.0
+14:08:42.147 [main] INFO  AV.BMS -  OSD 00 currentime 6040.0
+obstacle not detected currenttime 6060.0
+14:08:43.124 [main] INFO  AV.BMS -  OSD 00 currentime 6060.0
+obstacle not detected currenttime 6080.0
+14:08:44.110 [main] INFO  AV.BMS -  OSD 00 currentime 6080.0
+obstacle not detected currenttime 6100.0
+14:08:45.126 [main] INFO  AV.BMS -  OSD 00 currentime 6100.0
+obstacle not detected currenttime 6120.0
+14:08:46.100 [main] INFO  AV.BMS -  OSD 00 currentime 6120.0
+obstacle not detected currenttime 6140.0
+14:08:47.143 [main] INFO  AV.BMS -  OSD 00 currentime 6140.0
+obstacle not detected currenttime 6160.0
+14:08:48.132 [main] INFO  AV.BMS -  OSD 00 currentime 6160.0
+obstacle not detected currenttime 6180.0
+14:08:49.102 [main] INFO  AV.BMS -  OSD 00 currentime 6180.0
+obstacle not detected currenttime 6200.0
+14:08:50.072 [main] INFO  AV.BMS -  OSD 00 currentime 6200.0
+obstacle not detected currenttime 6220.0
+14:08:51.042 [main] INFO  AV.BMS -  OSD 00 currentime 6220.0
+obstacle not detected currenttime 6240.0
+14:08:51.998 [main] INFO  AV.BMS -  OSD 00 currentime 6240.0
+obstacle not detected currenttime 6260.0
+14:08:52.989 [main] INFO  AV.BMS -  OSD 00 currentime 6260.0
+obstacle not detected currenttime 6280.0
+14:08:53.949 [main] INFO  AV.BMS -  OSD 00 currentime 6280.0
+obstacle not detected currenttime 6300.0
+14:08:54.941 [main] INFO  AV.BMS -  OSD 00 currentime 6300.0
+obstacle not detected currenttime 6320.0
+14:08:55.935 [main] INFO  AV.BMS -  OSD 00 currentime 6320.0
+obstacle not detected currenttime 6340.0
+14:08:56.889 [main] INFO  AV.BMS -  OSD 00 currentime 6340.0
+obstacle not detected currenttime 6360.0
+14:08:57.896 [main] INFO  AV.BMS -  OSD 00 currentime 6360.0

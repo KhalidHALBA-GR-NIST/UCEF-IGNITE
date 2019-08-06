@@ -1,0 +1,359 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-48160, cluster=AV, physical address=10.0.2.15:50901
+-------------------------------------------------------------------
+01:33:19.607 [main] INFO  AV.BMS - waiting on readyToPopulate...
+01:33:47.006 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+01:33:47.006 [main] INFO  AV.BMS - waiting on readyToRun...
+01:33:47.262 [main] INFO  AV.BMS - ...synchronized on readyToRun
+01:33:47.265 [main] INFO  AV.BMS - started logical time progression
+inside
+01:33:48.676 [main] INFO  AV.BMS - obstacle distance 1999 currenttime 2.0
+01:33:48.677 [main] INFO  AV.BMS -  OSD 2 currentime 2.0
+inside
+01:33:49.519 [main] INFO  AV.BMS - obstacle distance 1998 currenttime 12.0
+01:33:49.519 [main] INFO  AV.BMS -  OSD 2 currentime 12.0
+inside
+01:33:50.292 [main] INFO  AV.BMS - obstacle distance 1997 currenttime 22.0
+01:33:50.292 [main] INFO  AV.BMS -  OSD 2 currentime 22.0
+inside
+01:33:50.904 [main] INFO  AV.BMS - obstacle distance 1996 currenttime 32.0
+01:33:50.905 [main] INFO  AV.BMS -  OSD 2 currentime 32.0
+inside
+01:33:51.562 [main] INFO  AV.BMS - obstacle distance 1995 currenttime 42.0
+01:33:51.562 [main] INFO  AV.BMS -  OSD 2 currentime 42.0
+inside
+01:33:52.199 [main] INFO  AV.BMS - obstacle distance 1994 currenttime 52.0
+01:33:52.199 [main] INFO  AV.BMS -  OSD 2 currentime 52.0
+inside
+01:33:52.881 [main] INFO  AV.BMS - obstacle distance 1993 currenttime 62.0
+01:33:52.881 [main] INFO  AV.BMS -  OSD 2 currentime 62.0
+inside
+01:33:53.593 [main] INFO  AV.BMS - obstacle distance 1992 currenttime 72.0
+01:33:53.594 [main] INFO  AV.BMS -  OSD 2 currentime 72.0
+inside
+01:33:54.231 [main] INFO  AV.BMS - obstacle distance 1991 currenttime 82.0
+01:33:54.231 [main] INFO  AV.BMS -  OSD 2 currentime 82.0
+inside
+01:33:54.796 [main] INFO  AV.BMS - obstacle distance 1990 currenttime 92.0
+01:33:54.796 [main] INFO  AV.BMS -  OSD 2 currentime 92.0
+inside
+01:33:55.465 [main] INFO  AV.BMS - obstacle distance 1989 currenttime 102.0
+01:33:55.465 [main] INFO  AV.BMS -  OSD 2 currentime 102.0
+inside
+01:33:56.002 [main] INFO  AV.BMS - obstacle distance 1988 currenttime 112.0
+01:33:56.002 [main] INFO  AV.BMS -  OSD 2 currentime 112.0
+inside
+01:33:56.565 [main] INFO  AV.BMS - obstacle distance 1987 currenttime 122.0
+01:33:56.567 [main] INFO  AV.BMS -  OSD 2 currentime 122.0
+inside
+01:33:57.147 [main] INFO  AV.BMS - obstacle distance 1986 currenttime 132.0
+01:33:57.151 [main] INFO  AV.BMS -  OSD 2 currentime 132.0
+inside
+01:33:57.729 [main] INFO  AV.BMS - obstacle distance 1985 currenttime 142.0
+01:33:57.729 [main] INFO  AV.BMS -  OSD 2 currentime 142.0
+inside
+01:33:58.288 [main] INFO  AV.BMS - obstacle distance 1984 currenttime 152.0
+01:33:58.289 [main] INFO  AV.BMS -  OSD 2 currentime 152.0
+inside
+01:33:59.045 [main] INFO  AV.BMS - obstacle distance 1983 currenttime 162.0
+01:33:59.045 [main] INFO  AV.BMS -  OSD 2 currentime 162.0
+inside
+01:33:59.857 [main] INFO  AV.BMS - obstacle distance 1982 currenttime 172.0
+01:33:59.858 [main] INFO  AV.BMS -  OSD 2 currentime 172.0
+inside
+01:34:00.543 [main] INFO  AV.BMS - obstacle distance 1981 currenttime 182.0
+01:34:00.544 [main] INFO  AV.BMS -  OSD 2 currentime 182.0
+inside
+01:34:01.167 [main] INFO  AV.BMS - obstacle distance 1980 currenttime 192.0
+01:34:01.167 [main] INFO  AV.BMS -  OSD 2 currentime 192.0
+inside
+01:34:01.747 [main] INFO  AV.BMS - obstacle distance 1979 currenttime 202.0
+01:34:01.752 [main] INFO  AV.BMS -  OSD 2 currentime 202.0
+inside
+01:34:02.329 [main] INFO  AV.BMS - obstacle distance 1978 currenttime 212.0
+01:34:02.331 [main] INFO  AV.BMS -  OSD 2 currentime 212.0
+inside
+01:34:02.859 [main] INFO  AV.BMS - obstacle distance 1977 currenttime 222.0
+01:34:02.859 [main] INFO  AV.BMS -  OSD 2 currentime 222.0
+inside
+01:34:03.421 [main] INFO  AV.BMS - obstacle distance 1976 currenttime 232.0
+01:34:03.422 [main] INFO  AV.BMS -  OSD 2 currentime 232.0
+inside
+01:34:03.971 [main] INFO  AV.BMS - obstacle distance 1975 currenttime 242.0
+01:34:03.971 [main] INFO  AV.BMS -  OSD 2 currentime 242.0
+inside
+01:34:04.516 [main] INFO  AV.BMS - obstacle distance 1974 currenttime 252.0
+01:34:04.516 [main] INFO  AV.BMS -  OSD 2 currentime 252.0
+inside
+01:34:05.080 [main] INFO  AV.BMS - obstacle distance 1973 currenttime 262.0
+01:34:05.080 [main] INFO  AV.BMS -  OSD 2 currentime 262.0
+inside
+01:34:05.631 [main] INFO  AV.BMS - obstacle distance 1972 currenttime 272.0
+01:34:05.632 [main] INFO  AV.BMS -  OSD 2 currentime 272.0
+inside
+01:34:06.281 [main] INFO  AV.BMS - obstacle distance 1971 currenttime 282.0
+01:34:06.282 [main] INFO  AV.BMS -  OSD 2 currentime 282.0
+inside
+01:34:06.783 [main] INFO  AV.BMS - obstacle distance 1970 currenttime 292.0
+01:34:06.783 [main] INFO  AV.BMS -  OSD 2 currentime 292.0
+inside
+01:34:07.324 [main] INFO  AV.BMS - obstacle distance 1969 currenttime 302.0
+01:34:07.325 [main] INFO  AV.BMS -  OSD 2 currentime 302.0
+inside
+01:34:07.833 [main] INFO  AV.BMS - obstacle distance 1968 currenttime 312.0
+01:34:07.833 [main] INFO  AV.BMS -  OSD 2 currentime 312.0
+inside
+01:34:08.403 [main] INFO  AV.BMS - obstacle distance 1967 currenttime 322.0
+01:34:08.404 [main] INFO  AV.BMS -  OSD 2 currentime 322.0
+inside
+01:34:08.954 [main] INFO  AV.BMS - obstacle distance 1966 currenttime 332.0
+01:34:08.954 [main] INFO  AV.BMS -  OSD 2 currentime 332.0
+inside
+01:34:09.469 [main] INFO  AV.BMS - obstacle distance 1965 currenttime 342.0
+01:34:09.470 [main] INFO  AV.BMS -  OSD 2 currentime 342.0
+inside
+01:34:10.019 [main] INFO  AV.BMS - obstacle distance 1964 currenttime 352.0
+01:34:10.020 [main] INFO  AV.BMS -  OSD 2 currentime 352.0
+inside
+01:34:10.542 [main] INFO  AV.BMS - obstacle distance 1963 currenttime 362.0
+01:34:10.542 [main] INFO  AV.BMS -  OSD 2 currentime 362.0
+inside
+01:34:11.063 [main] INFO  AV.BMS - obstacle distance 1962 currenttime 372.0
+01:34:11.063 [main] INFO  AV.BMS -  OSD 2 currentime 372.0
+inside
+01:34:11.591 [main] INFO  AV.BMS - obstacle distance 1961 currenttime 382.0
+01:34:11.591 [main] INFO  AV.BMS -  OSD 2 currentime 382.0
+inside
+01:34:12.135 [main] INFO  AV.BMS - obstacle distance 1960 currenttime 392.0
+01:34:12.136 [main] INFO  AV.BMS -  OSD 2 currentime 392.0
+inside
+01:34:12.661 [main] INFO  AV.BMS - obstacle distance 1959 currenttime 402.0
+01:34:12.662 [main] INFO  AV.BMS -  OSD 2 currentime 402.0
+inside
+01:34:13.185 [main] INFO  AV.BMS - obstacle distance 1958 currenttime 412.0
+01:34:13.185 [main] INFO  AV.BMS -  OSD 2 currentime 412.0
+inside
+01:34:13.847 [main] INFO  AV.BMS - obstacle distance 1957 currenttime 422.0
+01:34:13.848 [main] INFO  AV.BMS -  OSD 2 currentime 422.0
+inside
+01:34:14.372 [main] INFO  AV.BMS - obstacle distance 1956 currenttime 432.0
+01:34:14.372 [main] INFO  AV.BMS -  OSD 2 currentime 432.0
+inside
+01:34:14.883 [main] INFO  AV.BMS - obstacle distance 1955 currenttime 442.0
+01:34:14.884 [main] INFO  AV.BMS -  OSD 2 currentime 442.0
+inside
+01:34:15.415 [main] INFO  AV.BMS - obstacle distance 1954 currenttime 452.0
+01:34:15.416 [main] INFO  AV.BMS -  OSD 2 currentime 452.0
+inside
+01:34:15.941 [main] INFO  AV.BMS - obstacle distance 1953 currenttime 462.0
+01:34:15.942 [main] INFO  AV.BMS -  OSD 2 currentime 462.0
+inside
+01:34:16.435 [main] INFO  AV.BMS - obstacle distance 1952 currenttime 472.0
+01:34:16.436 [main] INFO  AV.BMS -  OSD 2 currentime 472.0
+inside
+01:34:16.953 [main] INFO  AV.BMS - obstacle distance 1951 currenttime 482.0
+01:34:16.955 [main] INFO  AV.BMS -  OSD 2 currentime 482.0
+inside
+01:34:17.455 [main] INFO  AV.BMS - obstacle distance 1950 currenttime 492.0
+01:34:17.456 [main] INFO  AV.BMS -  OSD 2 currentime 492.0
+inside
+01:34:17.939 [main] INFO  AV.BMS - obstacle distance 1949 currenttime 502.0
+01:34:17.939 [main] INFO  AV.BMS -  OSD 2 currentime 502.0
+inside
+01:34:18.446 [main] INFO  AV.BMS - obstacle distance 1948 currenttime 512.0
+01:34:18.446 [main] INFO  AV.BMS -  OSD 2 currentime 512.0
+inside
+01:34:18.967 [main] INFO  AV.BMS - obstacle distance 1947 currenttime 522.0
+01:34:18.968 [main] INFO  AV.BMS -  OSD 2 currentime 522.0
+inside
+01:34:19.478 [main] INFO  AV.BMS - obstacle distance 1946 currenttime 532.0
+01:34:19.479 [main] INFO  AV.BMS -  OSD 2 currentime 532.0
+inside
+01:34:19.990 [main] INFO  AV.BMS - obstacle distance 1945 currenttime 542.0
+01:34:19.990 [main] INFO  AV.BMS -  OSD 2 currentime 542.0
+inside
+01:34:20.592 [main] INFO  AV.BMS - obstacle distance 1944 currenttime 552.0
+01:34:20.593 [main] INFO  AV.BMS -  OSD 2 currentime 552.0
+inside
+01:34:21.110 [main] INFO  AV.BMS - obstacle distance 1943 currenttime 562.0
+01:34:21.111 [main] INFO  AV.BMS -  OSD 2 currentime 562.0
+inside
+01:34:21.595 [main] INFO  AV.BMS - obstacle distance 1942 currenttime 572.0
+01:34:21.595 [main] INFO  AV.BMS -  OSD 2 currentime 572.0
+inside
+01:34:22.118 [main] INFO  AV.BMS - obstacle distance 1941 currenttime 582.0
+01:34:22.120 [main] INFO  AV.BMS -  OSD 2 currentime 582.0
+inside
+01:34:22.640 [main] INFO  AV.BMS - obstacle distance 1940 currenttime 592.0
+01:34:22.642 [main] INFO  AV.BMS -  OSD 2 currentime 592.0
+inside
+01:34:23.137 [main] INFO  AV.BMS - obstacle distance 1939 currenttime 602.0
+01:34:23.137 [main] INFO  AV.BMS -  OSD 2 currentime 602.0
+inside
+01:34:23.639 [main] INFO  AV.BMS - obstacle distance 1938 currenttime 612.0
+01:34:23.640 [main] INFO  AV.BMS -  OSD 2 currentime 612.0
+inside
+01:34:24.161 [main] INFO  AV.BMS - obstacle distance 1937 currenttime 622.0
+01:34:24.161 [main] INFO  AV.BMS -  OSD 2 currentime 622.0
+inside
+01:34:24.663 [main] INFO  AV.BMS - obstacle distance 1936 currenttime 632.0
+01:34:24.663 [main] INFO  AV.BMS -  OSD 2 currentime 632.0
+inside
+01:34:25.178 [main] INFO  AV.BMS - obstacle distance 1935 currenttime 642.0
+01:34:25.178 [main] INFO  AV.BMS -  OSD 2 currentime 642.0
+inside
+01:34:25.664 [main] INFO  AV.BMS - obstacle distance 1934 currenttime 652.0
+01:34:25.664 [main] INFO  AV.BMS -  OSD 2 currentime 652.0
+inside
+01:34:26.173 [main] INFO  AV.BMS - obstacle distance 1933 currenttime 662.0
+01:34:26.173 [main] INFO  AV.BMS -  OSD 2 currentime 662.0
+inside
+01:34:26.680 [main] INFO  AV.BMS - obstacle distance 1932 currenttime 672.0
+01:34:26.684 [main] INFO  AV.BMS -  OSD 2 currentime 672.0
+inside
+01:34:27.224 [main] INFO  AV.BMS - obstacle distance 1931 currenttime 682.0
+01:34:27.224 [main] INFO  AV.BMS -  OSD 2 currentime 682.0
+inside
+01:34:27.751 [main] INFO  AV.BMS - obstacle distance 1930 currenttime 692.0
+01:34:27.752 [main] INFO  AV.BMS -  OSD 2 currentime 692.0
+inside
+01:34:28.253 [main] INFO  AV.BMS - obstacle distance 1929 currenttime 702.0
+01:34:28.254 [main] INFO  AV.BMS -  OSD 2 currentime 702.0
+inside
+01:34:28.800 [main] INFO  AV.BMS - obstacle distance 1928 currenttime 712.0
+01:34:28.801 [main] INFO  AV.BMS -  OSD 2 currentime 712.0
+inside
+01:34:29.301 [main] INFO  AV.BMS - obstacle distance 1927 currenttime 722.0
+01:34:29.301 [main] INFO  AV.BMS -  OSD 2 currentime 722.0
+inside
+01:34:29.839 [main] INFO  AV.BMS - obstacle distance 1926 currenttime 732.0
+01:34:29.839 [main] INFO  AV.BMS -  OSD 2 currentime 732.0
+inside
+01:34:30.360 [main] INFO  AV.BMS - obstacle distance 1925 currenttime 742.0
+01:34:30.360 [main] INFO  AV.BMS -  OSD 2 currentime 742.0
+inside
+01:34:30.863 [main] INFO  AV.BMS - obstacle distance 1924 currenttime 752.0
+01:34:30.863 [main] INFO  AV.BMS -  OSD 2 currentime 752.0
+inside
+01:34:31.466 [main] INFO  AV.BMS - obstacle distance 1923 currenttime 762.0
+01:34:31.467 [main] INFO  AV.BMS -  OSD 2 currentime 762.0
+inside
+01:34:31.965 [main] INFO  AV.BMS - obstacle distance 1922 currenttime 772.0
+01:34:31.966 [main] INFO  AV.BMS -  OSD 2 currentime 772.0
+inside
+01:34:32.483 [main] INFO  AV.BMS - obstacle distance 1921 currenttime 782.0
+01:34:32.483 [main] INFO  AV.BMS -  OSD 2 currentime 782.0
+inside
+01:34:32.997 [main] INFO  AV.BMS - obstacle distance 1920 currenttime 792.0
+01:34:32.998 [main] INFO  AV.BMS -  OSD 2 currentime 792.0
+inside
+01:34:33.522 [main] INFO  AV.BMS - obstacle distance 1919 currenttime 802.0
+01:34:33.522 [main] INFO  AV.BMS -  OSD 2 currentime 802.0
+inside
+01:34:34.023 [main] INFO  AV.BMS - obstacle distance 1918 currenttime 812.0
+01:34:34.023 [main] INFO  AV.BMS -  OSD 2 currentime 812.0
+inside
+01:34:34.514 [main] INFO  AV.BMS - obstacle distance 1917 currenttime 822.0
+01:34:34.514 [main] INFO  AV.BMS -  OSD 2 currentime 822.0
+inside
+01:34:35.011 [main] INFO  AV.BMS - obstacle distance 1916 currenttime 832.0
+01:34:35.012 [main] INFO  AV.BMS -  OSD 2 currentime 832.0
+inside
+01:34:35.495 [main] INFO  AV.BMS - obstacle distance 1915 currenttime 842.0
+01:34:35.495 [main] INFO  AV.BMS -  OSD 2 currentime 842.0
+inside
+01:34:35.989 [main] INFO  AV.BMS - obstacle distance 1914 currenttime 852.0
+01:34:35.989 [main] INFO  AV.BMS -  OSD 2 currentime 852.0
+inside
+01:34:36.494 [main] INFO  AV.BMS - obstacle distance 1913 currenttime 862.0
+01:34:36.494 [main] INFO  AV.BMS -  OSD 2 currentime 862.0
+inside
+01:34:36.965 [main] INFO  AV.BMS - obstacle distance 1912 currenttime 872.0
+01:34:36.966 [main] INFO  AV.BMS -  OSD 2 currentime 872.0
+inside
+01:34:37.484 [main] INFO  AV.BMS - obstacle distance 1911 currenttime 882.0
+01:34:37.484 [main] INFO  AV.BMS -  OSD 2 currentime 882.0
+inside
+01:34:38.006 [main] INFO  AV.BMS - obstacle distance 1910 currenttime 892.0
+01:34:38.006 [main] INFO  AV.BMS -  OSD 2 currentime 892.0
+inside
+01:34:38.523 [main] INFO  AV.BMS - obstacle distance 1909 currenttime 902.0
+01:34:38.524 [main] INFO  AV.BMS -  OSD 2 currentime 902.0
+inside
+01:34:39.019 [main] INFO  AV.BMS - obstacle distance 1908 currenttime 912.0
+01:34:39.020 [main] INFO  AV.BMS -  OSD 2 currentime 912.0
+inside
+01:34:39.522 [main] INFO  AV.BMS - obstacle distance 1907 currenttime 922.0
+01:34:39.522 [main] INFO  AV.BMS -  OSD 2 currentime 922.0
+inside
+01:34:40.006 [main] INFO  AV.BMS - obstacle distance 1906 currenttime 932.0
+01:34:40.006 [main] INFO  AV.BMS -  OSD 2 currentime 932.0
+inside
+01:34:40.554 [main] INFO  AV.BMS - obstacle distance 1905 currenttime 942.0
+01:34:40.554 [main] INFO  AV.BMS -  OSD 2 currentime 942.0
+inside
+01:34:41.078 [main] INFO  AV.BMS - obstacle distance 1904 currenttime 952.0
+01:34:41.078 [main] INFO  AV.BMS -  OSD 2 currentime 952.0
+inside
+01:34:41.590 [main] INFO  AV.BMS - obstacle distance 1903 currenttime 962.0
+01:34:41.591 [main] INFO  AV.BMS -  OSD 2 currentime 962.0
+inside
+01:34:42.138 [main] INFO  AV.BMS - obstacle distance 1902 currenttime 972.0
+01:34:42.138 [main] INFO  AV.BMS -  OSD 2 currentime 972.0
+inside
+01:34:42.639 [main] INFO  AV.BMS - obstacle distance 1901 currenttime 982.0
+01:34:42.639 [main] INFO  AV.BMS -  OSD 2 currentime 982.0
+inside
+01:34:43.786 [main] INFO  AV.BMS - obstacle distance 1900 currenttime 992.0
+01:34:43.786 [main] INFO  AV.BMS -  OSD 2 currentime 992.0
+inside
+01:34:44.308 [main] INFO  AV.BMS - obstacle distance 1899 currenttime 1002.0
+01:34:44.308 [main] INFO  AV.BMS -  OSD 2 currentime 1002.0
+inside
+01:34:44.819 [main] INFO  AV.BMS - obstacle distance 1898 currenttime 1012.0
+01:34:44.820 [main] INFO  AV.BMS -  OSD 2 currentime 1012.0
+inside
+01:34:45.296 [main] INFO  AV.BMS - obstacle distance 1897 currenttime 1022.0
+01:34:45.296 [main] INFO  AV.BMS -  OSD 2 currentime 1022.0
+inside
+01:34:45.771 [main] INFO  AV.BMS - obstacle distance 1896 currenttime 1032.0
+01:34:45.772 [main] INFO  AV.BMS -  OSD 2 currentime 1032.0
+inside
+01:34:46.265 [main] INFO  AV.BMS - obstacle distance 1895 currenttime 1042.0
+01:34:46.267 [main] INFO  AV.BMS -  OSD 2 currentime 1042.0
+inside
+01:34:46.763 [main] INFO  AV.BMS - obstacle distance 1894 currenttime 1052.0
+01:34:46.763 [main] INFO  AV.BMS -  OSD 2 currentime 1052.0
+inside
+01:34:47.257 [main] INFO  AV.BMS - obstacle distance 1893 currenttime 1062.0
+01:34:47.258 [main] INFO  AV.BMS -  OSD 2 currentime 1062.0
+inside
+01:34:47.777 [main] INFO  AV.BMS - obstacle distance 1892 currenttime 1072.0
+01:34:47.780 [main] INFO  AV.BMS -  OSD 2 currentime 1072.0
+inside
+01:34:48.290 [main] INFO  AV.BMS - obstacle distance 1891 currenttime 1082.0
+01:34:48.291 [main] INFO  AV.BMS -  OSD 2 currentime 1082.0
+inside
+01:34:48.769 [main] INFO  AV.BMS - obstacle distance 1890 currenttime 1092.0
+01:34:48.773 [main] INFO  AV.BMS -  OSD 2 currentime 1092.0
+inside
+01:34:49.290 [main] INFO  AV.BMS - obstacle distance 1889 currenttime 1102.0
+01:34:49.291 [main] INFO  AV.BMS -  OSD 2 currentime 1102.0
+inside
+01:34:49.782 [main] INFO  AV.BMS - obstacle distance 1888 currenttime 1112.0
+01:34:49.783 [main] INFO  AV.BMS -  OSD 2 currentime 1112.0
+inside
+01:34:50.317 [main] INFO  AV.BMS - obstacle distance 1887 currenttime 1122.0
+01:34:50.317 [main] INFO  AV.BMS -  OSD 2 currentime 1122.0
+inside
+01:34:50.834 [main] INFO  AV.BMS - obstacle distance 1886 currenttime 1132.0
+01:34:50.834 [main] INFO  AV.BMS -  OSD 2 currentime 1132.0
+inside
+01:34:51.319 [main] INFO  AV.BMS - obstacle distance 1885 currenttime 1142.0
+01:34:51.319 [main] INFO  AV.BMS -  OSD 2 currentime 1142.0
+inside
+01:34:51.820 [main] INFO  AV.BMS - obstacle distance 1884 currenttime 1152.0
+01:34:51.820 [main] INFO  AV.BMS -  OSD 2 currentime 1152.0
+WARN  [VERIFY_SUSPECT.TimerThread,AV,vagrant-48160] portico.lrc.jgroups: Detected that federate [unkonwn] may have crashed, investigating...
+WARN  [Regular] portico.lrc.jgroups: Unknown channel member crashed. Don't think it was a federate. Ignoring. uuid=6c4681ab-643a-411f-9c23-5c621cc7c8a2

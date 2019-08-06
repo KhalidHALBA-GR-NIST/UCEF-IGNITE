@@ -1,0 +1,17 @@
+{
+  "federateRTIInitWaitTimeMs": 200,
+  "federateType": "MCU",
+  "federationId": "AV",
+  "isLateJoiner": false,
+  "lookAhead": 0.2,
+  "stepSize": 1.0,
+    "messageTime" : 0,
+  "Engine_Speed":"0",       
+  "Engine_Temperature":"0",
+  "Motor_Power_Limits":"0",  
+  "Inverter_Temperature":"0", 
+  "VCU_Torque_Commands" : "0",
+  "Motor_Speed":"0",
+  "MCUPGN" : "MCU",
+  "MCUSPNs" : "0"
+}

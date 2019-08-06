@@ -3,8 +3,10 @@
   "federateType": "VCU",
   "federationId": "AV",
   "isLateJoiner": false,
-  "lookAhead": 0.2,
+  "lookAhead": 1.0,
   "stepSize": 1.0,
+  
+  
   
   "VCUPGN" : "VCU",
   "VCUSPNs" : "0",
@@ -32,7 +34,7 @@
   "BMS_Battery_Remaining_Capacity" : "0",
   "BMS_Battery_Max_Min_Cell_Temperature" : "0",
   "BMS_Battery_Pack_Power_limit" : "0",
-            
+  "BMS_Obstacle_Presence_distance" : "0",      
   
   "ABS_Wheel_Speed" : "0",
   "ABS_Vehicle_Speed" : "0",

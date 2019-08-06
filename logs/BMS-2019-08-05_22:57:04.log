@@ -1,0 +1,212 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-40849, cluster=AV, physical address=10.0.2.15:35271
+-------------------------------------------------------------------
+22:57:42.916 [main] INFO  AV.BMS - waiting on readyToPopulate...
+22:58:08.039 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+22:58:08.040 [main] INFO  AV.BMS - waiting on readyToRun...
+22:58:08.292 [main] INFO  AV.BMS - ...synchronized on readyToRun
+22:58:08.295 [main] INFO  AV.BMS - started logical time progression
+inside
+22:58:09.587 [main] INFO  AV.BMS - obstacle distance 99 currenttime 4.0
+inside
+22:58:09.638 [main] INFO  AV.BMS - obstacle distance 98 currenttime 5.0
+inside
+22:58:11.148 [main] INFO  AV.BMS - obstacle distance 97 currenttime 24.0
+inside
+22:58:11.220 [main] INFO  AV.BMS - obstacle distance 96 currenttime 25.0
+inside
+22:58:12.491 [main] INFO  AV.BMS - obstacle distance 95 currenttime 44.0
+inside
+22:58:12.530 [main] INFO  AV.BMS - obstacle distance 94 currenttime 45.0
+inside
+22:58:13.751 [main] INFO  AV.BMS - obstacle distance 93 currenttime 64.0
+inside
+22:58:13.822 [main] INFO  AV.BMS - obstacle distance 92 currenttime 65.0
+inside
+22:58:15.057 [main] INFO  AV.BMS - obstacle distance 91 currenttime 84.0
+inside
+22:58:15.107 [main] INFO  AV.BMS - obstacle distance 90 currenttime 85.0
+inside
+22:58:16.381 [main] INFO  AV.BMS - obstacle distance 89 currenttime 104.0
+inside
+22:58:16.438 [main] INFO  AV.BMS - obstacle distance 88 currenttime 105.0
+inside
+22:58:17.518 [main] INFO  AV.BMS - obstacle distance 87 currenttime 124.0
+inside
+22:58:17.572 [main] INFO  AV.BMS - obstacle distance 86 currenttime 125.0
+inside
+22:58:18.595 [main] INFO  AV.BMS - obstacle distance 85 currenttime 144.0
+inside
+22:58:18.641 [main] INFO  AV.BMS - obstacle distance 84 currenttime 145.0
+inside
+22:58:19.876 [main] INFO  AV.BMS - obstacle distance 83 currenttime 164.0
+inside
+22:58:19.930 [main] INFO  AV.BMS - obstacle distance 82 currenttime 165.0
+inside
+22:58:21.725 [main] INFO  AV.BMS - obstacle distance 81 currenttime 184.0
+inside
+22:58:21.787 [main] INFO  AV.BMS - obstacle distance 80 currenttime 185.0
+inside
+22:58:22.834 [main] INFO  AV.BMS - obstacle distance 79 currenttime 204.0
+inside
+22:58:22.887 [main] INFO  AV.BMS - obstacle distance 78 currenttime 205.0
+inside
+22:58:23.940 [main] INFO  AV.BMS - obstacle distance 77 currenttime 224.0
+inside
+22:58:23.978 [main] INFO  AV.BMS - obstacle distance 76 currenttime 225.0
+inside
+22:58:25.081 [main] INFO  AV.BMS - obstacle distance 75 currenttime 244.0
+inside
+22:58:25.124 [main] INFO  AV.BMS - obstacle distance 74 currenttime 245.0
+inside
+22:58:26.196 [main] INFO  AV.BMS - obstacle distance 73 currenttime 264.0
+inside
+22:58:26.259 [main] INFO  AV.BMS - obstacle distance 72 currenttime 265.0
+inside
+22:58:27.366 [main] INFO  AV.BMS - obstacle distance 71 currenttime 284.0
+inside
+22:58:27.428 [main] INFO  AV.BMS - obstacle distance 70 currenttime 285.0
+inside
+22:58:28.498 [main] INFO  AV.BMS - obstacle distance 69 currenttime 304.0
+inside
+22:58:28.549 [main] INFO  AV.BMS - obstacle distance 68 currenttime 305.0
+inside
+22:58:29.562 [main] INFO  AV.BMS - obstacle distance 67 currenttime 324.0
+inside
+22:58:29.611 [main] INFO  AV.BMS - obstacle distance 66 currenttime 325.0
+inside
+22:58:30.647 [main] INFO  AV.BMS - obstacle distance 65 currenttime 344.0
+inside
+22:58:30.710 [main] INFO  AV.BMS - obstacle distance 64 currenttime 345.0
+inside
+22:58:31.752 [main] INFO  AV.BMS - obstacle distance 63 currenttime 364.0
+inside
+22:58:31.801 [main] INFO  AV.BMS - obstacle distance 62 currenttime 365.0
+inside
+22:58:32.798 [main] INFO  AV.BMS - obstacle distance 61 currenttime 384.0
+inside
+22:58:32.848 [main] INFO  AV.BMS - obstacle distance 60 currenttime 385.0
+inside
+22:58:34.008 [main] INFO  AV.BMS - obstacle distance 59 currenttime 404.0
+inside
+22:58:34.066 [main] INFO  AV.BMS - obstacle distance 58 currenttime 405.0
+inside
+22:58:35.036 [main] INFO  AV.BMS - obstacle distance 57 currenttime 424.0
+inside
+22:58:35.086 [main] INFO  AV.BMS - obstacle distance 56 currenttime 425.0
+inside
+22:58:36.062 [main] INFO  AV.BMS - obstacle distance 55 currenttime 444.0
+inside
+22:58:36.131 [main] INFO  AV.BMS - obstacle distance 54 currenttime 445.0
+inside
+22:58:37.107 [main] INFO  AV.BMS - obstacle distance 53 currenttime 464.0
+inside
+22:58:37.160 [main] INFO  AV.BMS - obstacle distance 52 currenttime 465.0
+inside
+22:58:38.137 [main] INFO  AV.BMS - obstacle distance 51 currenttime 484.0
+inside
+22:58:38.187 [main] INFO  AV.BMS - obstacle distance 50 currenttime 485.0
+inside
+22:58:39.161 [main] INFO  AV.BMS - obstacle distance 49 currenttime 504.0
+inside
+22:58:39.221 [main] INFO  AV.BMS - obstacle distance 48 currenttime 505.0
+inside
+22:58:40.306 [main] INFO  AV.BMS - obstacle distance 47 currenttime 524.0
+inside
+22:58:40.354 [main] INFO  AV.BMS - obstacle distance 46 currenttime 525.0
+inside
+22:58:41.316 [main] INFO  AV.BMS - obstacle distance 45 currenttime 544.0
+inside
+22:58:41.371 [main] INFO  AV.BMS - obstacle distance 44 currenttime 545.0
+inside
+22:58:42.325 [main] INFO  AV.BMS - obstacle distance 43 currenttime 564.0
+inside
+22:58:42.371 [main] INFO  AV.BMS - obstacle distance 42 currenttime 565.0
+inside
+22:58:43.314 [main] INFO  AV.BMS - obstacle distance 41 currenttime 584.0
+inside
+22:58:43.361 [main] INFO  AV.BMS - obstacle distance 40 currenttime 585.0
+inside
+22:58:44.335 [main] INFO  AV.BMS - obstacle distance 39 currenttime 604.0
+inside
+22:58:44.370 [main] INFO  AV.BMS - obstacle distance 38 currenttime 605.0
+inside
+22:58:45.389 [main] INFO  AV.BMS - obstacle distance 37 currenttime 624.0
+inside
+22:58:45.440 [main] INFO  AV.BMS - obstacle distance 36 currenttime 625.0
+inside
+22:58:46.406 [main] INFO  AV.BMS - obstacle distance 35 currenttime 644.0
+inside
+22:58:46.464 [main] INFO  AV.BMS - obstacle distance 34 currenttime 645.0
+inside
+22:58:47.431 [main] INFO  AV.BMS - obstacle distance 33 currenttime 664.0
+inside
+22:58:47.485 [main] INFO  AV.BMS - obstacle distance 32 currenttime 665.0
+inside
+22:58:48.470 [main] INFO  AV.BMS - obstacle distance 31 currenttime 684.0
+inside
+22:58:48.517 [main] INFO  AV.BMS - obstacle distance 30 currenttime 685.0
+inside
+22:58:49.754 [main] INFO  AV.BMS - obstacle distance 29 currenttime 704.0
+inside
+22:58:49.808 [main] INFO  AV.BMS - obstacle distance 28 currenttime 705.0
+inside
+22:58:50.769 [main] INFO  AV.BMS - obstacle distance 27 currenttime 724.0
+inside
+22:58:50.826 [main] INFO  AV.BMS - obstacle distance 26 currenttime 725.0
+inside
+22:58:51.802 [main] INFO  AV.BMS - obstacle distance 25 currenttime 744.0
+inside
+22:58:51.846 [main] INFO  AV.BMS - obstacle distance 24 currenttime 745.0
+inside
+22:58:52.811 [main] INFO  AV.BMS - obstacle distance 23 currenttime 764.0
+inside
+22:58:52.864 [main] INFO  AV.BMS - obstacle distance 22 currenttime 765.0
+inside
+22:58:53.849 [main] INFO  AV.BMS - obstacle distance 21 currenttime 784.0
+inside
+22:58:53.890 [main] INFO  AV.BMS - obstacle distance 20 currenttime 785.0
+inside
+22:58:54.872 [main] INFO  AV.BMS - obstacle distance 19 currenttime 804.0
+inside
+22:58:54.930 [main] INFO  AV.BMS - obstacle distance 18 currenttime 805.0
+inside
+22:58:55.935 [main] INFO  AV.BMS - obstacle distance 17 currenttime 824.0
+inside
+22:58:56.007 [main] INFO  AV.BMS - obstacle distance 16 currenttime 825.0
+inside
+22:58:56.947 [main] INFO  AV.BMS - obstacle distance 15 currenttime 844.0
+inside
+22:58:56.994 [main] INFO  AV.BMS - obstacle distance 14 currenttime 845.0
+inside
+22:58:58.015 [main] INFO  AV.BMS - obstacle distance 13 currenttime 864.0
+inside
+22:58:58.070 [main] INFO  AV.BMS - obstacle distance 12 currenttime 865.0
+inside
+22:58:59.020 [main] INFO  AV.BMS - obstacle distance 11 currenttime 884.0
+inside
+22:58:59.077 [main] INFO  AV.BMS - obstacle distance 10 currenttime 885.0
+inside
+22:59:00.198 [main] INFO  AV.BMS - obstacle distance 9 currenttime 904.0
+inside
+22:59:00.256 [main] INFO  AV.BMS - obstacle distance 8 currenttime 905.0
+inside
+22:59:01.209 [main] INFO  AV.BMS - obstacle distance 7 currenttime 924.0
+inside
+22:59:01.268 [main] INFO  AV.BMS - obstacle distance 6 currenttime 925.0
+inside
+22:59:02.248 [main] INFO  AV.BMS - obstacle distance 5 currenttime 944.0
+inside
+22:59:02.307 [main] INFO  AV.BMS - obstacle distance 4 currenttime 945.0
+inside
+22:59:03.252 [main] INFO  AV.BMS - obstacle distance 3 currenttime 964.0
+inside
+22:59:03.295 [main] INFO  AV.BMS - obstacle distance 2 currenttime 965.0
+inside
+22:59:04.258 [main] INFO  AV.BMS - obstacle distance 1 currenttime 984.0
+inside
+22:59:04.301 [main] INFO  AV.BMS - obstacle distance 0 currenttime 985.0
+23:06:48.049 [main] INFO  org.cpswt.hla.SynchronizedFederate - BMS-5acc974c-6a46-4279-b999-ccddcdb1f0ef: SimEnd interaction received, exiting...
+23:06:48.050 [main] INFO  org.cpswt.hla.SynchronizedFederate - Exiting gracefully ....
+23:06:53.150 [main] INFO  AV.BMS - Done.

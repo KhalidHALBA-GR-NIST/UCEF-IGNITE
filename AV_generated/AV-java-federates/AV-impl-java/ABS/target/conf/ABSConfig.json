@@ -3,7 +3,7 @@
 "federateType": "ABS",
 "federationId": "AV",
 "isLateJoiner": false,
-"lookAhead": 0.2,
+"lookAhead": 1.0,
 "stepSize": 1.0,
 "Wheel_Speed": "88",
 "Vehicle_Speed": "88",

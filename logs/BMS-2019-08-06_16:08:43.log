@@ -1,0 +1,810 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-62380, cluster=AV, physical address=10.0.2.15:58962
+-------------------------------------------------------------------
+16:09:15.789 [main] INFO  AV.BMS - waiting on readyToPopulate...
+16:09:37.828 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+16:09:37.832 [main] INFO  AV.BMS - waiting on readyToRun...
+16:09:38.087 [main] INFO  AV.BMS - ...synchronized on readyToRun
+16:09:38.091 [main] INFO  AV.BMS - started logical time progression
+obstacle not detected currenttime 0.0
+print string boolean false
+16:09:38.096 [main] INFO  AV.BMS -  OSD 00 currentime 0.0
+obstacle not detected currenttime 20.0
+print string boolean false
+16:09:40.250 [main] INFO  AV.BMS -  OSD 00 currentime 20.0
+obstacle not detected currenttime 40.0
+print string boolean false
+16:09:41.699 [main] INFO  AV.BMS -  OSD 00 currentime 40.0
+obstacle not detected currenttime 60.0
+print string boolean false
+16:09:42.810 [main] INFO  AV.BMS -  OSD 00 currentime 60.0
+obstacle not detected currenttime 80.0
+print string boolean false
+16:09:44.008 [main] INFO  AV.BMS -  OSD 00 currentime 80.0
+obstacle not detected currenttime 100.0
+print string boolean false
+16:09:45.144 [main] INFO  AV.BMS -  OSD 00 currentime 100.0
+obstacle not detected currenttime 120.0
+print string boolean false
+16:09:46.233 [main] INFO  AV.BMS -  OSD 00 currentime 120.0
+obstacle not detected currenttime 140.0
+print string boolean false
+16:09:47.338 [main] INFO  AV.BMS -  OSD 00 currentime 140.0
+obstacle not detected currenttime 160.0
+print string boolean false
+16:09:48.407 [main] INFO  AV.BMS -  OSD 00 currentime 160.0
+obstacle not detected currenttime 180.0
+print string boolean false
+16:09:49.479 [main] INFO  AV.BMS -  OSD 00 currentime 180.0
+obstacle not detected currenttime 200.0
+print string boolean false
+16:09:51.005 [main] INFO  AV.BMS -  OSD 00 currentime 200.0
+obstacle not detected currenttime 220.0
+print string boolean false
+16:09:52.016 [main] INFO  AV.BMS -  OSD 00 currentime 220.0
+obstacle not detected currenttime 240.0
+print string boolean false
+16:09:53.076 [main] INFO  AV.BMS -  OSD 00 currentime 240.0
+obstacle not detected currenttime 260.0
+print string boolean false
+16:09:54.068 [main] INFO  AV.BMS -  OSD 00 currentime 260.0
+obstacle not detected currenttime 280.0
+print string boolean false
+16:09:55.061 [main] INFO  AV.BMS -  OSD 00 currentime 280.0
+obstacle not detected currenttime 300.0
+print string boolean false
+16:09:56.211 [main] INFO  AV.BMS -  OSD 00 currentime 300.0
+obstacle not detected currenttime 320.0
+print string boolean false
+16:09:57.174 [main] INFO  AV.BMS -  OSD 00 currentime 320.0
+obstacle not detected currenttime 340.0
+print string boolean false
+16:09:58.216 [main] INFO  AV.BMS -  OSD 00 currentime 340.0
+obstacle not detected currenttime 360.0
+print string boolean false
+16:09:59.271 [main] INFO  AV.BMS -  OSD 00 currentime 360.0
+obstacle not detected currenttime 380.0
+print string boolean false
+16:10:00.314 [main] INFO  AV.BMS -  OSD 00 currentime 380.0
+obstacle not detected currenttime 400.0
+print string boolean false
+16:10:01.384 [main] INFO  AV.BMS -  OSD 00 currentime 400.0
+obstacle not detected currenttime 420.0
+print string boolean false
+16:10:02.421 [main] INFO  AV.BMS -  OSD 00 currentime 420.0
+obstacle not detected currenttime 440.0
+print string boolean false
+16:10:03.525 [main] INFO  AV.BMS -  OSD 00 currentime 440.0
+obstacle not detected currenttime 460.0
+print string boolean false
+16:10:04.520 [main] INFO  AV.BMS -  OSD 00 currentime 460.0
+obstacle not detected currenttime 480.0
+print string boolean false
+16:10:05.569 [main] INFO  AV.BMS -  OSD 00 currentime 480.0
+obstacle not detected currenttime 500.0
+print string boolean false
+16:10:06.531 [main] INFO  AV.BMS -  OSD 00 currentime 500.0
+obstacle not detected currenttime 520.0
+print string boolean false
+16:10:07.540 [main] INFO  AV.BMS -  OSD 00 currentime 520.0
+obstacle not detected currenttime 540.0
+print string boolean false
+16:10:08.618 [main] INFO  AV.BMS -  OSD 00 currentime 540.0
+obstacle not detected currenttime 560.0
+print string boolean false
+16:10:09.593 [main] INFO  AV.BMS -  OSD 00 currentime 560.0
+obstacle not detected currenttime 580.0
+print string boolean false
+16:10:10.641 [main] INFO  AV.BMS -  OSD 00 currentime 580.0
+obstacle not detected currenttime 600.0
+print string boolean false
+16:10:11.625 [main] INFO  AV.BMS -  OSD 00 currentime 600.0
+obstacle not detected currenttime 620.0
+print string boolean false
+16:10:12.642 [main] INFO  AV.BMS -  OSD 00 currentime 620.0
+obstacle not detected currenttime 640.0
+print string boolean false
+16:10:13.644 [main] INFO  AV.BMS -  OSD 00 currentime 640.0
+obstacle not detected currenttime 660.0
+print string boolean false
+16:10:14.678 [main] INFO  AV.BMS -  OSD 00 currentime 660.0
+obstacle not detected currenttime 680.0
+print string boolean false
+16:10:15.667 [main] INFO  AV.BMS -  OSD 00 currentime 680.0
+obstacle not detected currenttime 700.0
+print string boolean false
+16:10:16.618 [main] INFO  AV.BMS -  OSD 00 currentime 700.0
+obstacle not detected currenttime 720.0
+print string boolean false
+16:10:17.624 [main] INFO  AV.BMS -  OSD 00 currentime 720.0
+obstacle not detected currenttime 740.0
+print string boolean false
+16:10:18.641 [main] INFO  AV.BMS -  OSD 00 currentime 740.0
+obstacle not detected currenttime 760.0
+print string boolean false
+16:10:19.636 [main] INFO  AV.BMS -  OSD 00 currentime 760.0
+obstacle not detected currenttime 780.0
+print string boolean false
+16:10:20.650 [main] INFO  AV.BMS -  OSD 00 currentime 780.0
+obstacle not detected currenttime 800.0
+print string boolean false
+16:10:21.695 [main] INFO  AV.BMS -  OSD 00 currentime 800.0
+obstacle not detected currenttime 820.0
+print string boolean false
+16:10:22.714 [main] INFO  AV.BMS -  OSD 00 currentime 820.0
+obstacle not detected currenttime 840.0
+print string boolean false
+16:10:23.725 [main] INFO  AV.BMS -  OSD 00 currentime 840.0
+obstacle not detected currenttime 860.0
+print string boolean false
+16:10:24.758 [main] INFO  AV.BMS -  OSD 00 currentime 860.0
+obstacle not detected currenttime 880.0
+print string boolean false
+16:10:25.730 [main] INFO  AV.BMS -  OSD 00 currentime 880.0
+obstacle not detected currenttime 900.0
+print string boolean false
+16:10:26.771 [main] INFO  AV.BMS -  OSD 00 currentime 900.0
+obstacle not detected currenttime 920.0
+print string boolean false
+16:10:27.742 [main] INFO  AV.BMS -  OSD 00 currentime 920.0
+obstacle not detected currenttime 940.0
+print string boolean false
+16:10:28.771 [main] INFO  AV.BMS -  OSD 00 currentime 940.0
+obstacle not detected currenttime 960.0
+print string boolean false
+16:10:29.755 [main] INFO  AV.BMS -  OSD 00 currentime 960.0
+obstacle not detected currenttime 980.0
+print string boolean false
+16:10:30.740 [main] INFO  AV.BMS -  OSD 00 currentime 980.0
+obstacle not detected currenttime 1000.0
+print string boolean false
+16:10:31.633 [main] INFO  AV.BMS -  OSD 00 currentime 1000.0
+obstacle not detected currenttime 1020.0
+print string boolean false
+16:10:32.753 [main] INFO  AV.BMS -  OSD 00 currentime 1020.0
+obstacle not detected currenttime 1040.0
+print string boolean false
+16:10:33.703 [main] INFO  AV.BMS -  OSD 00 currentime 1040.0
+obstacle not detected currenttime 1060.0
+print string boolean false
+16:10:34.687 [main] INFO  AV.BMS -  OSD 00 currentime 1060.0
+obstacle not detected currenttime 1080.0
+print string boolean false
+16:10:35.709 [main] INFO  AV.BMS -  OSD 00 currentime 1080.0
+obstacle not detected currenttime 1100.0
+print string boolean false
+16:10:36.684 [main] INFO  AV.BMS -  OSD 00 currentime 1100.0
+obstacle not detected currenttime 1120.0
+print string boolean false
+16:10:37.648 [main] INFO  AV.BMS -  OSD 00 currentime 1120.0
+obstacle not detected currenttime 1140.0
+print string boolean false
+16:10:38.652 [main] INFO  AV.BMS -  OSD 00 currentime 1140.0
+obstacle not detected currenttime 1160.0
+print string boolean false
+16:10:39.583 [main] INFO  AV.BMS -  OSD 00 currentime 1160.0
+obstacle not detected currenttime 1180.0
+print string boolean false
+16:10:40.579 [main] INFO  AV.BMS -  OSD 00 currentime 1180.0
+obstacle not detected currenttime 1200.0
+print string boolean false
+16:10:41.587 [main] INFO  AV.BMS -  OSD 00 currentime 1200.0
+obstacle not detected currenttime 1220.0
+print string boolean false
+16:10:42.596 [main] INFO  AV.BMS -  OSD 00 currentime 1220.0
+obstacle not detected currenttime 1240.0
+print string boolean false
+16:10:43.593 [main] INFO  AV.BMS -  OSD 00 currentime 1240.0
+obstacle not detected currenttime 1260.0
+print string boolean false
+16:10:44.594 [main] INFO  AV.BMS -  OSD 00 currentime 1260.0
+obstacle not detected currenttime 1280.0
+print string boolean false
+16:10:45.578 [main] INFO  AV.BMS -  OSD 00 currentime 1280.0
+obstacle not detected currenttime 1300.0
+print string boolean false
+16:10:46.628 [main] INFO  AV.BMS -  OSD 00 currentime 1300.0
+obstacle not detected currenttime 1320.0
+print string boolean false
+16:10:47.665 [main] INFO  AV.BMS -  OSD 00 currentime 1320.0
+obstacle not detected currenttime 1340.0
+print string boolean false
+16:10:48.661 [main] INFO  AV.BMS -  OSD 00 currentime 1340.0
+obstacle not detected currenttime 1360.0
+print string boolean false
+16:10:49.649 [main] INFO  AV.BMS -  OSD 00 currentime 1360.0
+obstacle not detected currenttime 1380.0
+print string boolean false
+16:10:50.675 [main] INFO  AV.BMS -  OSD 00 currentime 1380.0
+obstacle not detected currenttime 1400.0
+print string boolean false
+16:10:51.676 [main] INFO  AV.BMS -  OSD 00 currentime 1400.0
+obstacle not detected currenttime 1420.0
+print string boolean false
+16:10:52.647 [main] INFO  AV.BMS -  OSD 00 currentime 1420.0
+obstacle not detected currenttime 1440.0
+print string boolean false
+16:10:53.641 [main] INFO  AV.BMS -  OSD 00 currentime 1440.0
+obstacle not detected currenttime 1460.0
+print string boolean false
+16:10:54.592 [main] INFO  AV.BMS -  OSD 00 currentime 1460.0
+obstacle not detected currenttime 1480.0
+print string boolean false
+16:10:55.605 [main] INFO  AV.BMS -  OSD 00 currentime 1480.0
+obstacle not detected currenttime 1500.0
+print string boolean false
+16:10:56.575 [main] INFO  AV.BMS -  OSD 00 currentime 1500.0
+obstacle not detected currenttime 1520.0
+print string boolean false
+16:10:57.571 [main] INFO  AV.BMS -  OSD 00 currentime 1520.0
+obstacle not detected currenttime 1540.0
+print string boolean false
+16:10:58.688 [main] INFO  AV.BMS -  OSD 00 currentime 1540.0
+obstacle not detected currenttime 1560.0
+print string boolean false
+16:10:59.624 [main] INFO  AV.BMS -  OSD 00 currentime 1560.0
+obstacle not detected currenttime 1580.0
+print string boolean false
+16:11:00.584 [main] INFO  AV.BMS -  OSD 00 currentime 1580.0
+obstacle not detected currenttime 1600.0
+print string boolean false
+16:11:01.536 [main] INFO  AV.BMS -  OSD 00 currentime 1600.0
+obstacle not detected currenttime 1620.0
+print string boolean false
+16:11:02.542 [main] INFO  AV.BMS -  OSD 00 currentime 1620.0
+obstacle not detected currenttime 1640.0
+print string boolean false
+16:11:03.500 [main] INFO  AV.BMS -  OSD 00 currentime 1640.0
+obstacle not detected currenttime 1660.0
+print string boolean false
+16:11:04.492 [main] INFO  AV.BMS -  OSD 00 currentime 1660.0
+obstacle not detected currenttime 1680.0
+print string boolean false
+16:11:05.497 [main] INFO  AV.BMS -  OSD 00 currentime 1680.0
+obstacle not detected currenttime 1700.0
+print string boolean false
+16:11:06.494 [main] INFO  AV.BMS -  OSD 00 currentime 1700.0
+obstacle not detected currenttime 1720.0
+print string boolean false
+16:11:07.475 [main] INFO  AV.BMS -  OSD 00 currentime 1720.0
+obstacle not detected currenttime 1740.0
+print string boolean false
+16:11:08.405 [main] INFO  AV.BMS -  OSD 00 currentime 1740.0
+obstacle not detected currenttime 1760.0
+print string boolean false
+16:11:09.419 [main] INFO  AV.BMS -  OSD 00 currentime 1760.0
+obstacle not detected currenttime 1780.0
+print string boolean false
+16:11:10.422 [main] INFO  AV.BMS -  OSD 00 currentime 1780.0
+obstacle not detected currenttime 1800.0
+print string boolean false
+16:11:11.396 [main] INFO  AV.BMS -  OSD 00 currentime 1800.0
+obstacle not detected currenttime 1820.0
+print string boolean false
+16:11:12.502 [main] INFO  AV.BMS -  OSD 00 currentime 1820.0
+obstacle not detected currenttime 1840.0
+print string boolean false
+16:11:13.552 [main] INFO  AV.BMS -  OSD 00 currentime 1840.0
+obstacle not detected currenttime 1860.0
+print string boolean false
+16:11:14.575 [main] INFO  AV.BMS -  OSD 00 currentime 1860.0
+obstacle not detected currenttime 1880.0
+print string boolean false
+16:11:15.562 [main] INFO  AV.BMS -  OSD 00 currentime 1880.0
+obstacle not detected currenttime 1900.0
+print string boolean false
+16:11:16.550 [main] INFO  AV.BMS -  OSD 00 currentime 1900.0
+obstacle not detected currenttime 1920.0
+print string boolean false
+16:11:17.559 [main] INFO  AV.BMS -  OSD 00 currentime 1920.0
+obstacle not detected currenttime 1940.0
+print string boolean false
+16:11:18.492 [main] INFO  AV.BMS -  OSD 00 currentime 1940.0
+obstacle not detected currenttime 1960.0
+print string boolean false
+16:11:19.506 [main] INFO  AV.BMS -  OSD 00 currentime 1960.0
+obstacle not detected currenttime 1980.0
+print string boolean false
+16:11:20.466 [main] INFO  AV.BMS -  OSD 00 currentime 1980.0
+obstacle not detected currenttime 2000.0
+print string boolean false
+16:11:21.471 [main] INFO  AV.BMS -  OSD 00 currentime 2000.0
+obstacle detected
+16:11:22.436 [main] INFO  AV.BMS - obstacle distance true currenttime 2020.0
+print string boolean true
+16:11:22.436 [main] INFO  AV.BMS -  OSD 00 currentime 2020.0
+obstacle detected
+16:11:23.444 [main] INFO  AV.BMS - obstacle distance true currenttime 2040.0
+print string boolean true
+16:11:23.445 [main] INFO  AV.BMS -  OSD 00 currentime 2040.0
+obstacle detected
+16:11:24.393 [main] INFO  AV.BMS - obstacle distance true currenttime 2060.0
+print string boolean true
+16:11:24.394 [main] INFO  AV.BMS -  OSD 00 currentime 2060.0
+obstacle detected
+16:11:25.416 [main] INFO  AV.BMS - obstacle distance true currenttime 2080.0
+print string boolean true
+16:11:25.417 [main] INFO  AV.BMS -  OSD 00 currentime 2080.0
+obstacle detected
+16:11:26.412 [main] INFO  AV.BMS - obstacle distance true currenttime 2100.0
+print string boolean true
+16:11:26.413 [main] INFO  AV.BMS -  OSD 00 currentime 2100.0
+obstacle detected
+16:11:27.570 [main] INFO  AV.BMS - obstacle distance true currenttime 2120.0
+print string boolean true
+16:11:27.570 [main] INFO  AV.BMS -  OSD 00 currentime 2120.0
+obstacle detected
+16:11:28.583 [main] INFO  AV.BMS - obstacle distance true currenttime 2140.0
+print string boolean true
+16:11:28.585 [main] INFO  AV.BMS -  OSD 00 currentime 2140.0
+obstacle detected
+16:11:29.583 [main] INFO  AV.BMS - obstacle distance true currenttime 2160.0
+print string boolean true
+16:11:29.584 [main] INFO  AV.BMS -  OSD 00 currentime 2160.0
+obstacle detected
+16:11:30.515 [main] INFO  AV.BMS - obstacle distance true currenttime 2180.0
+print string boolean true
+16:11:30.517 [main] INFO  AV.BMS -  OSD 00 currentime 2180.0
+obstacle detected
+16:11:31.529 [main] INFO  AV.BMS - obstacle distance true currenttime 2200.0
+print string boolean true
+16:11:31.541 [main] INFO  AV.BMS -  OSD 00 currentime 2200.0
+obstacle detected
+16:11:32.521 [main] INFO  AV.BMS - obstacle distance true currenttime 2220.0
+print string boolean true
+16:11:32.521 [main] INFO  AV.BMS -  OSD 00 currentime 2220.0
+obstacle detected
+16:11:33.550 [main] INFO  AV.BMS - obstacle distance true currenttime 2240.0
+print string boolean true
+16:11:33.551 [main] INFO  AV.BMS -  OSD 00 currentime 2240.0
+obstacle detected
+16:11:34.558 [main] INFO  AV.BMS - obstacle distance true currenttime 2260.0
+print string boolean true
+16:11:34.559 [main] INFO  AV.BMS -  OSD 00 currentime 2260.0
+obstacle detected
+16:11:35.511 [main] INFO  AV.BMS - obstacle distance true currenttime 2280.0
+print string boolean true
+16:11:35.512 [main] INFO  AV.BMS -  OSD 00 currentime 2280.0
+obstacle detected
+16:11:36.497 [main] INFO  AV.BMS - obstacle distance true currenttime 2300.0
+print string boolean true
+16:11:36.498 [main] INFO  AV.BMS -  OSD 00 currentime 2300.0
+obstacle detected
+16:11:37.491 [main] INFO  AV.BMS - obstacle distance true currenttime 2320.0
+print string boolean true
+16:11:37.498 [main] INFO  AV.BMS -  OSD 00 currentime 2320.0
+obstacle detected
+16:11:38.486 [main] INFO  AV.BMS - obstacle distance true currenttime 2340.0
+print string boolean true
+16:11:38.487 [main] INFO  AV.BMS -  OSD 00 currentime 2340.0
+obstacle detected
+16:11:39.497 [main] INFO  AV.BMS - obstacle distance true currenttime 2360.0
+print string boolean true
+16:11:39.499 [main] INFO  AV.BMS -  OSD 00 currentime 2360.0
+obstacle detected
+16:11:40.509 [main] INFO  AV.BMS - obstacle distance true currenttime 2380.0
+print string boolean true
+16:11:40.511 [main] INFO  AV.BMS -  OSD 00 currentime 2380.0
+obstacle detected
+16:11:41.479 [main] INFO  AV.BMS - obstacle distance true currenttime 2400.0
+print string boolean true
+16:11:41.496 [main] INFO  AV.BMS -  OSD 00 currentime 2400.0
+obstacle detected
+16:11:42.470 [main] INFO  AV.BMS - obstacle distance true currenttime 2420.0
+print string boolean true
+16:11:42.471 [main] INFO  AV.BMS -  OSD 00 currentime 2420.0
+obstacle detected
+16:11:43.525 [main] INFO  AV.BMS - obstacle distance true currenttime 2440.0
+print string boolean true
+16:11:43.525 [main] INFO  AV.BMS -  OSD 00 currentime 2440.0
+obstacle detected
+16:11:44.659 [main] INFO  AV.BMS - obstacle distance true currenttime 2460.0
+print string boolean true
+16:11:44.660 [main] INFO  AV.BMS -  OSD 00 currentime 2460.0
+obstacle detected
+16:11:45.650 [main] INFO  AV.BMS - obstacle distance true currenttime 2480.0
+print string boolean true
+16:11:45.651 [main] INFO  AV.BMS -  OSD 00 currentime 2480.0
+obstacle detected
+16:11:46.628 [main] INFO  AV.BMS - obstacle distance true currenttime 2500.0
+print string boolean true
+16:11:46.629 [main] INFO  AV.BMS -  OSD 00 currentime 2500.0
+obstacle detected
+16:11:47.482 [main] INFO  AV.BMS - obstacle distance true currenttime 2520.0
+print string boolean true
+16:11:47.496 [main] INFO  AV.BMS -  OSD 00 currentime 2520.0
+obstacle detected
+16:11:48.498 [main] INFO  AV.BMS - obstacle distance true currenttime 2540.0
+print string boolean true
+16:11:48.499 [main] INFO  AV.BMS -  OSD 00 currentime 2540.0
+obstacle detected
+16:11:49.473 [main] INFO  AV.BMS - obstacle distance true currenttime 2560.0
+print string boolean true
+16:11:49.473 [main] INFO  AV.BMS -  OSD 00 currentime 2560.0
+obstacle detected
+16:11:50.485 [main] INFO  AV.BMS - obstacle distance true currenttime 2580.0
+print string boolean true
+16:11:50.487 [main] INFO  AV.BMS -  OSD 00 currentime 2580.0
+obstacle detected
+16:11:51.522 [main] INFO  AV.BMS - obstacle distance true currenttime 2600.0
+print string boolean true
+16:11:51.523 [main] INFO  AV.BMS -  OSD 00 currentime 2600.0
+obstacle detected
+16:11:52.498 [main] INFO  AV.BMS - obstacle distance true currenttime 2620.0
+print string boolean true
+16:11:52.498 [main] INFO  AV.BMS -  OSD 00 currentime 2620.0
+obstacle detected
+16:11:53.501 [main] INFO  AV.BMS - obstacle distance true currenttime 2640.0
+print string boolean true
+16:11:53.502 [main] INFO  AV.BMS -  OSD 00 currentime 2640.0
+obstacle detected
+16:11:54.435 [main] INFO  AV.BMS - obstacle distance true currenttime 2660.0
+print string boolean true
+16:11:54.436 [main] INFO  AV.BMS -  OSD 00 currentime 2660.0
+obstacle detected
+16:11:55.300 [main] INFO  AV.BMS - obstacle distance true currenttime 2680.0
+print string boolean true
+16:11:55.303 [main] INFO  AV.BMS -  OSD 00 currentime 2680.0
+obstacle detected
+16:11:56.743 [main] INFO  AV.BMS - obstacle distance true currenttime 2700.0
+print string boolean true
+16:11:56.744 [main] INFO  AV.BMS -  OSD 00 currentime 2700.0
+obstacle detected
+16:11:57.689 [main] INFO  AV.BMS - obstacle distance true currenttime 2720.0
+print string boolean true
+16:11:57.689 [main] INFO  AV.BMS -  OSD 00 currentime 2720.0
+obstacle detected
+16:11:58.674 [main] INFO  AV.BMS - obstacle distance true currenttime 2740.0
+print string boolean true
+16:11:58.677 [main] INFO  AV.BMS -  OSD 00 currentime 2740.0
+obstacle detected
+16:11:59.673 [main] INFO  AV.BMS - obstacle distance true currenttime 2760.0
+print string boolean true
+16:11:59.677 [main] INFO  AV.BMS -  OSD 00 currentime 2760.0
+obstacle detected
+16:12:00.691 [main] INFO  AV.BMS - obstacle distance true currenttime 2780.0
+print string boolean true
+16:12:00.691 [main] INFO  AV.BMS -  OSD 00 currentime 2780.0
+obstacle detected
+16:12:01.752 [main] INFO  AV.BMS - obstacle distance true currenttime 2800.0
+print string boolean true
+16:12:01.753 [main] INFO  AV.BMS -  OSD 00 currentime 2800.0
+obstacle detected
+16:12:02.716 [main] INFO  AV.BMS - obstacle distance true currenttime 2820.0
+print string boolean true
+16:12:02.717 [main] INFO  AV.BMS -  OSD 00 currentime 2820.0
+obstacle detected
+16:12:03.750 [main] INFO  AV.BMS - obstacle distance true currenttime 2840.0
+print string boolean true
+16:12:03.751 [main] INFO  AV.BMS -  OSD 00 currentime 2840.0
+obstacle detected
+16:12:04.773 [main] INFO  AV.BMS - obstacle distance true currenttime 2860.0
+print string boolean true
+16:12:04.774 [main] INFO  AV.BMS -  OSD 00 currentime 2860.0
+obstacle detected
+16:12:05.750 [main] INFO  AV.BMS - obstacle distance true currenttime 2880.0
+print string boolean true
+16:12:05.750 [main] INFO  AV.BMS -  OSD 00 currentime 2880.0
+obstacle detected
+16:12:06.732 [main] INFO  AV.BMS - obstacle distance true currenttime 2900.0
+print string boolean true
+16:12:06.733 [main] INFO  AV.BMS -  OSD 00 currentime 2900.0
+obstacle detected
+16:12:07.733 [main] INFO  AV.BMS - obstacle distance true currenttime 2920.0
+print string boolean true
+16:12:07.733 [main] INFO  AV.BMS -  OSD 00 currentime 2920.0
+obstacle detected
+16:12:08.739 [main] INFO  AV.BMS - obstacle distance true currenttime 2940.0
+print string boolean true
+16:12:08.740 [main] INFO  AV.BMS -  OSD 00 currentime 2940.0
+obstacle detected
+16:12:09.737 [main] INFO  AV.BMS - obstacle distance true currenttime 2960.0
+print string boolean true
+16:12:09.737 [main] INFO  AV.BMS -  OSD 00 currentime 2960.0
+obstacle detected
+16:12:10.711 [main] INFO  AV.BMS - obstacle distance true currenttime 2980.0
+print string boolean true
+16:12:10.713 [main] INFO  AV.BMS -  OSD 00 currentime 2980.0
+obstacle detected
+16:12:11.712 [main] INFO  AV.BMS - obstacle distance true currenttime 3000.0
+print string boolean true
+16:12:11.713 [main] INFO  AV.BMS -  OSD 00 currentime 3000.0
+obstacle detected
+16:12:12.761 [main] INFO  AV.BMS - obstacle distance true currenttime 3020.0
+print string boolean true
+16:12:12.763 [main] INFO  AV.BMS -  OSD 00 currentime 3020.0
+obstacle detected
+16:12:13.741 [main] INFO  AV.BMS - obstacle distance true currenttime 3040.0
+print string boolean true
+16:12:13.742 [main] INFO  AV.BMS -  OSD 00 currentime 3040.0
+obstacle detected
+16:12:14.754 [main] INFO  AV.BMS - obstacle distance true currenttime 3060.0
+print string boolean true
+16:12:14.755 [main] INFO  AV.BMS -  OSD 00 currentime 3060.0
+obstacle detected
+16:12:15.721 [main] INFO  AV.BMS - obstacle distance true currenttime 3080.0
+print string boolean true
+16:12:15.722 [main] INFO  AV.BMS -  OSD 00 currentime 3080.0
+obstacle detected
+16:12:16.715 [main] INFO  AV.BMS - obstacle distance true currenttime 3100.0
+print string boolean true
+16:12:16.718 [main] INFO  AV.BMS -  OSD 00 currentime 3100.0
+obstacle detected
+16:12:17.694 [main] INFO  AV.BMS - obstacle distance true currenttime 3120.0
+print string boolean true
+16:12:17.695 [main] INFO  AV.BMS -  OSD 00 currentime 3120.0
+obstacle detected
+16:12:18.692 [main] INFO  AV.BMS - obstacle distance true currenttime 3140.0
+print string boolean true
+16:12:18.695 [main] INFO  AV.BMS -  OSD 00 currentime 3140.0
+obstacle detected
+16:12:19.684 [main] INFO  AV.BMS - obstacle distance true currenttime 3160.0
+print string boolean true
+16:12:19.685 [main] INFO  AV.BMS -  OSD 00 currentime 3160.0
+obstacle detected
+16:12:20.654 [main] INFO  AV.BMS - obstacle distance true currenttime 3180.0
+print string boolean true
+16:12:20.654 [main] INFO  AV.BMS -  OSD 00 currentime 3180.0
+obstacle detected
+16:12:21.791 [main] INFO  AV.BMS - obstacle distance true currenttime 3200.0
+print string boolean true
+16:12:21.791 [main] INFO  AV.BMS -  OSD 00 currentime 3200.0
+obstacle detected
+16:12:22.794 [main] INFO  AV.BMS - obstacle distance true currenttime 3220.0
+print string boolean true
+16:12:22.795 [main] INFO  AV.BMS -  OSD 00 currentime 3220.0
+obstacle detected
+16:12:23.775 [main] INFO  AV.BMS - obstacle distance true currenttime 3240.0
+print string boolean true
+16:12:23.775 [main] INFO  AV.BMS -  OSD 00 currentime 3240.0
+obstacle detected
+16:12:24.795 [main] INFO  AV.BMS - obstacle distance true currenttime 3260.0
+print string boolean true
+16:12:24.796 [main] INFO  AV.BMS -  OSD 00 currentime 3260.0
+obstacle detected
+16:12:25.845 [main] INFO  AV.BMS - obstacle distance true currenttime 3280.0
+print string boolean true
+16:12:25.845 [main] INFO  AV.BMS -  OSD 00 currentime 3280.0
+obstacle detected
+16:12:26.814 [main] INFO  AV.BMS - obstacle distance true currenttime 3300.0
+print string boolean true
+16:12:26.816 [main] INFO  AV.BMS -  OSD 00 currentime 3300.0
+obstacle detected
+16:12:27.825 [main] INFO  AV.BMS - obstacle distance true currenttime 3320.0
+print string boolean true
+16:12:27.825 [main] INFO  AV.BMS -  OSD 00 currentime 3320.0
+obstacle detected
+16:12:28.770 [main] INFO  AV.BMS - obstacle distance true currenttime 3340.0
+print string boolean true
+16:12:28.771 [main] INFO  AV.BMS -  OSD 00 currentime 3340.0
+obstacle detected
+16:12:29.735 [main] INFO  AV.BMS - obstacle distance true currenttime 3360.0
+print string boolean true
+16:12:29.736 [main] INFO  AV.BMS -  OSD 00 currentime 3360.0
+obstacle detected
+16:12:30.669 [main] INFO  AV.BMS - obstacle distance true currenttime 3380.0
+print string boolean true
+16:12:30.670 [main] INFO  AV.BMS -  OSD 00 currentime 3380.0
+obstacle detected
+16:12:31.684 [main] INFO  AV.BMS - obstacle distance true currenttime 3400.0
+print string boolean true
+16:12:31.684 [main] INFO  AV.BMS -  OSD 00 currentime 3400.0
+obstacle detected
+16:12:32.679 [main] INFO  AV.BMS - obstacle distance true currenttime 3420.0
+print string boolean true
+16:12:32.680 [main] INFO  AV.BMS -  OSD 00 currentime 3420.0
+obstacle detected
+16:12:33.663 [main] INFO  AV.BMS - obstacle distance true currenttime 3440.0
+print string boolean true
+16:12:33.664 [main] INFO  AV.BMS -  OSD 00 currentime 3440.0
+obstacle detected
+16:12:34.571 [main] INFO  AV.BMS - obstacle distance true currenttime 3460.0
+print string boolean true
+16:12:34.571 [main] INFO  AV.BMS -  OSD 00 currentime 3460.0
+obstacle detected
+16:12:35.530 [main] INFO  AV.BMS - obstacle distance true currenttime 3480.0
+print string boolean true
+16:12:35.531 [main] INFO  AV.BMS -  OSD 00 currentime 3480.0
+obstacle detected
+16:12:36.501 [main] INFO  AV.BMS - obstacle distance true currenttime 3500.0
+print string boolean true
+16:12:36.502 [main] INFO  AV.BMS -  OSD 00 currentime 3500.0
+obstacle detected
+16:12:37.523 [main] INFO  AV.BMS - obstacle distance true currenttime 3520.0
+print string boolean true
+16:12:37.523 [main] INFO  AV.BMS -  OSD 00 currentime 3520.0
+obstacle detected
+16:12:38.490 [main] INFO  AV.BMS - obstacle distance true currenttime 3540.0
+print string boolean true
+16:12:38.490 [main] INFO  AV.BMS -  OSD 00 currentime 3540.0
+obstacle detected
+16:12:39.513 [main] INFO  AV.BMS - obstacle distance true currenttime 3560.0
+print string boolean true
+16:12:39.514 [main] INFO  AV.BMS -  OSD 00 currentime 3560.0
+obstacle detected
+16:12:40.619 [main] INFO  AV.BMS - obstacle distance true currenttime 3580.0
+print string boolean true
+16:12:40.620 [main] INFO  AV.BMS -  OSD 00 currentime 3580.0
+obstacle detected
+16:12:41.609 [main] INFO  AV.BMS - obstacle distance true currenttime 3600.0
+print string boolean true
+16:12:41.610 [main] INFO  AV.BMS -  OSD 00 currentime 3600.0
+obstacle detected
+16:12:42.663 [main] INFO  AV.BMS - obstacle distance true currenttime 3620.0
+print string boolean true
+16:12:42.664 [main] INFO  AV.BMS -  OSD 00 currentime 3620.0
+obstacle detected
+16:12:43.688 [main] INFO  AV.BMS - obstacle distance true currenttime 3640.0
+print string boolean true
+16:12:43.688 [main] INFO  AV.BMS -  OSD 00 currentime 3640.0
+obstacle detected
+16:12:44.708 [main] INFO  AV.BMS - obstacle distance true currenttime 3660.0
+print string boolean true
+16:12:44.709 [main] INFO  AV.BMS -  OSD 00 currentime 3660.0
+obstacle detected
+16:12:45.739 [main] INFO  AV.BMS - obstacle distance true currenttime 3680.0
+print string boolean true
+16:12:45.740 [main] INFO  AV.BMS -  OSD 00 currentime 3680.0
+obstacle detected
+16:12:46.754 [main] INFO  AV.BMS - obstacle distance true currenttime 3700.0
+print string boolean true
+16:12:46.755 [main] INFO  AV.BMS -  OSD 00 currentime 3700.0
+obstacle detected
+16:12:47.727 [main] INFO  AV.BMS - obstacle distance true currenttime 3720.0
+print string boolean true
+16:12:47.728 [main] INFO  AV.BMS -  OSD 00 currentime 3720.0
+obstacle detected
+16:12:48.707 [main] INFO  AV.BMS - obstacle distance true currenttime 3740.0
+print string boolean true
+16:12:48.708 [main] INFO  AV.BMS -  OSD 00 currentime 3740.0
+obstacle detected
+16:12:49.732 [main] INFO  AV.BMS - obstacle distance true currenttime 3760.0
+print string boolean true
+16:12:49.733 [main] INFO  AV.BMS -  OSD 00 currentime 3760.0
+obstacle detected
+16:12:50.717 [main] INFO  AV.BMS - obstacle distance true currenttime 3780.0
+print string boolean true
+16:12:50.717 [main] INFO  AV.BMS -  OSD 00 currentime 3780.0
+obstacle detected
+16:12:51.697 [main] INFO  AV.BMS - obstacle distance true currenttime 3800.0
+print string boolean true
+16:12:51.698 [main] INFO  AV.BMS -  OSD 00 currentime 3800.0
+obstacle detected
+16:12:52.727 [main] INFO  AV.BMS - obstacle distance true currenttime 3820.0
+print string boolean true
+16:12:52.727 [main] INFO  AV.BMS -  OSD 00 currentime 3820.0
+obstacle detected
+16:12:53.728 [main] INFO  AV.BMS - obstacle distance true currenttime 3840.0
+print string boolean true
+16:12:53.729 [main] INFO  AV.BMS -  OSD 00 currentime 3840.0
+obstacle detected
+16:12:54.731 [main] INFO  AV.BMS - obstacle distance true currenttime 3860.0
+print string boolean true
+16:12:54.732 [main] INFO  AV.BMS -  OSD 00 currentime 3860.0
+obstacle detected
+16:12:55.725 [main] INFO  AV.BMS - obstacle distance true currenttime 3880.0
+print string boolean true
+16:12:55.725 [main] INFO  AV.BMS -  OSD 00 currentime 3880.0
+obstacle detected
+16:12:56.721 [main] INFO  AV.BMS - obstacle distance true currenttime 3900.0
+print string boolean true
+16:12:56.721 [main] INFO  AV.BMS -  OSD 00 currentime 3900.0
+obstacle detected
+16:12:57.706 [main] INFO  AV.BMS - obstacle distance true currenttime 3920.0
+print string boolean true
+16:12:57.707 [main] INFO  AV.BMS -  OSD 00 currentime 3920.0
+obstacle detected
+16:12:58.708 [main] INFO  AV.BMS - obstacle distance true currenttime 3940.0
+print string boolean true
+16:12:58.709 [main] INFO  AV.BMS -  OSD 00 currentime 3940.0
+obstacle detected
+16:12:59.717 [main] INFO  AV.BMS - obstacle distance true currenttime 3960.0
+print string boolean true
+16:12:59.717 [main] INFO  AV.BMS -  OSD 00 currentime 3960.0
+obstacle detected
+16:13:00.723 [main] INFO  AV.BMS - obstacle distance true currenttime 3980.0
+print string boolean true
+16:13:00.723 [main] INFO  AV.BMS -  OSD 00 currentime 3980.0
+obstacle not detected currenttime 4000.0
+print string boolean false
+16:13:01.619 [main] INFO  AV.BMS -  OSD 00 currentime 4000.0
+obstacle not detected currenttime 4020.0
+print string boolean false
+16:13:02.788 [main] INFO  AV.BMS -  OSD 00 currentime 4020.0
+obstacle not detected currenttime 4040.0
+print string boolean false
+16:13:03.804 [main] INFO  AV.BMS -  OSD 00 currentime 4040.0
+obstacle not detected currenttime 4060.0
+print string boolean false
+16:13:04.792 [main] INFO  AV.BMS -  OSD 00 currentime 4060.0
+obstacle not detected currenttime 4080.0
+print string boolean false
+16:13:05.781 [main] INFO  AV.BMS -  OSD 00 currentime 4080.0
+obstacle not detected currenttime 4100.0
+print string boolean false
+16:13:06.808 [main] INFO  AV.BMS -  OSD 00 currentime 4100.0
+obstacle not detected currenttime 4120.0
+print string boolean false
+16:13:07.838 [main] INFO  AV.BMS -  OSD 00 currentime 4120.0
+obstacle not detected currenttime 4140.0
+print string boolean false
+16:13:08.854 [main] INFO  AV.BMS -  OSD 00 currentime 4140.0
+obstacle not detected currenttime 4160.0
+print string boolean false
+16:13:09.889 [main] INFO  AV.BMS -  OSD 00 currentime 4160.0
+obstacle not detected currenttime 4180.0
+print string boolean false
+16:13:10.883 [main] INFO  AV.BMS -  OSD 00 currentime 4180.0
+obstacle not detected currenttime 4200.0
+print string boolean false
+16:13:11.880 [main] INFO  AV.BMS -  OSD 00 currentime 4200.0
+obstacle not detected currenttime 4220.0
+print string boolean false
+16:13:12.819 [main] INFO  AV.BMS -  OSD 00 currentime 4220.0
+obstacle not detected currenttime 4240.0
+print string boolean false
+16:13:13.811 [main] INFO  AV.BMS -  OSD 00 currentime 4240.0
+obstacle not detected currenttime 4260.0
+print string boolean false
+16:13:14.803 [main] INFO  AV.BMS -  OSD 00 currentime 4260.0
+obstacle not detected currenttime 4280.0
+print string boolean false
+16:13:15.769 [main] INFO  AV.BMS -  OSD 00 currentime 4280.0
+obstacle not detected currenttime 4300.0
+print string boolean false
+16:13:16.756 [main] INFO  AV.BMS -  OSD 00 currentime 4300.0
+obstacle not detected currenttime 4320.0
+print string boolean false
+16:13:17.745 [main] INFO  AV.BMS -  OSD 00 currentime 4320.0
+obstacle not detected currenttime 4340.0
+print string boolean false
+16:13:18.708 [main] INFO  AV.BMS -  OSD 00 currentime 4340.0
+obstacle not detected currenttime 4360.0
+print string boolean false
+16:13:19.700 [main] INFO  AV.BMS -  OSD 00 currentime 4360.0
+obstacle not detected currenttime 4380.0
+print string boolean false
+16:13:20.691 [main] INFO  AV.BMS -  OSD 00 currentime 4380.0
+obstacle not detected currenttime 4400.0
+print string boolean false
+16:13:21.663 [main] INFO  AV.BMS -  OSD 00 currentime 4400.0
+obstacle not detected currenttime 4420.0
+print string boolean false
+16:13:22.643 [main] INFO  AV.BMS -  OSD 00 currentime 4420.0
+obstacle not detected currenttime 4440.0
+print string boolean false
+16:13:23.852 [main] INFO  AV.BMS -  OSD 00 currentime 4440.0
+obstacle not detected currenttime 4460.0
+print string boolean false
+16:13:24.805 [main] INFO  AV.BMS -  OSD 00 currentime 4460.0
+obstacle not detected currenttime 4480.0
+print string boolean false
+16:13:25.796 [main] INFO  AV.BMS -  OSD 00 currentime 4480.0
+obstacle not detected currenttime 4500.0
+print string boolean false
+16:13:26.800 [main] INFO  AV.BMS -  OSD 00 currentime 4500.0
+obstacle not detected currenttime 4520.0
+print string boolean false
+16:13:27.800 [main] INFO  AV.BMS -  OSD 00 currentime 4520.0
+obstacle not detected currenttime 4540.0
+print string boolean false
+16:13:28.867 [main] INFO  AV.BMS -  OSD 00 currentime 4540.0
+obstacle not detected currenttime 4560.0
+print string boolean false
+16:13:29.850 [main] INFO  AV.BMS -  OSD 00 currentime 4560.0
+obstacle not detected currenttime 4580.0
+print string boolean false
+16:13:30.858 [main] INFO  AV.BMS -  OSD 00 currentime 4580.0
+obstacle not detected currenttime 4600.0
+print string boolean false
+16:13:31.827 [main] INFO  AV.BMS -  OSD 00 currentime 4600.0
+obstacle not detected currenttime 4620.0
+print string boolean false
+16:13:32.838 [main] INFO  AV.BMS -  OSD 00 currentime 4620.0
+obstacle not detected currenttime 4640.0
+print string boolean false
+16:13:33.784 [main] INFO  AV.BMS -  OSD 00 currentime 4640.0
+obstacle not detected currenttime 4660.0
+print string boolean false
+16:13:34.801 [main] INFO  AV.BMS -  OSD 00 currentime 4660.0

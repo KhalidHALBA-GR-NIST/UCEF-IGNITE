@@ -1,0 +1,19 @@
+{
+  "federateRTIInitWaitTimeMs": 200,
+  "federateType": "BMS",
+  "federationId": "AV",
+  "isLateJoiner": false,
+  "lookAhead": 0.2,
+  "stepSize": 1.0,
+  "Peak_Voltage":"0",  
+  "Peak_Current":"0",
+  "State_Of_Charge":"0", 
+  "State_Of_Health":"0",
+  "Obstacle_Presence_distance":"20",
+  "Remaining_Capacity":"0", 
+  "Max_Temperature":"0",
+  "Min_Temperature":"0",
+  "Peak_Current_Limit":"0",
+  "BMSPGN": "BMS",
+  "BMSSPNs": "0"
+}

@@ -23,6 +23,8 @@ public class BMSConfig extends FederateConfig {
     @FederateParameter
     public String Peak_Voltage;         // pgn ?  SPN ? 
     @FederateParameter
+    public String Obstacle_Presence_distance; 
+    @FederateParameter
     public String Peak_Current;   // pgn ? SPN ? 
     @FederateParameter
     public String State_Of_Charge;   // pgn ?    SPN ?

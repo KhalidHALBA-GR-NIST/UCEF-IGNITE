@@ -1,0 +1,102 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-3377, cluster=AV, physical address=10.0.2.15:38500
+-------------------------------------------------------------------
+18:26:33.174 [main] INFO  AV.MCU - waiting on readyToPopulate...
+18:26:51.348 [main] INFO  AV.MCU - ...synchronized on readyToPopulate
+18:26:51.348 [main] INFO  AV.MCU - waiting on readyToRun...
+18:26:51.606 [main] INFO  AV.MCU - ...synchronized on readyToRun
+18:26:51.609 [main] INFO  AV.MCU - started logical time progression
+18:26:53.774 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  9.0  message time is 9.0 case 9
+18:26:55.407 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  29.0  message time is 29.0 case 9
+18:26:56.789 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  49.0  message time is 49.0 case 9
+18:26:58.190 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  69.0  message time is 69.0 case 9
+18:26:59.690 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  89.0  message time is 89.0 case 9
+18:27:00.947 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  109.0  message time is 109.0 case 9
+18:27:02.273 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  129.0  message time is 129.0 case 9
+18:27:03.612 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  149.0  message time is 149.0 case 9
+18:27:04.728 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  169.0  message time is 169.0 case 9
+18:27:06.338 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  189.0  message time is 189.0 case 9
+18:27:08.054 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  209.0  message time is 209.0 case 9
+18:27:09.358 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  229.0  message time is 229.0 case 9
+18:27:10.699 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  249.0  message time is 249.0 case 9
+18:27:11.951 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  269.0  message time is 269.0 case 9
+18:27:13.184 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  289.0  message time is 289.0 case 9
+18:27:14.359 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  309.0  message time is 309.0 case 9
+18:27:15.564 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  329.0  message time is 329.0 case 9
+18:27:16.797 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  349.0  message time is 349.0 case 9
+18:27:17.992 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  369.0  message time is 369.0 case 9
+18:27:19.240 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  389.0  message time is 389.0 case 9
+18:27:20.416 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  409.0  message time is 409.0 case 9
+18:27:21.476 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  429.0  message time is 429.0 case 9
+18:27:22.694 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  449.0  message time is 449.0 case 9
+18:27:24.014 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  469.0  message time is 469.0 case 9
+18:27:25.242 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  489.0  message time is 489.0 case 9
+18:27:26.421 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  509.0  message time is 509.0 case 9
+18:27:27.584 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  529.0  message time is 529.0 case 9
+18:27:28.667 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  549.0  message time is 549.0 case 9
+18:27:29.742 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  569.0  message time is 569.0 case 9
+18:27:30.825 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  589.0  message time is 589.0 case 9
+18:27:32.104 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  609.0  message time is 609.0 case 9
+18:27:33.171 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  629.0  message time is 629.0 case 9
+18:27:34.241 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  649.0  message time is 649.0 case 9
+18:27:35.347 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  669.0  message time is 669.0 case 9
+18:27:36.440 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  689.0  message time is 689.0 case 9
+18:27:37.590 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  709.0  message time is 709.0 case 9
+18:27:38.677 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  729.0  message time is 729.0 case 9
+18:27:39.748 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  749.0  message time is 749.0 case 9
+18:27:40.847 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  769.0  message time is 769.0 case 9
+18:27:41.876 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  789.0  message time is 789.0 case 9
+18:27:42.992 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  809.0  message time is 809.0 case 9
+18:27:44.122 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  829.0  message time is 829.0 case 9
+18:27:45.406 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  849.0  message time is 849.0 case 9
+18:27:46.484 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  869.0  message time is 869.0 case 9
+18:27:47.581 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  889.0  message time is 889.0 case 9
+18:27:48.670 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  909.0  message time is 909.0 case 9
+18:27:49.780 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  929.0  message time is 929.0 case 9
+18:27:50.878 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  949.0  message time is 949.0 case 9
+18:27:51.978 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  969.0  message time is 969.0 case 9
+18:27:53.084 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  989.0  message time is 989.0 case 9
+18:27:54.151 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1009.0  message time is 1009.0 case 9
+18:27:55.199 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1029.0  message time is 1029.0 case 9
+18:27:56.335 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1049.0  message time is 1049.0 case 9
+18:27:57.742 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1069.0  message time is 1069.0 case 9
+18:27:58.818 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1089.0  message time is 1089.0 case 9
+18:27:59.849 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1109.0  message time is 1109.0 case 9
+18:28:00.865 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1129.0  message time is 1129.0 case 9
+18:28:01.900 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1149.0  message time is 1149.0 case 9
+18:28:03.017 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1169.0  message time is 1169.0 case 9
+18:28:04.129 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1189.0  message time is 1189.0 case 9
+18:28:05.235 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1209.0  message time is 1209.0 case 9
+18:28:06.276 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1229.0  message time is 1229.0 case 9
+18:28:07.360 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1249.0  message time is 1249.0 case 9
+18:28:08.396 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1269.0  message time is 1269.0 case 9
+18:28:09.438 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1289.0  message time is 1289.0 case 9
+18:28:10.525 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1309.0  message time is 1309.0 case 9
+18:28:11.588 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1329.0  message time is 1329.0 case 9
+18:28:12.838 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1349.0  message time is 1349.0 case 9
+18:28:13.878 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1369.0  message time is 1369.0 case 9
+18:28:14.935 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1389.0  message time is 1389.0 case 9
+18:28:16.005 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1409.0  message time is 1409.0 case 9
+18:28:17.093 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1429.0  message time is 1429.0 case 9
+18:28:18.163 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1449.0  message time is 1449.0 case 9
+18:28:19.247 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1469.0  message time is 1469.0 case 9
+18:28:20.346 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 0.0 & current time is  1489.0  message time is 1489.0 case 9
+18:28:21.468 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1509.0  message time is 1509.0 case 9
+18:28:22.562 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1529.0  message time is 1529.0 case 9
+18:28:23.617 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1549.0  message time is 1549.0 case 9
+18:28:24.705 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1569.0  message time is 1569.0 case 9
+18:28:25.758 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1589.0  message time is 1589.0 case 9
+18:28:26.806 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1609.0  message time is 1609.0 case 9
+18:28:27.942 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1629.0  message time is 1629.0 case 9
+18:28:28.985 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1649.0  message time is 1649.0 case 9
+18:28:30.025 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1669.0  message time is 1669.0 case 9
+18:28:31.154 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1689.0  message time is 1689.0 case 9
+18:28:32.197 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1709.0  message time is 1709.0 case 9
+18:28:33.267 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1729.0  message time is 1729.0 case 9
+18:28:34.354 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1749.0  message time is 1749.0 case 9
+18:28:35.461 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1769.0  message time is 1769.0 case 9
+18:28:36.596 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1789.0  message time is 1789.0 case 9
+18:28:37.809 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1809.0  message time is 1809.0 case 9
+18:28:39.015 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1829.0  message time is 1829.0 case 9
+18:28:40.100 [main] INFO  AV.MCU - VCU_Torque_Commands VCU_Torque_Commands : 3.0 & current time is  1849.0  message time is 1849.0 case 9

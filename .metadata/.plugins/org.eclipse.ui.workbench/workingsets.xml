@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1565104520536_1" label="AV-root" name="AV-root">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AV_generated" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AV-java-federates" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AV-base-java" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AV-impl-java" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ABS" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BMS" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Database" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MCU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/VCU" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AV-rti-java" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1564627899872_0" label="Window Working Set" name="Aggregate for window 1564627899871"/>
 </workingSetManager>

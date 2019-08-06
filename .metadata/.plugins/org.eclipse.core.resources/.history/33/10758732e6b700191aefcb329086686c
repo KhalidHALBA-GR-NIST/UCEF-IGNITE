@@ -1,0 +1,48 @@
+{
+  "federateRTIInitWaitTimeMs": 200,
+  "federateType": "VCU",
+  "federationId": "AV",
+  "isLateJoiner": false,
+  "lookAhead": 0.2,
+  "stepSize": 1.0,
+  
+  "VCUPGN" : "VCU",
+  "VCUSPNs" : "0",
+  
+  
+  "Motor_Operating_Mode":"0",
+  "Motor_Torque_cmd":"0",
+  "Motor_Speed":"0",
+  "Volt_Cmd":"0",
+  "Contactor_Override_Commands":"0", 
+  "Battery_Cooling_Heating_Commands":"0", 
+  "Motor_Cooling_Heating_Commands":"0", 
+  "Inverter_Cooling_Heating_Commands":"0", 
+  
+
+  "MCU_Motor_Temperature" : "0",
+  "MCU_Inverter_Temperature" : "0",
+  "MCU_Motor_Speed" : "0",
+  "MCU_Motor_Power_Limits" : "0",
+  
+  
+  "BMS_Battery_Peak_Current" : "0",
+  "BMS_Battery_Peak_Voltage" : "0",
+  "BMS_Battery_State_of_charge_and_Health" : "0",
+  "BMS_Battery_Remaining_Capacity" : "0",
+  "BMS_Battery_Max_Min_Cell_Temperature" : "0",
+  "BMS_Battery_Pack_Power_limit" : "0",
+   "BMS_Obstacle_Presence_distance" : "0",      
+  
+  "ABS_Wheel_Speed" : "0",
+  "ABS_Vehicle_Speed" : "0",
+  "ABS_Event_Status" : "0",
+
+  
+  "Accel_Pedal_Position":"0",
+  "Brake_Pressure":"0",
+
+  "messageTime" : 0,
+  "COA_Message" : "0"
+  
+ }

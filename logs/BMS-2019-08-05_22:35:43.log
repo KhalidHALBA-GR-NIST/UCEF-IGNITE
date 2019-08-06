@@ -1,0 +1,52 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-17302, cluster=AV, physical address=10.0.2.15:54569
+-------------------------------------------------------------------
+22:36:22.940 [main] INFO  AV.BMS - waiting on readyToPopulate...
+22:36:50.856 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+22:36:50.857 [main] INFO  AV.BMS - waiting on readyToRun...
+22:36:51.108 [main] INFO  AV.BMS - ...synchronized on readyToRun
+22:36:51.110 [main] INFO  AV.BMS - started logical time progression
+inside
+22:36:52.514 [main] INFO  AV.BMS - obstacle distance 19 currenttime 4.0
+inside
+22:36:52.574 [main] INFO  AV.BMS - obstacle distance 18 currenttime 5.0
+inside
+22:36:54.103 [main] INFO  AV.BMS - obstacle distance 17 currenttime 24.0
+inside
+22:36:54.202 [main] INFO  AV.BMS - obstacle distance 16 currenttime 25.0
+inside
+22:36:55.622 [main] INFO  AV.BMS - obstacle distance 15 currenttime 44.0
+inside
+22:36:55.658 [main] INFO  AV.BMS - obstacle distance 14 currenttime 45.0
+inside
+22:36:56.790 [main] INFO  AV.BMS - obstacle distance 13 currenttime 64.0
+inside
+22:36:56.894 [main] INFO  AV.BMS - obstacle distance 12 currenttime 65.0
+inside
+22:36:58.149 [main] INFO  AV.BMS - obstacle distance 11 currenttime 84.0
+inside
+22:36:58.224 [main] INFO  AV.BMS - obstacle distance 10 currenttime 85.0
+inside
+22:36:59.409 [main] INFO  AV.BMS - obstacle distance 9 currenttime 104.0
+inside
+22:36:59.465 [main] INFO  AV.BMS - obstacle distance 8 currenttime 105.0
+inside
+22:37:00.471 [main] INFO  AV.BMS - obstacle distance 7 currenttime 124.0
+inside
+22:37:00.534 [main] INFO  AV.BMS - obstacle distance 6 currenttime 125.0
+inside
+22:37:01.582 [main] INFO  AV.BMS - obstacle distance 5 currenttime 144.0
+inside
+22:37:01.756 [main] INFO  AV.BMS - obstacle distance 4 currenttime 145.0
+inside
+22:37:02.787 [main] INFO  AV.BMS - obstacle distance 3 currenttime 164.0
+inside
+22:37:02.840 [main] INFO  AV.BMS - obstacle distance 2 currenttime 165.0
+inside
+22:37:04.193 [main] INFO  AV.BMS - obstacle distance 1 currenttime 184.0
+inside
+22:37:04.547 [main] INFO  AV.BMS - obstacle distance 0 currenttime 185.0
+22:37:26.504 [main] INFO  org.cpswt.hla.SynchronizedFederate - BMS-82980020-186b-4453-ac0b-1e69155936e1: SimEnd interaction received, exiting...
+22:37:26.506 [main] INFO  org.cpswt.hla.SynchronizedFederate - Exiting gracefully ....
+22:37:31.559 [main] INFO  AV.BMS - Done.

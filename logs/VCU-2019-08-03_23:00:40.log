@@ -1,0 +1,32 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-63029, cluster=AV, physical address=10.0.2.15:40979
+-------------------------------------------------------------------
+23:02:09.202 [main] INFO  AV.VCU - waiting on readyToRun...
+23:02:09.473 [main] INFO  AV.VCU - ...synchronized on readyToRun
+23:02:09.477 [main] INFO  AV.VCU - started logical time progression
+speed0 time 1
+speed0 time 2
+speed0 time 3
+speed0 time 4
+speed0 time 5
+speed0 time 6
+speed0 time 7
+speed0 time 8
+speed0 time 9
+speed0 time 10
+speed0 time 11
+speed0 time 12
+speed0 time 13
+speed0 time 14
+speed0 time 15
+speed0 time 16
+speed0 time 17
+speed0 time 18
+speed0 time 19
+speed0 time 20
+speed0 time 21
+speed4.83 time 22
+speed9.49 time 23
+speed13.84 time 24
+speed18.51 time 25

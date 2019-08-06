@@ -1,0 +1,3511 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-58244, cluster=AV, physical address=10.0.2.15:59050
+-------------------------------------------------------------------
+02:01:35.002 [main] INFO  AV.VCU - waiting on readyToRun...
+02:01:35.258 [main] INFO  AV.VCU - ...synchronized on readyToRun
+02:01:35.262 [main] INFO  AV.VCU - started logical time progression
+speed0 time 0.0
+02:01:35.265 [main] INFO  AV.VCU -  OSD 00 currentime 0.0
+speed0 time 1.0
+02:01:35.541 [main] INFO  AV.VCU -  OSD 11 currentime 1.0
+speed0 time 2.0
+02:01:36.363 [main] INFO  AV.VCU -  OSD 22 currentime 2.0
+speed0 time 3.0
+02:01:36.415 [main] INFO  AV.VCU -  OSD 33 currentime 3.0
+speed0 time 20.0
+02:01:37.565 [main] INFO  AV.VCU -  OSD 00 currentime 20.0
+speed0 time 21.0
+02:01:37.620 [main] INFO  AV.VCU -  OSD 11 currentime 21.0
+speed0 time 22.0
+02:01:37.715 [main] INFO  AV.VCU -  OSD 22 currentime 22.0
+speed0 time 23.0
+02:01:37.772 [main] INFO  AV.VCU -  OSD 33 currentime 23.0
+speed0 time 40.0
+02:01:38.970 [main] INFO  AV.VCU -  OSD 00 currentime 40.0
+speed0 time 41.0
+02:01:39.042 [main] INFO  AV.VCU -  OSD 11 currentime 41.0
+speed0 time 42.0
+02:01:39.092 [main] INFO  AV.VCU -  OSD 22 currentime 42.0
+speed0 time 43.0
+02:01:39.170 [main] INFO  AV.VCU -  OSD 33 currentime 43.0
+speed0 time 60.0
+02:01:40.149 [main] INFO  AV.VCU -  OSD 00 currentime 60.0
+speed0 time 61.0
+02:01:40.205 [main] INFO  AV.VCU -  OSD 11 currentime 61.0
+speed0 time 62.0
+02:01:40.256 [main] INFO  AV.VCU -  OSD 22 currentime 62.0
+speed0 time 63.0
+02:01:40.334 [main] INFO  AV.VCU -  OSD 33 currentime 63.0
+speed0 time 80.0
+02:01:41.397 [main] INFO  AV.VCU -  OSD 00 currentime 80.0
+speed0 time 81.0
+02:01:41.440 [main] INFO  AV.VCU -  OSD 11 currentime 81.0
+speed0 time 82.0
+02:01:41.494 [main] INFO  AV.VCU -  OSD 22 currentime 82.0
+speed0 time 83.0
+02:01:41.526 [main] INFO  AV.VCU -  OSD 33 currentime 83.0
+speed0 time 100.0
+02:01:42.573 [main] INFO  AV.VCU -  OSD 00 currentime 100.0
+speed0 time 101.0
+02:01:42.630 [main] INFO  AV.VCU -  OSD 11 currentime 101.0
+speed0 time 102.0
+02:01:42.676 [main] INFO  AV.VCU -  OSD 22 currentime 102.0
+speed0 time 103.0
+02:01:42.742 [main] INFO  AV.VCU -  OSD 33 currentime 103.0
+speed0 time 120.0
+02:01:43.660 [main] INFO  AV.VCU -  OSD 00 currentime 120.0
+speed0 time 121.0
+02:01:43.715 [main] INFO  AV.VCU -  OSD 11 currentime 121.0
+speed0 time 122.0
+02:01:43.755 [main] INFO  AV.VCU -  OSD 22 currentime 122.0
+speed0 time 123.0
+02:01:43.817 [main] INFO  AV.VCU -  OSD 33 currentime 123.0
+speed0 time 140.0
+02:01:44.693 [main] INFO  AV.VCU -  OSD 00 currentime 140.0
+speed0 time 141.0
+02:01:44.724 [main] INFO  AV.VCU -  OSD 11 currentime 141.0
+speed0 time 142.0
+02:01:44.817 [main] INFO  AV.VCU -  OSD 22 currentime 142.0
+speed0 time 143.0
+02:01:44.868 [main] INFO  AV.VCU -  OSD 33 currentime 143.0
+speed0 time 160.0
+02:01:45.864 [main] INFO  AV.VCU -  OSD 00 currentime 160.0
+speed0 time 161.0
+02:01:45.911 [main] INFO  AV.VCU -  OSD 11 currentime 161.0
+speed0 time 162.0
+02:01:45.970 [main] INFO  AV.VCU -  OSD 22 currentime 162.0
+speed0 time 163.0
+02:01:46.022 [main] INFO  AV.VCU -  OSD 33 currentime 163.0
+speed0 time 180.0
+02:01:46.919 [main] INFO  AV.VCU -  OSD 00 currentime 180.0
+speed0 time 181.0
+02:01:46.959 [main] INFO  AV.VCU -  OSD 11 currentime 181.0
+speed0 time 182.0
+02:01:47.037 [main] INFO  AV.VCU -  OSD 22 currentime 182.0
+speed0 time 183.0
+02:01:47.090 [main] INFO  AV.VCU -  OSD 33 currentime 183.0
+speed0 time 200.0
+02:01:48.793 [main] INFO  AV.VCU -  OSD 00 currentime 200.0
+speed0 time 201.0
+02:01:48.831 [main] INFO  AV.VCU -  OSD 11 currentime 201.0
+speed0 time 202.0
+02:01:48.892 [main] INFO  AV.VCU -  OSD 22 currentime 202.0
+speed0 time 203.0
+02:01:48.915 [main] INFO  AV.VCU -  OSD 33 currentime 203.0
+speed0 time 220.0
+02:01:49.810 [main] INFO  AV.VCU -  OSD 00 currentime 220.0
+speed0 time 221.0
+02:01:49.853 [main] INFO  AV.VCU -  OSD 11 currentime 221.0
+speed0 time 222.0
+02:01:49.908 [main] INFO  AV.VCU -  OSD 22 currentime 222.0
+speed0 time 223.0
+02:01:49.965 [main] INFO  AV.VCU -  OSD 33 currentime 223.0
+speed0 time 240.0
+02:01:50.887 [main] INFO  AV.VCU -  OSD 00 currentime 240.0
+speed0 time 241.0
+02:01:50.930 [main] INFO  AV.VCU -  OSD 11 currentime 241.0
+speed0 time 242.0
+02:01:50.988 [main] INFO  AV.VCU -  OSD 22 currentime 242.0
+speed0 time 243.0
+02:01:51.032 [main] INFO  AV.VCU -  OSD 33 currentime 243.0
+speed0 time 260.0
+02:01:51.983 [main] INFO  AV.VCU -  OSD 00 currentime 260.0
+speed0 time 261.0
+02:01:52.037 [main] INFO  AV.VCU -  OSD 11 currentime 261.0
+speed0 time 262.0
+02:01:52.099 [main] INFO  AV.VCU -  OSD 22 currentime 262.0
+speed0 time 263.0
+02:01:52.143 [main] INFO  AV.VCU -  OSD 33 currentime 263.0
+speed0 time 280.0
+02:01:53.019 [main] INFO  AV.VCU -  OSD 00 currentime 280.0
+speed0 time 281.0
+02:01:53.069 [main] INFO  AV.VCU -  OSD 11 currentime 281.0
+speed0 time 282.0
+02:01:53.112 [main] INFO  AV.VCU -  OSD 22 currentime 282.0
+speed0 time 283.0
+02:01:53.170 [main] INFO  AV.VCU -  OSD 33 currentime 283.0
+speed0 time 300.0
+02:01:54.081 [main] INFO  AV.VCU -  OSD 00 currentime 300.0
+speed0 time 301.0
+02:01:54.147 [main] INFO  AV.VCU -  OSD 11 currentime 301.0
+speed0 time 302.0
+02:01:54.198 [main] INFO  AV.VCU -  OSD 22 currentime 302.0
+speed0 time 303.0
+02:01:54.246 [main] INFO  AV.VCU -  OSD 33 currentime 303.0
+speed0 time 320.0
+02:01:55.238 [main] INFO  AV.VCU -  OSD 00 currentime 320.0
+speed0 time 321.0
+02:01:55.293 [main] INFO  AV.VCU -  OSD 11 currentime 321.0
+speed0 time 322.0
+02:01:55.343 [main] INFO  AV.VCU -  OSD 22 currentime 322.0
+speed0 time 323.0
+02:01:55.387 [main] INFO  AV.VCU -  OSD 33 currentime 323.0
+speed0 time 340.0
+02:01:56.254 [main] INFO  AV.VCU -  OSD 00 currentime 340.0
+speed0 time 341.0
+02:01:56.298 [main] INFO  AV.VCU -  OSD 11 currentime 341.0
+speed0 time 342.0
+02:01:56.358 [main] INFO  AV.VCU -  OSD 22 currentime 342.0
+speed0 time 343.0
+02:01:56.395 [main] INFO  AV.VCU -  OSD 33 currentime 343.0
+speed0 time 360.0
+02:01:57.266 [main] INFO  AV.VCU -  OSD 00 currentime 360.0
+speed0 time 361.0
+02:01:57.316 [main] INFO  AV.VCU -  OSD 11 currentime 361.0
+speed0 time 362.0
+02:01:57.358 [main] INFO  AV.VCU -  OSD 22 currentime 362.0
+speed0 time 363.0
+02:01:57.402 [main] INFO  AV.VCU -  OSD 33 currentime 363.0
+speed0 time 380.0
+02:01:58.287 [main] INFO  AV.VCU -  OSD 00 currentime 380.0
+speed0 time 381.0
+02:01:58.343 [main] INFO  AV.VCU -  OSD 11 currentime 381.0
+speed0 time 382.0
+02:01:58.416 [main] INFO  AV.VCU -  OSD 22 currentime 382.0
+speed0 time 383.0
+02:01:58.468 [main] INFO  AV.VCU -  OSD 33 currentime 383.0
+speed0 time 400.0
+02:01:59.351 [main] INFO  AV.VCU -  OSD 00 currentime 400.0
+speed0 time 401.0
+02:01:59.404 [main] INFO  AV.VCU -  OSD 11 currentime 401.0
+speed0 time 402.0
+02:01:59.447 [main] INFO  AV.VCU -  OSD 22 currentime 402.0
+speed0 time 403.0
+02:01:59.502 [main] INFO  AV.VCU -  OSD 33 currentime 403.0
+speed0 time 420.0
+02:02:00.366 [main] INFO  AV.VCU -  OSD 00 currentime 420.0
+speed0 time 421.0
+02:02:00.406 [main] INFO  AV.VCU -  OSD 11 currentime 421.0
+speed0 time 422.0
+02:02:00.462 [main] INFO  AV.VCU -  OSD 22 currentime 422.0
+speed0 time 423.0
+02:02:00.502 [main] INFO  AV.VCU -  OSD 33 currentime 423.0
+speed0 time 440.0
+02:02:01.369 [main] INFO  AV.VCU -  OSD 00 currentime 440.0
+speed0 time 441.0
+02:02:01.405 [main] INFO  AV.VCU -  OSD 11 currentime 441.0
+speed0 time 442.0
+02:02:01.464 [main] INFO  AV.VCU -  OSD 22 currentime 442.0
+speed0 time 443.0
+02:02:01.503 [main] INFO  AV.VCU -  OSD 33 currentime 443.0
+speed0 time 460.0
+02:02:02.505 [main] INFO  AV.VCU -  OSD 00 currentime 460.0
+speed0 time 461.0
+02:02:02.564 [main] INFO  AV.VCU -  OSD 11 currentime 461.0
+speed0 time 462.0
+02:02:02.612 [main] INFO  AV.VCU -  OSD 22 currentime 462.0
+speed0 time 463.0
+02:02:02.657 [main] INFO  AV.VCU -  OSD 33 currentime 463.0
+speed0 time 480.0
+02:02:03.475 [main] INFO  AV.VCU -  OSD 00 currentime 480.0
+speed0 time 481.0
+02:02:03.525 [main] INFO  AV.VCU -  OSD 11 currentime 481.0
+speed0 time 482.0
+02:02:03.568 [main] INFO  AV.VCU -  OSD 22 currentime 482.0
+speed0 time 483.0
+02:02:03.616 [main] INFO  AV.VCU -  OSD 33 currentime 483.0
+speed0 time 500.0
+02:02:05.003 [main] INFO  AV.VCU -  OSD 00 currentime 500.0
+speed0 time 501.0
+02:02:05.056 [main] INFO  AV.VCU -  OSD 11 currentime 501.0
+speed0 time 502.0
+02:02:05.111 [main] INFO  AV.VCU -  OSD 22 currentime 502.0
+speed0 time 503.0
+02:02:05.150 [main] INFO  AV.VCU -  OSD 33 currentime 503.0
+speed0 time 520.0
+02:02:06.048 [main] INFO  AV.VCU -  OSD 00 currentime 520.0
+speed0 time 521.0
+02:02:06.099 [main] INFO  AV.VCU -  OSD 11 currentime 521.0
+speed0 time 522.0
+02:02:06.174 [main] INFO  AV.VCU -  OSD 22 currentime 522.0
+speed0 time 523.0
+02:02:06.224 [main] INFO  AV.VCU -  OSD 33 currentime 523.0
+speed0 time 540.0
+02:02:07.062 [main] INFO  AV.VCU -  OSD 00 currentime 540.0
+speed0 time 541.0
+02:02:07.122 [main] INFO  AV.VCU -  OSD 11 currentime 541.0
+speed0 time 542.0
+02:02:07.165 [main] INFO  AV.VCU -  OSD 22 currentime 542.0
+speed0 time 543.0
+02:02:07.214 [main] INFO  AV.VCU -  OSD 33 currentime 543.0
+speed0 time 560.0
+02:02:08.062 [main] INFO  AV.VCU -  OSD 00 currentime 560.0
+speed0 time 561.0
+02:02:08.106 [main] INFO  AV.VCU -  OSD 11 currentime 561.0
+speed0 time 562.0
+02:02:08.158 [main] INFO  AV.VCU -  OSD 22 currentime 562.0
+speed0 time 563.0
+02:02:08.205 [main] INFO  AV.VCU -  OSD 33 currentime 563.0
+speed0 time 580.0
+02:02:09.095 [main] INFO  AV.VCU -  OSD 00 currentime 580.0
+speed0 time 581.0
+02:02:09.141 [main] INFO  AV.VCU -  OSD 11 currentime 581.0
+speed0 time 582.0
+02:02:09.190 [main] INFO  AV.VCU -  OSD 22 currentime 582.0
+speed0 time 583.0
+02:02:09.248 [main] INFO  AV.VCU -  OSD 33 currentime 583.0
+speed0 time 600.0
+02:02:10.082 [main] INFO  AV.VCU -  OSD 00 currentime 600.0
+speed0 time 601.0
+02:02:10.142 [main] INFO  AV.VCU -  OSD 11 currentime 601.0
+speed0 time 602.0
+02:02:10.177 [main] INFO  AV.VCU -  OSD 22 currentime 602.0
+speed0 time 603.0
+02:02:10.241 [main] INFO  AV.VCU -  OSD 33 currentime 603.0
+speed0 time 620.0
+02:02:11.167 [main] INFO  AV.VCU -  OSD 00 currentime 620.0
+speed0 time 621.0
+02:02:11.218 [main] INFO  AV.VCU -  OSD 11 currentime 621.0
+speed0 time 622.0
+02:02:11.267 [main] INFO  AV.VCU -  OSD 22 currentime 622.0
+speed0 time 623.0
+02:02:11.327 [main] INFO  AV.VCU -  OSD 33 currentime 623.0
+speed0 time 640.0
+02:02:12.215 [main] INFO  AV.VCU -  OSD 00 currentime 640.0
+speed0 time 641.0
+02:02:12.275 [main] INFO  AV.VCU -  OSD 11 currentime 641.0
+speed0 time 642.0
+02:02:12.333 [main] INFO  AV.VCU -  OSD 22 currentime 642.0
+speed0 time 643.0
+02:02:12.381 [main] INFO  AV.VCU -  OSD 33 currentime 643.0
+speed0 time 660.0
+02:02:13.233 [main] INFO  AV.VCU -  OSD 00 currentime 660.0
+speed0 time 661.0
+02:02:13.287 [main] INFO  AV.VCU -  OSD 11 currentime 661.0
+speed0 time 662.0
+02:02:13.333 [main] INFO  AV.VCU -  OSD 22 currentime 662.0
+speed0 time 663.0
+02:02:13.386 [main] INFO  AV.VCU -  OSD 33 currentime 663.0
+speed0 time 680.0
+02:02:14.232 [main] INFO  AV.VCU -  OSD 00 currentime 680.0
+speed0 time 681.0
+02:02:14.281 [main] INFO  AV.VCU -  OSD 11 currentime 681.0
+speed0 time 682.0
+02:02:14.356 [main] INFO  AV.VCU -  OSD 22 currentime 682.0
+speed0 time 683.0
+02:02:14.405 [main] INFO  AV.VCU -  OSD 33 currentime 683.0
+speed0 time 700.0
+02:02:15.253 [main] INFO  AV.VCU -  OSD 00 currentime 700.0
+speed0 time 701.0
+02:02:15.294 [main] INFO  AV.VCU -  OSD 11 currentime 701.0
+speed0 time 702.0
+02:02:15.353 [main] INFO  AV.VCU -  OSD 22 currentime 702.0
+speed0 time 703.0
+02:02:15.399 [main] INFO  AV.VCU -  OSD 33 currentime 703.0
+speed0 time 720.0
+02:02:16.246 [main] INFO  AV.VCU -  OSD 00 currentime 720.0
+speed0 time 721.0
+02:02:16.310 [main] INFO  AV.VCU -  OSD 11 currentime 721.0
+speed0 time 722.0
+02:02:16.351 [main] INFO  AV.VCU -  OSD 22 currentime 722.0
+speed0 time 723.0
+02:02:16.424 [main] INFO  AV.VCU -  OSD 33 currentime 723.0
+speed0 time 740.0
+02:02:17.279 [main] INFO  AV.VCU -  OSD 00 currentime 740.0
+speed0 time 741.0
+02:02:17.341 [main] INFO  AV.VCU -  OSD 11 currentime 741.0
+speed0 time 742.0
+02:02:17.394 [main] INFO  AV.VCU -  OSD 22 currentime 742.0
+speed0 time 743.0
+02:02:17.437 [main] INFO  AV.VCU -  OSD 33 currentime 743.0
+speed0 time 760.0
+02:02:18.309 [main] INFO  AV.VCU -  OSD 00 currentime 760.0
+speed0 time 761.0
+02:02:18.350 [main] INFO  AV.VCU -  OSD 11 currentime 761.0
+speed0 time 762.0
+02:02:18.431 [main] INFO  AV.VCU -  OSD 22 currentime 762.0
+speed0 time 763.0
+02:02:18.485 [main] INFO  AV.VCU -  OSD 33 currentime 763.0
+speed0 time 780.0
+02:02:19.370 [main] INFO  AV.VCU -  OSD 00 currentime 780.0
+speed0 time 781.0
+02:02:19.413 [main] INFO  AV.VCU -  OSD 11 currentime 781.0
+speed0 time 782.0
+02:02:19.469 [main] INFO  AV.VCU -  OSD 22 currentime 782.0
+speed0 time 783.0
+02:02:19.510 [main] INFO  AV.VCU -  OSD 33 currentime 783.0
+speed0 time 800.0
+02:02:20.388 [main] INFO  AV.VCU -  OSD 00 currentime 800.0
+speed0 time 801.0
+02:02:20.430 [main] INFO  AV.VCU -  OSD 11 currentime 801.0
+speed0 time 802.0
+02:02:20.485 [main] INFO  AV.VCU -  OSD 22 currentime 802.0
+speed0 time 803.0
+02:02:20.527 [main] INFO  AV.VCU -  OSD 33 currentime 803.0
+speed0 time 820.0
+02:02:21.381 [main] INFO  AV.VCU -  OSD 00 currentime 820.0
+speed0 time 821.0
+02:02:21.417 [main] INFO  AV.VCU -  OSD 11 currentime 821.0
+speed0 time 822.0
+02:02:21.479 [main] INFO  AV.VCU -  OSD 22 currentime 822.0
+speed0 time 823.0
+02:02:21.523 [main] INFO  AV.VCU -  OSD 33 currentime 823.0
+speed0 time 840.0
+02:02:22.518 [main] INFO  AV.VCU -  OSD 00 currentime 840.0
+speed0 time 841.0
+02:02:22.566 [main] INFO  AV.VCU -  OSD 11 currentime 841.0
+speed0 time 842.0
+02:02:22.616 [main] INFO  AV.VCU -  OSD 22 currentime 842.0
+speed0 time 843.0
+02:02:22.662 [main] INFO  AV.VCU -  OSD 33 currentime 843.0
+speed0 time 860.0
+02:02:23.529 [main] INFO  AV.VCU -  OSD 00 currentime 860.0
+speed0 time 861.0
+02:02:23.585 [main] INFO  AV.VCU -  OSD 11 currentime 861.0
+speed0 time 862.0
+02:02:23.650 [main] INFO  AV.VCU -  OSD 22 currentime 862.0
+speed0 time 863.0
+02:02:23.698 [main] INFO  AV.VCU -  OSD 33 currentime 863.0
+speed0 time 880.0
+02:02:24.509 [main] INFO  AV.VCU -  OSD 00 currentime 880.0
+speed0 time 881.0
+02:02:24.559 [main] INFO  AV.VCU -  OSD 11 currentime 881.0
+speed0 time 882.0
+02:02:24.608 [main] INFO  AV.VCU -  OSD 22 currentime 882.0
+speed0 time 883.0
+02:02:24.655 [main] INFO  AV.VCU -  OSD 33 currentime 883.0
+speed0 time 900.0
+02:02:25.549 [main] INFO  AV.VCU -  OSD 00 currentime 900.0
+speed0 time 901.0
+02:02:25.588 [main] INFO  AV.VCU -  OSD 11 currentime 901.0
+speed0 time 902.0
+02:02:25.642 [main] INFO  AV.VCU -  OSD 22 currentime 902.0
+speed0 time 903.0
+02:02:25.699 [main] INFO  AV.VCU -  OSD 33 currentime 903.0
+speed0 time 920.0
+02:02:26.562 [main] INFO  AV.VCU -  OSD 00 currentime 920.0
+speed0 time 921.0
+02:02:26.616 [main] INFO  AV.VCU -  OSD 11 currentime 921.0
+speed0 time 922.0
+02:02:26.653 [main] INFO  AV.VCU -  OSD 22 currentime 922.0
+speed0 time 923.0
+02:02:26.711 [main] INFO  AV.VCU -  OSD 33 currentime 923.0
+speed0 time 940.0
+02:02:27.606 [main] INFO  AV.VCU -  OSD 00 currentime 940.0
+speed0 time 941.0
+02:02:27.659 [main] INFO  AV.VCU -  OSD 11 currentime 941.0
+speed0 time 942.0
+02:02:27.704 [main] INFO  AV.VCU -  OSD 22 currentime 942.0
+speed0 time 943.0
+02:02:27.764 [main] INFO  AV.VCU -  OSD 33 currentime 943.0
+speed0 time 960.0
+02:02:28.662 [main] INFO  AV.VCU -  OSD 00 currentime 960.0
+speed0 time 961.0
+02:02:28.700 [main] INFO  AV.VCU -  OSD 11 currentime 961.0
+speed0 time 962.0
+02:02:28.747 [main] INFO  AV.VCU -  OSD 22 currentime 962.0
+speed0 time 963.0
+02:02:28.804 [main] INFO  AV.VCU -  OSD 33 currentime 963.0
+speed0 time 980.0
+02:02:29.647 [main] INFO  AV.VCU -  OSD 00 currentime 980.0
+speed0 time 981.0
+02:02:29.696 [main] INFO  AV.VCU -  OSD 11 currentime 981.0
+speed0 time 982.0
+02:02:29.740 [main] INFO  AV.VCU -  OSD 22 currentime 982.0
+speed0 time 983.0
+02:02:29.797 [main] INFO  AV.VCU -  OSD 33 currentime 983.0
+speed0 time 1000.0
+02:02:30.661 [main] INFO  AV.VCU -  OSD 00 currentime 1000.0
+speed0 time 1001.0
+02:02:30.705 [main] INFO  AV.VCU -  OSD 11 currentime 1001.0
+speed0 time 1002.0
+02:02:30.763 [main] INFO  AV.VCU -  OSD 22 currentime 1002.0
+speed0 time 1003.0
+02:02:30.796 [main] INFO  AV.VCU -  OSD 33 currentime 1003.0
+speed0 time 1020.0
+02:02:31.683 [main] INFO  AV.VCU -  OSD 00 currentime 1020.0
+speed0 time 1021.0
+02:02:31.727 [main] INFO  AV.VCU -  OSD 11 currentime 1021.0
+speed0 time 1022.0
+02:02:31.786 [main] INFO  AV.VCU -  OSD 22 currentime 1022.0
+speed0 time 1023.0
+02:02:31.830 [main] INFO  AV.VCU -  OSD 33 currentime 1023.0
+speed0 time 1040.0
+02:02:32.731 [main] INFO  AV.VCU -  OSD 00 currentime 1040.0
+speed0 time 1041.0
+02:02:32.772 [main] INFO  AV.VCU -  OSD 11 currentime 1041.0
+speed0 time 1042.0
+02:02:32.832 [main] INFO  AV.VCU -  OSD 22 currentime 1042.0
+speed0 time 1043.0
+02:02:32.877 [main] INFO  AV.VCU -  OSD 33 currentime 1043.0
+speed0 time 1060.0
+02:02:33.731 [main] INFO  AV.VCU -  OSD 00 currentime 1060.0
+speed0 time 1061.0
+02:02:33.788 [main] INFO  AV.VCU -  OSD 11 currentime 1061.0
+speed0 time 1062.0
+02:02:33.832 [main] INFO  AV.VCU -  OSD 22 currentime 1062.0
+speed0 time 1063.0
+02:02:33.889 [main] INFO  AV.VCU -  OSD 33 currentime 1063.0
+speed0 time 1080.0
+02:02:34.871 [main] INFO  AV.VCU -  OSD 00 currentime 1080.0
+speed0 time 1081.0
+02:02:34.941 [main] INFO  AV.VCU -  OSD 11 currentime 1081.0
+speed0 time 1082.0
+02:02:34.985 [main] INFO  AV.VCU -  OSD 22 currentime 1082.0
+speed0 time 1083.0
+02:02:35.055 [main] INFO  AV.VCU -  OSD 33 currentime 1083.0
+speed0 time 1100.0
+02:02:35.889 [main] INFO  AV.VCU -  OSD 00 currentime 1100.0
+speed0 time 1101.0
+02:02:35.939 [main] INFO  AV.VCU -  OSD 11 currentime 1101.0
+speed0 time 1102.0
+02:02:35.994 [main] INFO  AV.VCU -  OSD 22 currentime 1102.0
+speed0 time 1103.0
+02:02:36.038 [main] INFO  AV.VCU -  OSD 33 currentime 1103.0
+speed0 time 1120.0
+02:02:36.946 [main] INFO  AV.VCU -  OSD 00 currentime 1120.0
+speed0 time 1121.0
+02:02:36.994 [main] INFO  AV.VCU -  OSD 11 currentime 1121.0
+speed0 time 1122.0
+02:02:37.049 [main] INFO  AV.VCU -  OSD 22 currentime 1122.0
+speed0 time 1123.0
+02:02:37.085 [main] INFO  AV.VCU -  OSD 33 currentime 1123.0
+speed0 time 1140.0
+02:02:37.966 [main] INFO  AV.VCU -  OSD 00 currentime 1140.0
+speed0 time 1141.0
+02:02:38.017 [main] INFO  AV.VCU -  OSD 11 currentime 1141.0
+speed0 time 1142.0
+02:02:38.070 [main] INFO  AV.VCU -  OSD 22 currentime 1142.0
+speed0 time 1143.0
+02:02:38.118 [main] INFO  AV.VCU -  OSD 33 currentime 1143.0
+speed0 time 1160.0
+02:02:38.988 [main] INFO  AV.VCU -  OSD 00 currentime 1160.0
+speed0 time 1161.0
+02:02:39.021 [main] INFO  AV.VCU -  OSD 11 currentime 1161.0
+speed0 time 1162.0
+02:02:39.070 [main] INFO  AV.VCU -  OSD 22 currentime 1162.0
+speed0 time 1163.0
+02:02:39.129 [main] INFO  AV.VCU -  OSD 33 currentime 1163.0
+speed0 time 1180.0
+02:02:39.968 [main] INFO  AV.VCU -  OSD 00 currentime 1180.0
+speed0 time 1181.0
+02:02:40.029 [main] INFO  AV.VCU -  OSD 11 currentime 1181.0
+speed0 time 1182.0
+02:02:40.078 [main] INFO  AV.VCU -  OSD 22 currentime 1182.0
+speed0 time 1183.0
+02:02:40.129 [main] INFO  AV.VCU -  OSD 33 currentime 1183.0
+speed0 time 1200.0
+02:02:40.945 [main] INFO  AV.VCU -  OSD 00 currentime 1200.0
+speed0 time 1201.0
+02:02:41.004 [main] INFO  AV.VCU -  OSD 11 currentime 1201.0
+speed0 time 1202.0
+02:02:41.057 [main] INFO  AV.VCU -  OSD 22 currentime 1202.0
+speed0 time 1203.0
+02:02:41.101 [main] INFO  AV.VCU -  OSD 33 currentime 1203.0
+speed0 time 1220.0
+02:02:41.945 [main] INFO  AV.VCU -  OSD 00 currentime 1220.0
+speed0 time 1221.0
+02:02:41.974 [main] INFO  AV.VCU -  OSD 11 currentime 1221.0
+speed0 time 1222.0
+02:02:42.047 [main] INFO  AV.VCU -  OSD 22 currentime 1222.0
+speed0 time 1223.0
+02:02:42.081 [main] INFO  AV.VCU -  OSD 33 currentime 1223.0
+speed0 time 1240.0
+02:02:42.982 [main] INFO  AV.VCU -  OSD 00 currentime 1240.0
+speed0 time 1241.0
+02:02:43.031 [main] INFO  AV.VCU -  OSD 11 currentime 1241.0
+speed0 time 1242.0
+02:02:43.057 [main] INFO  AV.VCU -  OSD 22 currentime 1242.0
+speed0 time 1243.0
+02:02:43.129 [main] INFO  AV.VCU -  OSD 33 currentime 1243.0
+speed0 time 1260.0
+02:02:43.914 [main] INFO  AV.VCU -  OSD 00 currentime 1260.0
+speed0 time 1261.0
+02:02:43.976 [main] INFO  AV.VCU -  OSD 11 currentime 1261.0
+speed0 time 1262.0
+02:02:44.029 [main] INFO  AV.VCU -  OSD 22 currentime 1262.0
+speed0 time 1263.0
+02:02:44.073 [main] INFO  AV.VCU -  OSD 33 currentime 1263.0
+speed0 time 1280.0
+02:02:44.968 [main] INFO  AV.VCU -  OSD 00 currentime 1280.0
+speed0 time 1281.0
+02:02:44.991 [main] INFO  AV.VCU -  OSD 11 currentime 1281.0
+speed0 time 1282.0
+02:02:45.068 [main] INFO  AV.VCU -  OSD 22 currentime 1282.0
+speed0 time 1283.0
+02:02:45.099 [main] INFO  AV.VCU -  OSD 33 currentime 1283.0
+speed0 time 1300.0
+02:02:45.991 [main] INFO  AV.VCU -  OSD 00 currentime 1300.0
+speed0 time 1301.0
+02:02:46.034 [main] INFO  AV.VCU -  OSD 11 currentime 1301.0
+speed0 time 1302.0
+02:02:46.089 [main] INFO  AV.VCU -  OSD 22 currentime 1302.0
+speed0 time 1303.0
+02:02:46.143 [main] INFO  AV.VCU -  OSD 33 currentime 1303.0
+speed0 time 1320.0
+02:02:47.025 [main] INFO  AV.VCU -  OSD 00 currentime 1320.0
+speed0 time 1321.0
+02:02:47.074 [main] INFO  AV.VCU -  OSD 11 currentime 1321.0
+speed0 time 1322.0
+02:02:47.115 [main] INFO  AV.VCU -  OSD 22 currentime 1322.0
+speed0 time 1323.0
+02:02:47.162 [main] INFO  AV.VCU -  OSD 33 currentime 1323.0
+speed0 time 1340.0
+02:02:47.917 [main] INFO  AV.VCU -  OSD 00 currentime 1340.0
+speed0 time 1341.0
+02:02:47.949 [main] INFO  AV.VCU -  OSD 11 currentime 1341.0
+speed0 time 1342.0
+02:02:48.021 [main] INFO  AV.VCU -  OSD 22 currentime 1342.0
+speed0 time 1343.0
+02:02:48.059 [main] INFO  AV.VCU -  OSD 33 currentime 1343.0
+speed0 time 1360.0
+02:02:49.046 [main] INFO  AV.VCU -  OSD 00 currentime 1360.0
+speed0 time 1361.0
+02:02:49.101 [main] INFO  AV.VCU -  OSD 11 currentime 1361.0
+speed0 time 1362.0
+02:02:49.157 [main] INFO  AV.VCU -  OSD 22 currentime 1362.0
+speed0 time 1363.0
+02:02:49.197 [main] INFO  AV.VCU -  OSD 33 currentime 1363.0
+speed0 time 1380.0
+02:02:50.072 [main] INFO  AV.VCU -  OSD 00 currentime 1380.0
+speed0 time 1381.0
+02:02:50.119 [main] INFO  AV.VCU -  OSD 11 currentime 1381.0
+speed0 time 1382.0
+02:02:50.181 [main] INFO  AV.VCU -  OSD 22 currentime 1382.0
+speed0 time 1383.0
+02:02:50.233 [main] INFO  AV.VCU -  OSD 33 currentime 1383.0
+speed0 time 1400.0
+02:02:51.098 [main] INFO  AV.VCU -  OSD 00 currentime 1400.0
+speed0 time 1401.0
+02:02:51.167 [main] INFO  AV.VCU -  OSD 11 currentime 1401.0
+speed0 time 1402.0
+02:02:51.196 [main] INFO  AV.VCU -  OSD 22 currentime 1402.0
+speed0 time 1403.0
+02:02:51.265 [main] INFO  AV.VCU -  OSD 33 currentime 1403.0
+speed0 time 1420.0
+02:02:52.090 [main] INFO  AV.VCU -  OSD 00 currentime 1420.0
+speed0 time 1421.0
+02:02:52.137 [main] INFO  AV.VCU -  OSD 11 currentime 1421.0
+speed0 time 1422.0
+02:02:52.203 [main] INFO  AV.VCU -  OSD 22 currentime 1422.0
+speed0 time 1423.0
+02:02:52.232 [main] INFO  AV.VCU -  OSD 33 currentime 1423.0
+speed0 time 1440.0
+02:02:53.155 [main] INFO  AV.VCU -  OSD 00 currentime 1440.0
+speed0 time 1441.0
+02:02:53.207 [main] INFO  AV.VCU -  OSD 11 currentime 1441.0
+speed0 time 1442.0
+02:02:53.258 [main] INFO  AV.VCU -  OSD 22 currentime 1442.0
+speed0 time 1443.0
+02:02:53.301 [main] INFO  AV.VCU -  OSD 33 currentime 1443.0
+speed0 time 1460.0
+02:02:54.207 [main] INFO  AV.VCU -  OSD 00 currentime 1460.0
+speed0 time 1461.0
+02:02:54.275 [main] INFO  AV.VCU -  OSD 11 currentime 1461.0
+speed0 time 1462.0
+02:02:54.314 [main] INFO  AV.VCU -  OSD 22 currentime 1462.0
+speed0 time 1463.0
+02:02:54.375 [main] INFO  AV.VCU -  OSD 33 currentime 1463.0
+speed0 time 1480.0
+02:02:55.230 [main] INFO  AV.VCU -  OSD 00 currentime 1480.0
+speed0 time 1481.0
+02:02:55.298 [main] INFO  AV.VCU -  OSD 11 currentime 1481.0
+speed0 time 1482.0
+02:02:55.346 [main] INFO  AV.VCU -  OSD 22 currentime 1482.0
+speed0 time 1483.0
+02:02:55.401 [main] INFO  AV.VCU -  OSD 33 currentime 1483.0
+speed0 time 1500.0
+02:02:56.261 [main] INFO  AV.VCU -  OSD 00 currentime 1500.0
+speed0 time 1501.0
+02:02:56.323 [main] INFO  AV.VCU -  OSD 11 currentime 1501.0
+speed0 time 1502.0
+02:02:56.355 [main] INFO  AV.VCU -  OSD 22 currentime 1502.0
+speed0 time 1503.0
+02:02:56.565 [main] INFO  AV.VCU -  OSD 33 currentime 1503.0
+speed0 time 1520.0
+02:02:57.380 [main] INFO  AV.VCU -  OSD 00 currentime 1520.0
+speed0 time 1521.0
+02:02:57.432 [main] INFO  AV.VCU -  OSD 11 currentime 1521.0
+speed0 time 1522.0
+02:02:57.489 [main] INFO  AV.VCU -  OSD 22 currentime 1522.0
+speed0 time 1523.0
+02:02:57.534 [main] INFO  AV.VCU -  OSD 33 currentime 1523.0
+speed0 time 1540.0
+02:02:58.430 [main] INFO  AV.VCU -  OSD 00 currentime 1540.0
+speed0 time 1541.0
+02:02:58.483 [main] INFO  AV.VCU -  OSD 11 currentime 1541.0
+speed0 time 1542.0
+02:02:58.526 [main] INFO  AV.VCU -  OSD 22 currentime 1542.0
+speed0 time 1543.0
+02:02:58.571 [main] INFO  AV.VCU -  OSD 33 currentime 1543.0
+speed0 time 1560.0
+02:02:59.424 [main] INFO  AV.VCU -  OSD 00 currentime 1560.0
+speed0 time 1561.0
+02:02:59.483 [main] INFO  AV.VCU -  OSD 11 currentime 1561.0
+speed0 time 1562.0
+02:02:59.521 [main] INFO  AV.VCU -  OSD 22 currentime 1562.0
+speed0 time 1563.0
+02:02:59.580 [main] INFO  AV.VCU -  OSD 33 currentime 1563.0
+speed0 time 1580.0
+02:03:00.447 [main] INFO  AV.VCU -  OSD 00 currentime 1580.0
+speed0 time 1581.0
+02:03:00.485 [main] INFO  AV.VCU -  OSD 11 currentime 1581.0
+speed0 time 1582.0
+02:03:00.548 [main] INFO  AV.VCU -  OSD 22 currentime 1582.0
+speed0 time 1583.0
+02:03:00.601 [main] INFO  AV.VCU -  OSD 33 currentime 1583.0
+speed0 time 1600.0
+02:03:01.429 [main] INFO  AV.VCU -  OSD 00 currentime 1600.0
+speed0 time 1601.0
+02:03:01.472 [main] INFO  AV.VCU -  OSD 11 currentime 1601.0
+speed0 time 1602.0
+02:03:01.532 [main] INFO  AV.VCU -  OSD 22 currentime 1602.0
+speed0 time 1603.0
+02:03:01.581 [main] INFO  AV.VCU -  OSD 33 currentime 1603.0
+speed0 time 1620.0
+02:03:02.441 [main] INFO  AV.VCU -  OSD 00 currentime 1620.0
+speed0 time 1621.0
+02:03:02.606 [main] INFO  AV.VCU -  OSD 11 currentime 1621.0
+speed0 time 1622.0
+02:03:02.654 [main] INFO  AV.VCU -  OSD 22 currentime 1622.0
+speed0 time 1623.0
+02:03:02.692 [main] INFO  AV.VCU -  OSD 33 currentime 1623.0
+speed0 time 1640.0
+02:03:03.580 [main] INFO  AV.VCU -  OSD 00 currentime 1640.0
+speed0 time 1641.0
+02:03:03.614 [main] INFO  AV.VCU -  OSD 11 currentime 1641.0
+speed0 time 1642.0
+02:03:03.680 [main] INFO  AV.VCU -  OSD 22 currentime 1642.0
+speed0 time 1643.0
+02:03:03.717 [main] INFO  AV.VCU -  OSD 33 currentime 1643.0
+speed0 time 1660.0
+02:03:04.614 [main] INFO  AV.VCU -  OSD 00 currentime 1660.0
+speed0 time 1661.0
+02:03:04.654 [main] INFO  AV.VCU -  OSD 11 currentime 1661.0
+speed0 time 1662.0
+02:03:04.711 [main] INFO  AV.VCU -  OSD 22 currentime 1662.0
+speed0 time 1663.0
+02:03:04.765 [main] INFO  AV.VCU -  OSD 33 currentime 1663.0
+speed0 time 1680.0
+02:03:05.666 [main] INFO  AV.VCU -  OSD 00 currentime 1680.0
+speed0 time 1681.0
+02:03:05.718 [main] INFO  AV.VCU -  OSD 11 currentime 1681.0
+speed0 time 1682.0
+02:03:05.760 [main] INFO  AV.VCU -  OSD 22 currentime 1682.0
+speed0 time 1683.0
+02:03:05.789 [main] INFO  AV.VCU -  OSD 33 currentime 1683.0
+speed0 time 1700.0
+02:03:06.677 [main] INFO  AV.VCU -  OSD 00 currentime 1700.0
+speed0 time 1701.0
+02:03:06.721 [main] INFO  AV.VCU -  OSD 11 currentime 1701.0
+speed0 time 1702.0
+02:03:06.775 [main] INFO  AV.VCU -  OSD 22 currentime 1702.0
+speed0 time 1703.0
+02:03:06.821 [main] INFO  AV.VCU -  OSD 33 currentime 1703.0
+speed0 time 1720.0
+02:03:07.704 [main] INFO  AV.VCU -  OSD 00 currentime 1720.0
+speed0 time 1721.0
+02:03:07.742 [main] INFO  AV.VCU -  OSD 11 currentime 1721.0
+speed0 time 1722.0
+02:03:07.803 [main] INFO  AV.VCU -  OSD 22 currentime 1722.0
+speed0 time 1723.0
+02:03:07.849 [main] INFO  AV.VCU -  OSD 33 currentime 1723.0
+speed0 time 1740.0
+02:03:08.740 [main] INFO  AV.VCU -  OSD 00 currentime 1740.0
+speed0 time 1741.0
+02:03:08.798 [main] INFO  AV.VCU -  OSD 11 currentime 1741.0
+speed0 time 1742.0
+02:03:08.841 [main] INFO  AV.VCU -  OSD 22 currentime 1742.0
+speed0 time 1743.0
+02:03:08.898 [main] INFO  AV.VCU -  OSD 33 currentime 1743.0
+speed0 time 1760.0
+02:03:09.759 [main] INFO  AV.VCU -  OSD 00 currentime 1760.0
+speed0 time 1761.0
+02:03:09.818 [main] INFO  AV.VCU -  OSD 11 currentime 1761.0
+speed0 time 1762.0
+02:03:09.869 [main] INFO  AV.VCU -  OSD 22 currentime 1762.0
+speed0 time 1763.0
+02:03:09.925 [main] INFO  AV.VCU -  OSD 33 currentime 1763.0
+speed0 time 1780.0
+02:03:10.774 [main] INFO  AV.VCU -  OSD 00 currentime 1780.0
+speed0 time 1781.0
+02:03:10.825 [main] INFO  AV.VCU -  OSD 11 currentime 1781.0
+speed0 time 1782.0
+02:03:10.870 [main] INFO  AV.VCU -  OSD 22 currentime 1782.0
+speed0 time 1783.0
+02:03:10.926 [main] INFO  AV.VCU -  OSD 33 currentime 1783.0
+speed0 time 1800.0
+02:03:11.774 [main] INFO  AV.VCU -  OSD 00 currentime 1800.0
+speed0 time 1801.0
+02:03:11.819 [main] INFO  AV.VCU -  OSD 11 currentime 1801.0
+speed0 time 1802.0
+02:03:11.881 [main] INFO  AV.VCU -  OSD 22 currentime 1802.0
+speed0 time 1803.0
+02:03:11.923 [main] INFO  AV.VCU -  OSD 33 currentime 1803.0
+speed0 time 1820.0
+02:03:12.775 [main] INFO  AV.VCU -  OSD 00 currentime 1820.0
+speed0 time 1821.0
+02:03:12.819 [main] INFO  AV.VCU -  OSD 11 currentime 1821.0
+speed0 time 1822.0
+02:03:12.878 [main] INFO  AV.VCU -  OSD 22 currentime 1822.0
+speed0 time 1823.0
+02:03:12.921 [main] INFO  AV.VCU -  OSD 33 currentime 1823.0
+speed0 time 1840.0
+02:03:13.760 [main] INFO  AV.VCU -  OSD 00 currentime 1840.0
+speed0 time 1841.0
+02:03:13.816 [main] INFO  AV.VCU -  OSD 11 currentime 1841.0
+speed0 time 1842.0
+02:03:13.861 [main] INFO  AV.VCU -  OSD 22 currentime 1842.0
+speed0 time 1843.0
+02:03:13.916 [main] INFO  AV.VCU -  OSD 33 currentime 1843.0
+speed0 time 1860.0
+02:03:14.747 [main] INFO  AV.VCU -  OSD 00 currentime 1860.0
+speed0 time 1861.0
+02:03:14.803 [main] INFO  AV.VCU -  OSD 11 currentime 1861.0
+speed0 time 1862.0
+02:03:14.846 [main] INFO  AV.VCU -  OSD 22 currentime 1862.0
+speed0 time 1863.0
+02:03:14.898 [main] INFO  AV.VCU -  OSD 33 currentime 1863.0
+speed0 time 1880.0
+02:03:15.733 [main] INFO  AV.VCU -  OSD 00 currentime 1880.0
+speed0 time 1881.0
+02:03:15.790 [main] INFO  AV.VCU -  OSD 11 currentime 1881.0
+speed0 time 1882.0
+02:03:15.834 [main] INFO  AV.VCU -  OSD 22 currentime 1882.0
+speed0 time 1883.0
+02:03:15.893 [main] INFO  AV.VCU -  OSD 33 currentime 1883.0
+speed0 time 1900.0
+02:03:16.771 [main] INFO  AV.VCU -  OSD 00 currentime 1900.0
+speed0 time 1901.0
+02:03:16.794 [main] INFO  AV.VCU -  OSD 11 currentime 1901.0
+speed0 time 1902.0
+02:03:16.871 [main] INFO  AV.VCU -  OSD 22 currentime 1902.0
+speed0 time 1903.0
+02:03:16.902 [main] INFO  AV.VCU -  OSD 33 currentime 1903.0
+speed0 time 1920.0
+02:03:17.766 [main] INFO  AV.VCU -  OSD 00 currentime 1920.0
+speed0 time 1921.0
+02:03:17.827 [main] INFO  AV.VCU -  OSD 11 currentime 1921.0
+speed0 time 1922.0
+02:03:17.869 [main] INFO  AV.VCU -  OSD 22 currentime 1922.0
+speed0 time 1923.0
+02:03:17.935 [main] INFO  AV.VCU -  OSD 33 currentime 1923.0
+speed0 time 1940.0
+02:03:18.882 [main] INFO  AV.VCU -  OSD 00 currentime 1940.0
+speed0 time 1941.0
+02:03:18.956 [main] INFO  AV.VCU -  OSD 11 currentime 1941.0
+speed0 time 1942.0
+02:03:19.003 [main] INFO  AV.VCU -  OSD 22 currentime 1942.0
+speed0 time 1943.0
+02:03:19.054 [main] INFO  AV.VCU -  OSD 33 currentime 1943.0
+speed0 time 1960.0
+02:03:19.898 [main] INFO  AV.VCU -  OSD 00 currentime 1960.0
+speed0 time 1961.0
+02:03:19.933 [main] INFO  AV.VCU -  OSD 11 currentime 1961.0
+speed0 time 1962.0
+02:03:19.988 [main] INFO  AV.VCU -  OSD 22 currentime 1962.0
+speed0 time 1963.0
+02:03:20.022 [main] INFO  AV.VCU -  OSD 33 currentime 1963.0
+speed0 time 1980.0
+02:03:20.885 [main] INFO  AV.VCU -  OSD 00 currentime 1980.0
+speed0 time 1981.0
+02:03:20.946 [main] INFO  AV.VCU -  OSD 11 currentime 1981.0
+speed0 time 1982.0
+02:03:20.997 [main] INFO  AV.VCU -  OSD 22 currentime 1982.0
+speed0 time 1983.0
+02:03:21.036 [main] INFO  AV.VCU -  OSD 33 currentime 1983.0
+speed0 time 2000.0
+02:03:21.914 [main] INFO  AV.VCU -  OSD 00 currentime 2000.0
+speed0 time 2001.0
+02:03:21.971 [main] INFO  AV.VCU -  OSD 11 currentime 2001.0
+speed0 time 2002.0
+02:03:22.016 [main] INFO  AV.VCU -  OSD 22 currentime 2002.0
+speed0 time 2003.0
+02:03:22.059 [main] INFO  AV.VCU -  OSD 33 currentime 2003.0
+speed0 time 2020.0
+02:03:22.933 [main] INFO  AV.VCU -  OSD 00 currentime 2020.0
+speed0 time 2021.0
+02:03:22.992 [main] INFO  AV.VCU -  OSD 11 currentime 2021.0
+speed0 time 2022.0
+02:03:23.044 [main] INFO  AV.VCU -  OSD 22 currentime 2022.0
+speed0 time 2023.0
+02:03:23.088 [main] INFO  AV.VCU -  OSD 33 currentime 2023.0
+speed0 time 2040.0
+02:03:23.937 [main] INFO  AV.VCU -  OSD 00 currentime 2040.0
+speed0 time 2041.0
+02:03:23.998 [main] INFO  AV.VCU -  OSD 11 currentime 2041.0
+speed0 time 2042.0
+02:03:24.040 [main] INFO  AV.VCU -  OSD 22 currentime 2042.0
+speed0 time 2043.0
+02:03:24.089 [main] INFO  AV.VCU -  OSD 33 currentime 2043.0
+speed0 time 2060.0
+02:03:24.934 [main] INFO  AV.VCU -  OSD 00 currentime 2060.0
+speed0 time 2061.0
+02:03:24.983 [main] INFO  AV.VCU -  OSD 11 currentime 2061.0
+speed0 time 2062.0
+02:03:25.032 [main] INFO  AV.VCU -  OSD 22 currentime 2062.0
+speed0 time 2063.0
+02:03:25.077 [main] INFO  AV.VCU -  OSD 33 currentime 2063.0
+speed0 time 2080.0
+02:03:25.906 [main] INFO  AV.VCU -  OSD 00 currentime 2080.0
+speed0 time 2081.0
+02:03:25.964 [main] INFO  AV.VCU -  OSD 11 currentime 2081.0
+speed0 time 2082.0
+02:03:26.008 [main] INFO  AV.VCU -  OSD 22 currentime 2082.0
+speed0 time 2083.0
+02:03:26.064 [main] INFO  AV.VCU -  OSD 33 currentime 2083.0
+speed0 time 2100.0
+02:03:26.903 [main] INFO  AV.VCU -  OSD 00 currentime 2100.0
+speed0 time 2101.0
+02:03:26.962 [main] INFO  AV.VCU -  OSD 11 currentime 2101.0
+speed0 time 2102.0
+02:03:27.003 [main] INFO  AV.VCU -  OSD 22 currentime 2102.0
+speed0 time 2103.0
+02:03:27.062 [main] INFO  AV.VCU -  OSD 33 currentime 2103.0
+speed0 time 2120.0
+02:03:27.881 [main] INFO  AV.VCU -  OSD 00 currentime 2120.0
+speed0 time 2121.0
+02:03:27.935 [main] INFO  AV.VCU -  OSD 11 currentime 2121.0
+speed0 time 2122.0
+02:03:27.984 [main] INFO  AV.VCU -  OSD 22 currentime 2122.0
+speed0 time 2123.0
+02:03:28.027 [main] INFO  AV.VCU -  OSD 33 currentime 2123.0
+speed0 time 2140.0
+02:03:28.896 [main] INFO  AV.VCU -  OSD 00 currentime 2140.0
+speed0 time 2141.0
+02:03:28.922 [main] INFO  AV.VCU -  OSD 11 currentime 2141.0
+speed0 time 2142.0
+02:03:29.005 [main] INFO  AV.VCU -  OSD 22 currentime 2142.0
+speed0 time 2143.0
+02:03:29.065 [main] INFO  AV.VCU -  OSD 33 currentime 2143.0
+speed0 time 2160.0
+02:03:29.865 [main] INFO  AV.VCU -  OSD 00 currentime 2160.0
+speed0 time 2161.0
+02:03:29.922 [main] INFO  AV.VCU -  OSD 11 currentime 2161.0
+speed0 time 2162.0
+02:03:29.966 [main] INFO  AV.VCU -  OSD 22 currentime 2162.0
+speed0 time 2163.0
+02:03:30.022 [main] INFO  AV.VCU -  OSD 33 currentime 2163.0
+speed0 time 2180.0
+02:03:30.845 [main] INFO  AV.VCU -  OSD 00 currentime 2180.0
+speed0 time 2181.0
+02:03:30.901 [main] INFO  AV.VCU -  OSD 11 currentime 2181.0
+speed0 time 2182.0
+02:03:30.950 [main] INFO  AV.VCU -  OSD 22 currentime 2182.0
+speed0 time 2183.0
+02:03:30.993 [main] INFO  AV.VCU -  OSD 33 currentime 2183.0
+speed0 time 2200.0
+02:03:31.800 [main] INFO  AV.VCU -  OSD 00 currentime 2200.0
+speed0 time 2201.0
+02:03:31.848 [main] INFO  AV.VCU -  OSD 11 currentime 2201.0
+speed0 time 2202.0
+02:03:31.909 [main] INFO  AV.VCU -  OSD 22 currentime 2202.0
+speed0 time 2203.0
+02:03:31.956 [main] INFO  AV.VCU -  OSD 33 currentime 2203.0
+speed0 time 2220.0
+02:03:32.801 [main] INFO  AV.VCU -  OSD 00 currentime 2220.0
+speed0 time 2221.0
+02:03:32.850 [main] INFO  AV.VCU -  OSD 11 currentime 2221.0
+speed0 time 2222.0
+02:03:32.894 [main] INFO  AV.VCU -  OSD 22 currentime 2222.0
+speed0 time 2223.0
+02:03:32.952 [main] INFO  AV.VCU -  OSD 33 currentime 2223.0
+speed0 time 2240.0
+02:03:33.788 [main] INFO  AV.VCU -  OSD 00 currentime 2240.0
+speed0 time 2241.0
+02:03:33.838 [main] INFO  AV.VCU -  OSD 11 currentime 2241.0
+speed0 time 2242.0
+02:03:33.896 [main] INFO  AV.VCU -  OSD 22 currentime 2242.0
+speed0 time 2243.0
+02:03:33.950 [main] INFO  AV.VCU -  OSD 33 currentime 2243.0
+speed0 time 2260.0
+02:03:34.815 [main] INFO  AV.VCU -  OSD 00 currentime 2260.0
+speed0 time 2261.0
+02:03:34.860 [main] INFO  AV.VCU -  OSD 11 currentime 2261.0
+speed0 time 2262.0
+02:03:34.915 [main] INFO  AV.VCU -  OSD 22 currentime 2262.0
+speed0 time 2263.0
+02:03:34.958 [main] INFO  AV.VCU -  OSD 33 currentime 2263.0
+speed0 time 2280.0
+02:03:35.788 [main] INFO  AV.VCU -  OSD 00 currentime 2280.0
+speed0 time 2281.0
+02:03:35.837 [main] INFO  AV.VCU -  OSD 11 currentime 2281.0
+speed0 time 2282.0
+02:03:35.896 [main] INFO  AV.VCU -  OSD 22 currentime 2282.0
+speed0 time 2283.0
+02:03:35.941 [main] INFO  AV.VCU -  OSD 33 currentime 2283.0
+speed0 time 2300.0
+02:03:36.788 [main] INFO  AV.VCU -  OSD 00 currentime 2300.0
+speed0 time 2301.0
+02:03:36.840 [main] INFO  AV.VCU -  OSD 11 currentime 2301.0
+speed0 time 2302.0
+02:03:36.890 [main] INFO  AV.VCU -  OSD 22 currentime 2302.0
+speed0 time 2303.0
+02:03:36.944 [main] INFO  AV.VCU -  OSD 33 currentime 2303.0
+speed0 time 2320.0
+02:03:37.784 [main] INFO  AV.VCU -  OSD 00 currentime 2320.0
+speed0 time 2321.0
+02:03:37.833 [main] INFO  AV.VCU -  OSD 11 currentime 2321.0
+speed0 time 2322.0
+02:03:37.898 [main] INFO  AV.VCU -  OSD 22 currentime 2322.0
+speed0 time 2323.0
+02:03:37.947 [main] INFO  AV.VCU -  OSD 33 currentime 2323.0
+speed0 time 2340.0
+02:03:38.801 [main] INFO  AV.VCU -  OSD 00 currentime 2340.0
+speed0 time 2341.0
+02:03:38.859 [main] INFO  AV.VCU -  OSD 11 currentime 2341.0
+speed0 time 2342.0
+02:03:38.898 [main] INFO  AV.VCU -  OSD 22 currentime 2342.0
+speed0 time 2343.0
+02:03:38.954 [main] INFO  AV.VCU -  OSD 33 currentime 2343.0
+speed0 time 2360.0
+02:03:39.772 [main] INFO  AV.VCU -  OSD 00 currentime 2360.0
+speed0 time 2361.0
+02:03:39.801 [main] INFO  AV.VCU -  OSD 11 currentime 2361.0
+speed0 time 2362.0
+02:03:39.883 [main] INFO  AV.VCU -  OSD 22 currentime 2362.0
+speed0 time 2363.0
+02:03:39.905 [main] INFO  AV.VCU -  OSD 33 currentime 2363.0
+speed0 time 2380.0
+02:03:40.782 [main] INFO  AV.VCU -  OSD 00 currentime 2380.0
+speed0 time 2381.0
+02:03:40.883 [main] INFO  AV.VCU -  OSD 11 currentime 2381.0
+speed0 time 2382.0
+02:03:40.931 [main] INFO  AV.VCU -  OSD 22 currentime 2382.0
+speed0 time 2383.0
+02:03:40.985 [main] INFO  AV.VCU -  OSD 33 currentime 2383.0
+speed0 time 2400.0
+02:03:41.817 [main] INFO  AV.VCU -  OSD 00 currentime 2400.0
+speed0 time 2401.0
+02:03:41.885 [main] INFO  AV.VCU -  OSD 11 currentime 2401.0
+speed0 time 2402.0
+02:03:41.941 [main] INFO  AV.VCU -  OSD 22 currentime 2402.0
+speed0 time 2403.0
+02:03:41.992 [main] INFO  AV.VCU -  OSD 33 currentime 2403.0
+speed0 time 2420.0
+02:03:42.818 [main] INFO  AV.VCU -  OSD 00 currentime 2420.0
+speed0 time 2421.0
+02:03:42.869 [main] INFO  AV.VCU -  OSD 11 currentime 2421.0
+speed0 time 2422.0
+02:03:42.924 [main] INFO  AV.VCU -  OSD 22 currentime 2422.0
+speed0 time 2423.0
+02:03:42.983 [main] INFO  AV.VCU -  OSD 33 currentime 2423.0
+speed0 time 2440.0
+02:03:43.895 [main] INFO  AV.VCU -  OSD 00 currentime 2440.0
+speed0 time 2441.0
+02:03:43.947 [main] INFO  AV.VCU -  OSD 11 currentime 2441.0
+speed0 time 2442.0
+02:03:44.006 [main] INFO  AV.VCU -  OSD 22 currentime 2442.0
+speed0 time 2443.0
+02:03:44.057 [main] INFO  AV.VCU -  OSD 33 currentime 2443.0
+speed0 time 2460.0
+02:03:44.881 [main] INFO  AV.VCU -  OSD 00 currentime 2460.0
+speed0 time 2461.0
+02:03:44.935 [main] INFO  AV.VCU -  OSD 11 currentime 2461.0
+speed0 time 2462.0
+02:03:44.987 [main] INFO  AV.VCU -  OSD 22 currentime 2462.0
+speed0 time 2463.0
+02:03:45.030 [main] INFO  AV.VCU -  OSD 33 currentime 2463.0
+speed0 time 2480.0
+02:03:45.921 [main] INFO  AV.VCU -  OSD 00 currentime 2480.0
+speed0 time 2481.0
+02:03:45.977 [main] INFO  AV.VCU -  OSD 11 currentime 2481.0
+speed0 time 2482.0
+02:03:46.031 [main] INFO  AV.VCU -  OSD 22 currentime 2482.0
+speed0 time 2483.0
+02:03:46.083 [main] INFO  AV.VCU -  OSD 33 currentime 2483.0
+speed0 time 2500.0
+02:03:46.921 [main] INFO  AV.VCU -  OSD 00 currentime 2500.0
+speed0 time 2501.0
+02:03:46.971 [main] INFO  AV.VCU -  OSD 11 currentime 2501.0
+speed0 time 2502.0
+02:03:47.017 [main] INFO  AV.VCU -  OSD 22 currentime 2502.0
+speed0 time 2503.0
+02:03:47.060 [main] INFO  AV.VCU -  OSD 33 currentime 2503.0
+speed0 time 2520.0
+02:03:47.925 [main] INFO  AV.VCU -  OSD 00 currentime 2520.0
+speed0 time 2521.0
+02:03:47.974 [main] INFO  AV.VCU -  OSD 11 currentime 2521.0
+speed0 time 2522.0
+02:03:48.031 [main] INFO  AV.VCU -  OSD 22 currentime 2522.0
+speed0 time 2523.0
+02:03:48.078 [main] INFO  AV.VCU -  OSD 33 currentime 2523.0
+speed0 time 2540.0
+02:03:48.907 [main] INFO  AV.VCU -  OSD 00 currentime 2540.0
+speed0 time 2541.0
+02:03:48.947 [main] INFO  AV.VCU -  OSD 11 currentime 2541.0
+speed0 time 2542.0
+02:03:48.994 [main] INFO  AV.VCU -  OSD 22 currentime 2542.0
+speed0 time 2543.0
+02:03:49.039 [main] INFO  AV.VCU -  OSD 33 currentime 2543.0
+speed0 time 2560.0
+02:03:49.906 [main] INFO  AV.VCU -  OSD 00 currentime 2560.0
+speed0 time 2561.0
+02:03:49.963 [main] INFO  AV.VCU -  OSD 11 currentime 2561.0
+speed0 time 2562.0
+02:03:50.001 [main] INFO  AV.VCU -  OSD 22 currentime 2562.0
+speed0 time 2563.0
+02:03:50.079 [main] INFO  AV.VCU -  OSD 33 currentime 2563.0
+speed0 time 2580.0
+02:03:50.913 [main] INFO  AV.VCU -  OSD 00 currentime 2580.0
+speed0 time 2581.0
+02:03:50.964 [main] INFO  AV.VCU -  OSD 11 currentime 2581.0
+speed0 time 2582.0
+02:03:51.022 [main] INFO  AV.VCU -  OSD 22 currentime 2582.0
+speed0 time 2583.0
+02:03:51.077 [main] INFO  AV.VCU -  OSD 33 currentime 2583.0
+speed0 time 2600.0
+02:03:51.894 [main] INFO  AV.VCU -  OSD 00 currentime 2600.0
+speed0 time 2601.0
+02:03:51.953 [main] INFO  AV.VCU -  OSD 11 currentime 2601.0
+speed0 time 2602.0
+02:03:51.996 [main] INFO  AV.VCU -  OSD 22 currentime 2602.0
+speed0 time 2603.0
+02:03:52.049 [main] INFO  AV.VCU -  OSD 33 currentime 2603.0
+speed0 time 2620.0
+02:03:52.976 [main] INFO  AV.VCU -  OSD 00 currentime 2620.0
+speed0 time 2621.0
+02:03:53.025 [main] INFO  AV.VCU -  OSD 11 currentime 2621.0
+speed0 time 2622.0
+02:03:53.073 [main] INFO  AV.VCU -  OSD 22 currentime 2622.0
+speed0 time 2623.0
+02:03:53.117 [main] INFO  AV.VCU -  OSD 33 currentime 2623.0
+speed0 time 2640.0
+02:03:54.001 [main] INFO  AV.VCU -  OSD 00 currentime 2640.0
+speed0 time 2641.0
+02:03:54.039 [main] INFO  AV.VCU -  OSD 11 currentime 2641.0
+speed0 time 2642.0
+02:03:54.093 [main] INFO  AV.VCU -  OSD 22 currentime 2642.0
+speed0 time 2643.0
+02:03:54.137 [main] INFO  AV.VCU -  OSD 33 currentime 2643.0
+speed0 time 2660.0
+02:03:54.974 [main] INFO  AV.VCU -  OSD 00 currentime 2660.0
+speed0 time 2661.0
+02:03:55.029 [main] INFO  AV.VCU -  OSD 11 currentime 2661.0
+speed0 time 2662.0
+02:03:55.073 [main] INFO  AV.VCU -  OSD 22 currentime 2662.0
+speed0 time 2663.0
+02:03:55.131 [main] INFO  AV.VCU -  OSD 33 currentime 2663.0
+speed0 time 2680.0
+02:03:56.015 [main] INFO  AV.VCU -  OSD 00 currentime 2680.0
+speed0 time 2681.0
+02:03:56.066 [main] INFO  AV.VCU -  OSD 11 currentime 2681.0
+speed0 time 2682.0
+02:03:56.109 [main] INFO  AV.VCU -  OSD 22 currentime 2682.0
+speed0 time 2683.0
+02:03:56.152 [main] INFO  AV.VCU -  OSD 33 currentime 2683.0
+speed0 time 2700.0
+02:03:56.963 [main] INFO  AV.VCU -  OSD 00 currentime 2700.0
+speed0 time 2701.0
+02:03:57.035 [main] INFO  AV.VCU -  OSD 11 currentime 2701.0
+speed0 time 2702.0
+02:03:57.089 [main] INFO  AV.VCU -  OSD 22 currentime 2702.0
+speed0 time 2703.0
+02:03:57.149 [main] INFO  AV.VCU -  OSD 33 currentime 2703.0
+speed0 time 2720.0
+02:03:57.991 [main] INFO  AV.VCU -  OSD 00 currentime 2720.0
+speed0 time 2721.0
+02:03:58.041 [main] INFO  AV.VCU -  OSD 11 currentime 2721.0
+speed0 time 2722.0
+02:03:58.094 [main] INFO  AV.VCU -  OSD 22 currentime 2722.0
+speed0 time 2723.0
+02:03:58.136 [main] INFO  AV.VCU -  OSD 33 currentime 2723.0
+speed0 time 2740.0
+02:03:58.966 [main] INFO  AV.VCU -  OSD 00 currentime 2740.0
+speed0 time 2741.0
+02:03:58.997 [main] INFO  AV.VCU -  OSD 11 currentime 2741.0
+speed0 time 2742.0
+02:03:59.028 [main] INFO  AV.VCU -  OSD 22 currentime 2742.0
+speed0 time 2743.0
+02:03:59.084 [main] INFO  AV.VCU -  OSD 33 currentime 2743.0
+speed0 time 2760.0
+02:03:59.926 [main] INFO  AV.VCU -  OSD 00 currentime 2760.0
+speed0 time 2761.0
+02:03:59.974 [main] INFO  AV.VCU -  OSD 11 currentime 2761.0
+speed0 time 2762.0
+02:04:00.030 [main] INFO  AV.VCU -  OSD 22 currentime 2762.0
+speed0 time 2763.0
+02:04:00.084 [main] INFO  AV.VCU -  OSD 33 currentime 2763.0
+speed0 time 2780.0
+02:04:00.941 [main] INFO  AV.VCU -  OSD 00 currentime 2780.0
+speed0 time 2781.0
+02:04:00.981 [main] INFO  AV.VCU -  OSD 11 currentime 2781.0
+speed0 time 2782.0
+02:04:01.029 [main] INFO  AV.VCU -  OSD 22 currentime 2782.0
+speed0 time 2783.0
+02:04:01.085 [main] INFO  AV.VCU -  OSD 33 currentime 2783.0
+speed0 time 2800.0
+02:04:01.936 [main] INFO  AV.VCU -  OSD 00 currentime 2800.0
+speed0 time 2801.0
+02:04:01.981 [main] INFO  AV.VCU -  OSD 11 currentime 2801.0
+speed0 time 2802.0
+02:04:02.033 [main] INFO  AV.VCU -  OSD 22 currentime 2802.0
+speed0 time 2803.0
+02:04:02.076 [main] INFO  AV.VCU -  OSD 33 currentime 2803.0
+speed0 time 2820.0
+02:04:02.918 [main] INFO  AV.VCU -  OSD 00 currentime 2820.0
+speed0 time 2821.0
+02:04:02.976 [main] INFO  AV.VCU -  OSD 11 currentime 2821.0
+speed0 time 2822.0
+02:04:03.004 [main] INFO  AV.VCU -  OSD 22 currentime 2822.0
+speed0 time 2823.0
+02:04:03.085 [main] INFO  AV.VCU -  OSD 33 currentime 2823.0
+speed0 time 2840.0
+02:04:03.934 [main] INFO  AV.VCU -  OSD 00 currentime 2840.0
+speed0 time 2841.0
+02:04:03.984 [main] INFO  AV.VCU -  OSD 11 currentime 2841.0
+speed0 time 2842.0
+02:04:04.027 [main] INFO  AV.VCU -  OSD 22 currentime 2842.0
+speed0 time 2843.0
+02:04:04.077 [main] INFO  AV.VCU -  OSD 33 currentime 2843.0
+speed0 time 2860.0
+02:04:04.918 [main] INFO  AV.VCU -  OSD 00 currentime 2860.0
+speed0 time 2861.0
+02:04:04.969 [main] INFO  AV.VCU -  OSD 11 currentime 2861.0
+speed0 time 2862.0
+02:04:05.029 [main] INFO  AV.VCU -  OSD 22 currentime 2862.0
+speed0 time 2863.0
+02:04:05.081 [main] INFO  AV.VCU -  OSD 33 currentime 2863.0
+speed0 time 2880.0
+02:04:05.931 [main] INFO  AV.VCU -  OSD 00 currentime 2880.0
+speed0 time 2881.0
+02:04:05.970 [main] INFO  AV.VCU -  OSD 11 currentime 2881.0
+speed0 time 2882.0
+02:04:06.030 [main] INFO  AV.VCU -  OSD 22 currentime 2882.0
+speed0 time 2883.0
+02:04:06.063 [main] INFO  AV.VCU -  OSD 33 currentime 2883.0
+speed0 time 2900.0
+02:04:06.949 [main] INFO  AV.VCU -  OSD 00 currentime 2900.0
+speed0 time 2901.0
+02:04:07.021 [main] INFO  AV.VCU -  OSD 11 currentime 2901.0
+speed0 time 2902.0
+02:04:07.069 [main] INFO  AV.VCU -  OSD 22 currentime 2902.0
+speed0 time 2903.0
+02:04:07.115 [main] INFO  AV.VCU -  OSD 33 currentime 2903.0
+speed0 time 2920.0
+02:04:07.945 [main] INFO  AV.VCU -  OSD 00 currentime 2920.0
+speed0 time 2921.0
+02:04:07.988 [main] INFO  AV.VCU -  OSD 11 currentime 2921.0
+speed0 time 2922.0
+02:04:08.042 [main] INFO  AV.VCU -  OSD 22 currentime 2922.0
+speed0 time 2923.0
+02:04:08.093 [main] INFO  AV.VCU -  OSD 33 currentime 2923.0
+speed0 time 2940.0
+02:04:08.885 [main] INFO  AV.VCU -  OSD 00 currentime 2940.0
+speed0 time 2941.0
+02:04:08.931 [main] INFO  AV.VCU -  OSD 11 currentime 2941.0
+speed0 time 2942.0
+02:04:08.981 [main] INFO  AV.VCU -  OSD 22 currentime 2942.0
+speed0 time 2943.0
+02:04:09.025 [main] INFO  AV.VCU -  OSD 33 currentime 2943.0
+speed0 time 2960.0
+02:04:09.859 [main] INFO  AV.VCU -  OSD 00 currentime 2960.0
+speed0 time 2961.0
+02:04:09.904 [main] INFO  AV.VCU -  OSD 11 currentime 2961.0
+speed0 time 2962.0
+02:04:09.957 [main] INFO  AV.VCU -  OSD 22 currentime 2962.0
+speed0 time 2963.0
+02:04:10.000 [main] INFO  AV.VCU -  OSD 33 currentime 2963.0
+speed0 time 2980.0
+02:04:10.956 [main] INFO  AV.VCU -  OSD 00 currentime 2980.0
+speed0 time 2981.0
+02:04:10.977 [main] INFO  AV.VCU -  OSD 11 currentime 2981.0
+speed0 time 2982.0
+02:04:11.063 [main] INFO  AV.VCU -  OSD 22 currentime 2982.0
+speed0 time 2983.0
+02:04:11.089 [main] INFO  AV.VCU -  OSD 33 currentime 2983.0
+speed0 time 3000.0
+02:04:11.936 [main] INFO  AV.VCU -  OSD 00 currentime 3000.0
+speed0 time 3001.0
+02:04:11.977 [main] INFO  AV.VCU -  OSD 11 currentime 3001.0
+speed0 time 3002.0
+02:04:12.033 [main] INFO  AV.VCU -  OSD 22 currentime 3002.0
+speed0 time 3003.0
+02:04:12.074 [main] INFO  AV.VCU -  OSD 33 currentime 3003.0
+speed0 time 3020.0
+02:04:12.910 [main] INFO  AV.VCU -  OSD 00 currentime 3020.0
+speed0 time 3021.0
+02:04:12.970 [main] INFO  AV.VCU -  OSD 11 currentime 3021.0
+speed0 time 3022.0
+02:04:13.013 [main] INFO  AV.VCU -  OSD 22 currentime 3022.0
+speed0 time 3023.0
+02:04:13.071 [main] INFO  AV.VCU -  OSD 33 currentime 3023.0
+speed0 time 3040.0
+02:04:13.898 [main] INFO  AV.VCU -  OSD 00 currentime 3040.0
+speed0 time 3041.0
+02:04:13.968 [main] INFO  AV.VCU -  OSD 11 currentime 3041.0
+speed0 time 3042.0
+02:04:14.013 [main] INFO  AV.VCU -  OSD 22 currentime 3042.0
+speed0 time 3043.0
+02:04:14.073 [main] INFO  AV.VCU -  OSD 33 currentime 3043.0
+speed0 time 3060.0
+02:04:14.916 [main] INFO  AV.VCU -  OSD 00 currentime 3060.0
+speed0 time 3061.0
+02:04:14.966 [main] INFO  AV.VCU -  OSD 11 currentime 3061.0
+speed0 time 3062.0
+02:04:15.025 [main] INFO  AV.VCU -  OSD 22 currentime 3062.0
+speed0 time 3063.0
+02:04:15.066 [main] INFO  AV.VCU -  OSD 33 currentime 3063.0
+speed0 time 3080.0
+02:04:15.910 [main] INFO  AV.VCU -  OSD 00 currentime 3080.0
+speed0 time 3081.0
+02:04:15.969 [main] INFO  AV.VCU -  OSD 11 currentime 3081.0
+speed0 time 3082.0
+02:04:16.008 [main] INFO  AV.VCU -  OSD 22 currentime 3082.0
+speed0 time 3083.0
+02:04:16.065 [main] INFO  AV.VCU -  OSD 33 currentime 3083.0
+speed0 time 3100.0
+02:04:16.882 [main] INFO  AV.VCU -  OSD 00 currentime 3100.0
+speed0 time 3101.0
+02:04:16.923 [main] INFO  AV.VCU -  OSD 11 currentime 3101.0
+speed0 time 3102.0
+02:04:16.985 [main] INFO  AV.VCU -  OSD 22 currentime 3102.0
+speed0 time 3103.0
+02:04:17.026 [main] INFO  AV.VCU -  OSD 33 currentime 3103.0
+speed0 time 3120.0
+02:04:17.900 [main] INFO  AV.VCU -  OSD 00 currentime 3120.0
+speed0 time 3121.0
+02:04:17.938 [main] INFO  AV.VCU -  OSD 11 currentime 3121.0
+speed0 time 3122.0
+02:04:18.001 [main] INFO  AV.VCU -  OSD 22 currentime 3122.0
+speed0 time 3123.0
+02:04:18.039 [main] INFO  AV.VCU -  OSD 33 currentime 3123.0
+speed0 time 3140.0
+02:04:18.857 [main] INFO  AV.VCU -  OSD 00 currentime 3140.0
+speed0 time 3141.0
+02:04:18.926 [main] INFO  AV.VCU -  OSD 11 currentime 3141.0
+speed0 time 3142.0
+02:04:18.949 [main] INFO  AV.VCU -  OSD 22 currentime 3142.0
+speed0 time 3143.0
+02:04:19.033 [main] INFO  AV.VCU -  OSD 33 currentime 3143.0
+speed0 time 3160.0
+02:04:19.896 [main] INFO  AV.VCU -  OSD 00 currentime 3160.0
+speed0 time 3161.0
+02:04:19.969 [main] INFO  AV.VCU -  OSD 11 currentime 3161.0
+speed0 time 3162.0
+02:04:20.031 [main] INFO  AV.VCU -  OSD 22 currentime 3162.0
+speed0 time 3163.0
+02:04:20.079 [main] INFO  AV.VCU -  OSD 33 currentime 3163.0
+speed0 time 3180.0
+02:04:20.605 [main] INFO  AV.VCU -  OSD 00 currentime 3180.0
+speed0 time 3181.0
+02:04:20.627 [main] INFO  AV.VCU -  OSD 11 currentime 3181.0
+speed0 time 3182.0
+02:04:20.686 [main] INFO  AV.VCU -  OSD 22 currentime 3182.0
+speed0 time 3183.0
+02:04:20.734 [main] INFO  AV.VCU -  OSD 33 currentime 3183.0
+speed0 time 3200.0
+02:04:21.556 [main] INFO  AV.VCU -  OSD 00 currentime 3200.0
+speed0 time 3201.0
+02:04:21.609 [main] INFO  AV.VCU -  OSD 11 currentime 3201.0
+speed0 time 3202.0
+02:04:21.656 [main] INFO  AV.VCU -  OSD 22 currentime 3202.0
+speed0 time 3203.0
+02:04:21.710 [main] INFO  AV.VCU -  OSD 33 currentime 3203.0
+speed0 time 3220.0
+02:04:22.530 [main] INFO  AV.VCU -  OSD 00 currentime 3220.0
+speed0 time 3221.0
+02:04:22.574 [main] INFO  AV.VCU -  OSD 11 currentime 3221.0
+speed0 time 3222.0
+02:04:22.640 [main] INFO  AV.VCU -  OSD 22 currentime 3222.0
+speed0 time 3223.0
+02:04:22.677 [main] INFO  AV.VCU -  OSD 33 currentime 3223.0
+speed0 time 3240.0
+02:04:23.504 [main] INFO  AV.VCU -  OSD 00 currentime 3240.0
+speed0 time 3241.0
+02:04:23.546 [main] INFO  AV.VCU -  OSD 11 currentime 3241.0
+speed0 time 3242.0
+02:04:23.608 [main] INFO  AV.VCU -  OSD 22 currentime 3242.0
+speed0 time 3243.0
+02:04:23.647 [main] INFO  AV.VCU -  OSD 33 currentime 3243.0
+speed0 time 3260.0
+02:04:24.477 [main] INFO  AV.VCU -  OSD 00 currentime 3260.0
+speed0 time 3261.0
+02:04:24.521 [main] INFO  AV.VCU -  OSD 11 currentime 3261.0
+speed0 time 3262.0
+02:04:24.607 [main] INFO  AV.VCU -  OSD 22 currentime 3262.0
+speed0 time 3263.0
+02:04:24.657 [main] INFO  AV.VCU -  OSD 33 currentime 3263.0
+speed0 time 3280.0
+02:04:25.477 [main] INFO  AV.VCU -  OSD 00 currentime 3280.0
+speed0 time 3281.0
+02:04:25.525 [main] INFO  AV.VCU -  OSD 11 currentime 3281.0
+speed0 time 3282.0
+02:04:25.570 [main] INFO  AV.VCU -  OSD 22 currentime 3282.0
+speed0 time 3283.0
+02:04:25.624 [main] INFO  AV.VCU -  OSD 33 currentime 3283.0
+speed0 time 3300.0
+02:04:26.378 [main] INFO  AV.VCU -  OSD 00 currentime 3300.0
+speed0 time 3301.0
+02:04:26.430 [main] INFO  AV.VCU -  OSD 11 currentime 3301.0
+speed0 time 3302.0
+02:04:26.477 [main] INFO  AV.VCU -  OSD 22 currentime 3302.0
+speed0 time 3303.0
+02:04:26.528 [main] INFO  AV.VCU -  OSD 33 currentime 3303.0
+speed0 time 3320.0
+02:04:27.367 [main] INFO  AV.VCU -  OSD 00 currentime 3320.0
+speed0 time 3321.0
+02:04:27.416 [main] INFO  AV.VCU -  OSD 11 currentime 3321.0
+speed0 time 3322.0
+02:04:27.463 [main] INFO  AV.VCU -  OSD 22 currentime 3322.0
+speed0 time 3323.0
+02:04:27.506 [main] INFO  AV.VCU -  OSD 33 currentime 3323.0
+speed0 time 3340.0
+02:04:28.374 [main] INFO  AV.VCU -  OSD 00 currentime 3340.0
+speed0 time 3341.0
+02:04:28.419 [main] INFO  AV.VCU -  OSD 11 currentime 3341.0
+speed0 time 3342.0
+02:04:28.473 [main] INFO  AV.VCU -  OSD 22 currentime 3342.0
+speed0 time 3343.0
+02:04:28.517 [main] INFO  AV.VCU -  OSD 33 currentime 3343.0
+speed0 time 3360.0
+02:04:29.409 [main] INFO  AV.VCU -  OSD 00 currentime 3360.0
+speed0 time 3361.0
+02:04:29.467 [main] INFO  AV.VCU -  OSD 11 currentime 3361.0
+speed0 time 3362.0
+02:04:29.518 [main] INFO  AV.VCU -  OSD 22 currentime 3362.0
+speed0 time 3363.0
+02:04:29.566 [main] INFO  AV.VCU -  OSD 33 currentime 3363.0
+speed0 time 3380.0
+02:04:30.623 [main] INFO  AV.VCU -  OSD 00 currentime 3380.0
+speed0 time 3381.0
+02:04:30.671 [main] INFO  AV.VCU -  OSD 11 currentime 3381.0
+speed0 time 3382.0
+02:04:30.714 [main] INFO  AV.VCU -  OSD 22 currentime 3382.0
+speed0 time 3383.0
+02:04:30.756 [main] INFO  AV.VCU -  OSD 33 currentime 3383.0
+speed0 time 3400.0
+02:04:31.626 [main] INFO  AV.VCU -  OSD 00 currentime 3400.0
+speed0 time 3401.0
+02:04:31.698 [main] INFO  AV.VCU -  OSD 11 currentime 3401.0
+speed0 time 3402.0
+02:04:31.756 [main] INFO  AV.VCU -  OSD 22 currentime 3402.0
+speed0 time 3403.0
+02:04:31.809 [main] INFO  AV.VCU -  OSD 33 currentime 3403.0
+speed0 time 3420.0
+02:04:32.664 [main] INFO  AV.VCU -  OSD 00 currentime 3420.0
+speed0 time 3421.0
+02:04:32.723 [main] INFO  AV.VCU -  OSD 11 currentime 3421.0
+speed0 time 3422.0
+02:04:32.782 [main] INFO  AV.VCU -  OSD 22 currentime 3422.0
+speed0 time 3423.0
+02:04:32.820 [main] INFO  AV.VCU -  OSD 33 currentime 3423.0
+speed0 time 3440.0
+02:04:33.662 [main] INFO  AV.VCU -  OSD 00 currentime 3440.0
+speed0 time 3441.0
+02:04:33.709 [main] INFO  AV.VCU -  OSD 11 currentime 3441.0
+speed0 time 3442.0
+02:04:33.778 [main] INFO  AV.VCU -  OSD 22 currentime 3442.0
+speed0 time 3443.0
+02:04:33.821 [main] INFO  AV.VCU -  OSD 33 currentime 3443.0
+speed0 time 3460.0
+02:04:34.681 [main] INFO  AV.VCU -  OSD 00 currentime 3460.0
+speed0 time 3461.0
+02:04:34.717 [main] INFO  AV.VCU -  OSD 11 currentime 3461.0
+speed0 time 3462.0
+02:04:34.774 [main] INFO  AV.VCU -  OSD 22 currentime 3462.0
+speed0 time 3463.0
+02:04:34.808 [main] INFO  AV.VCU -  OSD 33 currentime 3463.0
+speed0 time 3480.0
+02:04:35.685 [main] INFO  AV.VCU -  OSD 00 currentime 3480.0
+speed0 time 3481.0
+02:04:35.730 [main] INFO  AV.VCU -  OSD 11 currentime 3481.0
+speed0 time 3482.0
+02:04:35.779 [main] INFO  AV.VCU -  OSD 22 currentime 3482.0
+speed0 time 3483.0
+02:04:35.832 [main] INFO  AV.VCU -  OSD 33 currentime 3483.0
+speed0 time 3500.0
+02:04:36.680 [main] INFO  AV.VCU -  OSD 00 currentime 3500.0
+speed0 time 3501.0
+02:04:36.731 [main] INFO  AV.VCU -  OSD 11 currentime 3501.0
+speed0 time 3502.0
+02:04:36.771 [main] INFO  AV.VCU -  OSD 22 currentime 3502.0
+speed0 time 3503.0
+02:04:36.827 [main] INFO  AV.VCU -  OSD 33 currentime 3503.0
+speed0 time 3520.0
+02:04:37.702 [main] INFO  AV.VCU -  OSD 00 currentime 3520.0
+speed0 time 3521.0
+02:04:37.739 [main] INFO  AV.VCU -  OSD 11 currentime 3521.0
+speed0 time 3522.0
+02:04:37.793 [main] INFO  AV.VCU -  OSD 22 currentime 3522.0
+speed0 time 3523.0
+02:04:37.824 [main] INFO  AV.VCU -  OSD 33 currentime 3523.0
+speed0 time 3540.0
+02:04:38.715 [main] INFO  AV.VCU -  OSD 00 currentime 3540.0
+speed0 time 3541.0
+02:04:38.737 [main] INFO  AV.VCU -  OSD 11 currentime 3541.0
+speed0 time 3542.0
+02:04:38.812 [main] INFO  AV.VCU -  OSD 22 currentime 3542.0
+speed0 time 3543.0
+02:04:38.843 [main] INFO  AV.VCU -  OSD 33 currentime 3543.0
+speed0 time 3560.0
+02:04:39.653 [main] INFO  AV.VCU -  OSD 00 currentime 3560.0
+speed0 time 3561.0
+02:04:39.706 [main] INFO  AV.VCU -  OSD 11 currentime 3561.0
+speed0 time 3562.0
+02:04:39.756 [main] INFO  AV.VCU -  OSD 22 currentime 3562.0
+speed0 time 3563.0
+02:04:39.811 [main] INFO  AV.VCU -  OSD 33 currentime 3563.0
+speed0 time 3580.0
+02:04:40.649 [main] INFO  AV.VCU -  OSD 00 currentime 3580.0
+speed0 time 3581.0
+02:04:40.707 [main] INFO  AV.VCU -  OSD 11 currentime 3581.0
+speed0 time 3582.0
+02:04:40.750 [main] INFO  AV.VCU -  OSD 22 currentime 3582.0
+speed0 time 3583.0
+02:04:40.796 [main] INFO  AV.VCU -  OSD 33 currentime 3583.0
+speed0 time 3600.0
+02:04:41.644 [main] INFO  AV.VCU -  OSD 00 currentime 3600.0
+speed0 time 3601.0
+02:04:41.689 [main] INFO  AV.VCU -  OSD 11 currentime 3601.0
+speed0 time 3602.0
+02:04:41.758 [main] INFO  AV.VCU -  OSD 22 currentime 3602.0
+speed0 time 3603.0
+02:04:41.813 [main] INFO  AV.VCU -  OSD 33 currentime 3603.0
+speed0 time 3620.0
+02:04:42.636 [main] INFO  AV.VCU -  OSD 00 currentime 3620.0
+speed0 time 3621.0
+02:04:42.694 [main] INFO  AV.VCU -  OSD 11 currentime 3621.0
+speed0 time 3622.0
+02:04:42.740 [main] INFO  AV.VCU -  OSD 22 currentime 3622.0
+speed0 time 3623.0
+02:04:42.795 [main] INFO  AV.VCU -  OSD 33 currentime 3623.0
+speed0 time 3640.0
+02:04:43.595 [main] INFO  AV.VCU -  OSD 00 currentime 3640.0
+speed0 time 3641.0
+02:04:43.641 [main] INFO  AV.VCU -  OSD 11 currentime 3641.0
+speed0 time 3642.0
+02:04:43.689 [main] INFO  AV.VCU -  OSD 22 currentime 3642.0
+speed0 time 3643.0
+02:04:43.742 [main] INFO  AV.VCU -  OSD 33 currentime 3643.0
+speed0 time 3660.0
+02:04:44.564 [main] INFO  AV.VCU -  OSD 00 currentime 3660.0
+speed0 time 3661.0
+02:04:44.589 [main] INFO  AV.VCU -  OSD 11 currentime 3661.0
+speed0 time 3662.0
+02:04:44.661 [main] INFO  AV.VCU -  OSD 22 currentime 3662.0
+speed0 time 3663.0
+02:04:44.692 [main] INFO  AV.VCU -  OSD 33 currentime 3663.0
+speed0 time 3680.0
+02:04:45.510 [main] INFO  AV.VCU -  OSD 00 currentime 3680.0
+speed0 time 3681.0
+02:04:45.540 [main] INFO  AV.VCU -  OSD 11 currentime 3681.0
+speed0 time 3682.0
+02:04:45.611 [main] INFO  AV.VCU -  OSD 22 currentime 3682.0
+speed0 time 3683.0
+02:04:45.638 [main] INFO  AV.VCU -  OSD 33 currentime 3683.0
+speed0 time 3700.0
+02:04:46.493 [main] INFO  AV.VCU -  OSD 00 currentime 3700.0
+speed0 time 3701.0
+02:04:46.553 [main] INFO  AV.VCU -  OSD 11 currentime 3701.0
+speed0 time 3702.0
+02:04:46.600 [main] INFO  AV.VCU -  OSD 22 currentime 3702.0
+speed0 time 3703.0
+02:04:46.659 [main] INFO  AV.VCU -  OSD 33 currentime 3703.0
+speed0 time 3720.0
+02:04:47.507 [main] INFO  AV.VCU -  OSD 00 currentime 3720.0
+speed0 time 3721.0
+02:04:47.547 [main] INFO  AV.VCU -  OSD 11 currentime 3721.0
+speed0 time 3722.0
+02:04:47.604 [main] INFO  AV.VCU -  OSD 22 currentime 3722.0
+speed0 time 3723.0
+02:04:47.641 [main] INFO  AV.VCU -  OSD 33 currentime 3723.0
+speed0 time 3740.0
+02:04:48.514 [main] INFO  AV.VCU -  OSD 00 currentime 3740.0
+speed0 time 3741.0
+02:04:48.556 [main] INFO  AV.VCU -  OSD 11 currentime 3741.0
+speed0 time 3742.0
+02:04:48.614 [main] INFO  AV.VCU -  OSD 22 currentime 3742.0
+speed0 time 3743.0
+02:04:48.652 [main] INFO  AV.VCU -  OSD 33 currentime 3743.0
+speed0 time 3760.0
+02:04:49.481 [main] INFO  AV.VCU -  OSD 00 currentime 3760.0
+speed0 time 3761.0
+02:04:49.523 [main] INFO  AV.VCU -  OSD 11 currentime 3761.0
+speed0 time 3762.0
+02:04:49.569 [main] INFO  AV.VCU -  OSD 22 currentime 3762.0
+speed0 time 3763.0
+02:04:49.601 [main] INFO  AV.VCU -  OSD 33 currentime 3763.0
+speed0 time 3780.0
+02:04:50.599 [main] INFO  AV.VCU -  OSD 00 currentime 3780.0
+speed0 time 3781.0
+02:04:50.637 [main] INFO  AV.VCU -  OSD 11 currentime 3781.0
+speed0 time 3782.0
+02:04:50.698 [main] INFO  AV.VCU -  OSD 22 currentime 3782.0
+speed0 time 3783.0
+02:04:50.745 [main] INFO  AV.VCU -  OSD 33 currentime 3783.0
+speed0 time 3800.0
+02:04:51.631 [main] INFO  AV.VCU -  OSD 00 currentime 3800.0
+speed0 time 3801.0
+02:04:51.674 [main] INFO  AV.VCU -  OSD 11 currentime 3801.0
+speed0 time 3802.0
+02:04:51.735 [main] INFO  AV.VCU -  OSD 22 currentime 3802.0
+speed0 time 3803.0
+02:04:51.783 [main] INFO  AV.VCU -  OSD 33 currentime 3803.0
+speed0 time 3820.0
+02:04:52.593 [main] INFO  AV.VCU -  OSD 00 currentime 3820.0
+speed0 time 3821.0
+02:04:52.652 [main] INFO  AV.VCU -  OSD 11 currentime 3821.0
+speed0 time 3822.0
+02:04:52.693 [main] INFO  AV.VCU -  OSD 22 currentime 3822.0
+speed0 time 3823.0
+02:04:52.752 [main] INFO  AV.VCU -  OSD 33 currentime 3823.0
+speed0 time 3840.0
+02:04:53.596 [main] INFO  AV.VCU -  OSD 00 currentime 3840.0
+speed0 time 3841.0
+02:04:53.618 [main] INFO  AV.VCU -  OSD 11 currentime 3841.0
+speed0 time 3842.0
+02:04:53.706 [main] INFO  AV.VCU -  OSD 22 currentime 3842.0
+speed0 time 3843.0
+02:04:53.740 [main] INFO  AV.VCU -  OSD 33 currentime 3843.0
+speed0 time 3860.0
+02:04:54.599 [main] INFO  AV.VCU -  OSD 00 currentime 3860.0
+speed0 time 3861.0
+02:04:54.636 [main] INFO  AV.VCU -  OSD 11 currentime 3861.0
+speed0 time 3862.0
+02:04:54.693 [main] INFO  AV.VCU -  OSD 22 currentime 3862.0
+speed0 time 3863.0
+02:04:54.741 [main] INFO  AV.VCU -  OSD 33 currentime 3863.0
+speed0 time 3880.0
+02:04:55.602 [main] INFO  AV.VCU -  OSD 00 currentime 3880.0
+speed0 time 3881.0
+02:04:55.639 [main] INFO  AV.VCU -  OSD 11 currentime 3881.0
+speed0 time 3882.0
+02:04:55.695 [main] INFO  AV.VCU -  OSD 22 currentime 3882.0
+speed0 time 3883.0
+02:04:55.745 [main] INFO  AV.VCU -  OSD 33 currentime 3883.0
+speed0 time 3900.0
+02:04:56.578 [main] INFO  AV.VCU -  OSD 00 currentime 3900.0
+speed0 time 3901.0
+02:04:56.610 [main] INFO  AV.VCU -  OSD 11 currentime 3901.0
+speed0 time 3902.0
+02:04:56.638 [main] INFO  AV.VCU -  OSD 22 currentime 3902.0
+speed0 time 3903.0
+02:04:56.708 [main] INFO  AV.VCU -  OSD 33 currentime 3903.0
+speed0 time 3920.0
+02:04:57.572 [main] INFO  AV.VCU -  OSD 00 currentime 3920.0
+speed0 time 3921.0
+02:04:57.618 [main] INFO  AV.VCU -  OSD 11 currentime 3921.0
+speed0 time 3922.0
+02:04:57.673 [main] INFO  AV.VCU -  OSD 22 currentime 3922.0
+speed0 time 3923.0
+02:04:57.723 [main] INFO  AV.VCU -  OSD 33 currentime 3923.0
+speed0 time 3940.0
+02:04:58.558 [main] INFO  AV.VCU -  OSD 00 currentime 3940.0
+speed0 time 3941.0
+02:04:58.589 [main] INFO  AV.VCU -  OSD 11 currentime 3941.0
+speed0 time 3942.0
+02:04:58.656 [main] INFO  AV.VCU -  OSD 22 currentime 3942.0
+speed0 time 3943.0
+02:04:58.692 [main] INFO  AV.VCU -  OSD 33 currentime 3943.0
+speed0 time 3960.0
+02:04:59.570 [main] INFO  AV.VCU -  OSD 00 currentime 3960.0
+speed0 time 3961.0
+02:04:59.617 [main] INFO  AV.VCU -  OSD 11 currentime 3961.0
+speed0 time 3962.0
+02:04:59.675 [main] INFO  AV.VCU -  OSD 22 currentime 3962.0
+speed0 time 3963.0
+02:04:59.707 [main] INFO  AV.VCU -  OSD 33 currentime 3963.0
+speed0 time 3980.0
+02:05:00.557 [main] INFO  AV.VCU -  OSD 00 currentime 3980.0
+speed0 time 3981.0
+02:05:00.609 [main] INFO  AV.VCU -  OSD 11 currentime 3981.0
+speed0 time 3982.0
+02:05:00.652 [main] INFO  AV.VCU -  OSD 22 currentime 3982.0
+speed0 time 3983.0
+02:05:00.701 [main] INFO  AV.VCU -  OSD 33 currentime 3983.0
+speed0 time 4000.0
+02:05:01.529 [main] INFO  AV.VCU -  OSD 00 currentime 4000.0
+speed0 time 4001.0
+02:05:01.571 [main] INFO  AV.VCU -  OSD 11 currentime 4001.0
+speed0 time 4002.0
+02:05:01.631 [main] INFO  AV.VCU -  OSD 22 currentime 4002.0
+speed0 time 4003.0
+02:05:01.675 [main] INFO  AV.VCU -  OSD 33 currentime 4003.0
+speed0 time 4020.0
+02:05:02.522 [main] INFO  AV.VCU -  OSD 00 currentime 4020.0
+speed0 time 4021.0
+02:05:02.573 [main] INFO  AV.VCU -  OSD 11 currentime 4021.0
+speed0 time 4022.0
+02:05:02.617 [main] INFO  AV.VCU -  OSD 22 currentime 4022.0
+speed0 time 4023.0
+02:05:02.681 [main] INFO  AV.VCU -  OSD 33 currentime 4023.0
+speed0 time 4040.0
+02:05:03.494 [main] INFO  AV.VCU -  OSD 00 currentime 4040.0
+speed0 time 4041.0
+02:05:03.552 [main] INFO  AV.VCU -  OSD 11 currentime 4041.0
+speed0 time 4042.0
+02:05:03.598 [main] INFO  AV.VCU -  OSD 22 currentime 4042.0
+speed0 time 4043.0
+02:05:03.654 [main] INFO  AV.VCU -  OSD 33 currentime 4043.0
+speed0 time 4060.0
+02:05:04.480 [main] INFO  AV.VCU -  OSD 00 currentime 4060.0
+speed0 time 4061.0
+02:05:04.538 [main] INFO  AV.VCU -  OSD 11 currentime 4061.0
+speed0 time 4062.0
+02:05:04.592 [main] INFO  AV.VCU -  OSD 22 currentime 4062.0
+speed0 time 4063.0
+02:05:04.633 [main] INFO  AV.VCU -  OSD 33 currentime 4063.0
+speed0 time 4080.0
+02:05:05.413 [main] INFO  AV.VCU -  OSD 00 currentime 4080.0
+speed0 time 4081.0
+02:05:05.466 [main] INFO  AV.VCU -  OSD 11 currentime 4081.0
+speed0 time 4082.0
+02:05:05.516 [main] INFO  AV.VCU -  OSD 22 currentime 4082.0
+speed0 time 4083.0
+02:05:05.570 [main] INFO  AV.VCU -  OSD 33 currentime 4083.0
+speed0 time 4100.0
+02:05:06.409 [main] INFO  AV.VCU -  OSD 00 currentime 4100.0
+speed0 time 4101.0
+02:05:06.459 [main] INFO  AV.VCU -  OSD 11 currentime 4101.0
+speed0 time 4102.0
+02:05:06.497 [main] INFO  AV.VCU -  OSD 22 currentime 4102.0
+speed0 time 4103.0
+02:05:06.558 [main] INFO  AV.VCU -  OSD 33 currentime 4103.0
+speed0 time 4120.0
+02:05:07.402 [main] INFO  AV.VCU -  OSD 00 currentime 4120.0
+speed0 time 4121.0
+02:05:07.460 [main] INFO  AV.VCU -  OSD 11 currentime 4121.0
+speed0 time 4122.0
+02:05:07.501 [main] INFO  AV.VCU -  OSD 22 currentime 4122.0
+speed0 time 4123.0
+02:05:07.558 [main] INFO  AV.VCU -  OSD 33 currentime 4123.0
+speed0 time 4140.0
+02:05:08.384 [main] INFO  AV.VCU -  OSD 00 currentime 4140.0
+speed0 time 4141.0
+02:05:08.447 [main] INFO  AV.VCU -  OSD 11 currentime 4141.0
+speed0 time 4142.0
+02:05:08.498 [main] INFO  AV.VCU -  OSD 22 currentime 4142.0
+speed0 time 4143.0
+02:05:08.544 [main] INFO  AV.VCU -  OSD 33 currentime 4143.0
+speed0 time 4160.0
+02:05:09.421 [main] INFO  AV.VCU -  OSD 00 currentime 4160.0
+speed0 time 4161.0
+02:05:09.480 [main] INFO  AV.VCU -  OSD 11 currentime 4161.0
+speed0 time 4162.0
+02:05:09.530 [main] INFO  AV.VCU -  OSD 22 currentime 4162.0
+speed0 time 4163.0
+02:05:09.584 [main] INFO  AV.VCU -  OSD 33 currentime 4163.0
+speed0 time 4180.0
+02:05:10.425 [main] INFO  AV.VCU -  OSD 00 currentime 4180.0
+speed0 time 4181.0
+02:05:10.494 [main] INFO  AV.VCU -  OSD 11 currentime 4181.0
+speed0 time 4182.0
+02:05:10.521 [main] INFO  AV.VCU -  OSD 22 currentime 4182.0
+speed0 time 4183.0
+02:05:10.591 [main] INFO  AV.VCU -  OSD 33 currentime 4183.0
+speed0 time 4200.0
+02:05:11.523 [main] INFO  AV.VCU -  OSD 00 currentime 4200.0
+speed0 time 4201.0
+02:05:11.575 [main] INFO  AV.VCU -  OSD 11 currentime 4201.0
+speed0 time 4202.0
+02:05:11.629 [main] INFO  AV.VCU -  OSD 22 currentime 4202.0
+speed0 time 4203.0
+02:05:11.677 [main] INFO  AV.VCU -  OSD 33 currentime 4203.0
+speed0 time 4220.0
+02:05:12.514 [main] INFO  AV.VCU -  OSD 00 currentime 4220.0
+speed0 time 4221.0
+02:05:12.561 [main] INFO  AV.VCU -  OSD 11 currentime 4221.0
+speed0 time 4222.0
+02:05:12.619 [main] INFO  AV.VCU -  OSD 22 currentime 4222.0
+speed0 time 4223.0
+02:05:12.664 [main] INFO  AV.VCU -  OSD 33 currentime 4223.0
+speed0 time 4240.0
+02:05:13.481 [main] INFO  AV.VCU -  OSD 00 currentime 4240.0
+speed0 time 4241.0
+02:05:13.536 [main] INFO  AV.VCU -  OSD 11 currentime 4241.0
+speed0 time 4242.0
+02:05:13.579 [main] INFO  AV.VCU -  OSD 22 currentime 4242.0
+speed0 time 4243.0
+02:05:13.635 [main] INFO  AV.VCU -  OSD 33 currentime 4243.0
+speed0 time 4260.0
+02:05:14.478 [main] INFO  AV.VCU -  OSD 00 currentime 4260.0
+speed0 time 4261.0
+02:05:14.530 [main] INFO  AV.VCU -  OSD 11 currentime 4261.0
+speed0 time 4262.0
+02:05:14.571 [main] INFO  AV.VCU -  OSD 22 currentime 4262.0
+speed0 time 4263.0
+02:05:14.626 [main] INFO  AV.VCU -  OSD 33 currentime 4263.0
+speed0 time 4280.0
+02:05:15.492 [main] INFO  AV.VCU -  OSD 00 currentime 4280.0
+speed0 time 4281.0
+02:05:15.551 [main] INFO  AV.VCU -  OSD 11 currentime 4281.0
+speed0 time 4282.0
+02:05:15.604 [main] INFO  AV.VCU -  OSD 22 currentime 4282.0
+speed0 time 4283.0
+02:05:15.654 [main] INFO  AV.VCU -  OSD 33 currentime 4283.0
+speed0 time 4300.0
+02:05:16.504 [main] INFO  AV.VCU -  OSD 00 currentime 4300.0
+speed0 time 4301.0
+02:05:16.546 [main] INFO  AV.VCU -  OSD 11 currentime 4301.0
+speed0 time 4302.0
+02:05:16.600 [main] INFO  AV.VCU -  OSD 22 currentime 4302.0
+speed0 time 4303.0
+02:05:16.653 [main] INFO  AV.VCU -  OSD 33 currentime 4303.0
+speed0 time 4320.0
+02:05:17.486 [main] INFO  AV.VCU -  OSD 00 currentime 4320.0
+speed0 time 4321.0
+02:05:17.541 [main] INFO  AV.VCU -  OSD 11 currentime 4321.0
+speed0 time 4322.0
+02:05:17.596 [main] INFO  AV.VCU -  OSD 22 currentime 4322.0
+speed0 time 4323.0
+02:05:17.649 [main] INFO  AV.VCU -  OSD 33 currentime 4323.0
+speed0 time 4340.0
+02:05:18.462 [main] INFO  AV.VCU -  OSD 00 currentime 4340.0
+speed0 time 4341.0
+02:05:18.505 [main] INFO  AV.VCU -  OSD 11 currentime 4341.0
+speed0 time 4342.0
+02:05:18.557 [main] INFO  AV.VCU -  OSD 22 currentime 4342.0
+speed0 time 4343.0
+02:05:18.599 [main] INFO  AV.VCU -  OSD 33 currentime 4343.0
+speed0 time 4360.0
+02:05:19.497 [main] INFO  AV.VCU -  OSD 00 currentime 4360.0
+speed0 time 4361.0
+02:05:19.538 [main] INFO  AV.VCU -  OSD 11 currentime 4361.0
+speed0 time 4362.0
+02:05:19.599 [main] INFO  AV.VCU -  OSD 22 currentime 4362.0
+speed0 time 4363.0
+02:05:19.643 [main] INFO  AV.VCU -  OSD 33 currentime 4363.0
+speed0 time 4380.0
+02:05:20.495 [main] INFO  AV.VCU -  OSD 00 currentime 4380.0
+speed0 time 4381.0
+02:05:20.537 [main] INFO  AV.VCU -  OSD 11 currentime 4381.0
+speed0 time 4382.0
+02:05:20.592 [main] INFO  AV.VCU -  OSD 22 currentime 4382.0
+speed0 time 4383.0
+02:05:20.641 [main] INFO  AV.VCU -  OSD 33 currentime 4383.0
+speed0 time 4400.0
+02:05:21.439 [main] INFO  AV.VCU -  OSD 00 currentime 4400.0
+speed0 time 4401.0
+02:05:21.490 [main] INFO  AV.VCU -  OSD 11 currentime 4401.0
+speed0 time 4402.0
+02:05:21.533 [main] INFO  AV.VCU -  OSD 22 currentime 4402.0
+speed0 time 4403.0
+02:05:21.583 [main] INFO  AV.VCU -  OSD 33 currentime 4403.0
+speed0 time 4420.0
+02:05:22.400 [main] INFO  AV.VCU -  OSD 00 currentime 4420.0
+speed0 time 4421.0
+02:05:22.441 [main] INFO  AV.VCU -  OSD 11 currentime 4421.0
+speed0 time 4422.0
+02:05:22.494 [main] INFO  AV.VCU -  OSD 22 currentime 4422.0
+speed0 time 4423.0
+02:05:22.557 [main] INFO  AV.VCU -  OSD 33 currentime 4423.0
+speed0 time 4440.0
+02:05:23.429 [main] INFO  AV.VCU -  OSD 00 currentime 4440.0
+speed0 time 4441.0
+02:05:23.488 [main] INFO  AV.VCU -  OSD 11 currentime 4441.0
+speed0 time 4442.0
+02:05:23.539 [main] INFO  AV.VCU -  OSD 22 currentime 4442.0
+speed0 time 4443.0
+02:05:23.584 [main] INFO  AV.VCU -  OSD 33 currentime 4443.0
+speed0 time 4460.0
+02:05:24.447 [main] INFO  AV.VCU -  OSD 00 currentime 4460.0
+speed0 time 4461.0
+02:05:24.507 [main] INFO  AV.VCU -  OSD 11 currentime 4461.0
+speed0 time 4462.0
+02:05:24.568 [main] INFO  AV.VCU -  OSD 22 currentime 4462.0
+speed0 time 4463.0
+02:05:24.618 [main] INFO  AV.VCU -  OSD 33 currentime 4463.0
+speed0 time 4480.0
+02:05:25.475 [main] INFO  AV.VCU -  OSD 00 currentime 4480.0
+speed0 time 4481.0
+02:05:25.553 [main] INFO  AV.VCU -  OSD 11 currentime 4481.0
+speed0 time 4482.0
+02:05:25.578 [main] INFO  AV.VCU -  OSD 22 currentime 4482.0
+speed0 time 4483.0
+02:05:25.655 [main] INFO  AV.VCU -  OSD 33 currentime 4483.0
+speed0 time 4500.0
+02:05:26.542 [main] INFO  AV.VCU -  OSD 00 currentime 4500.0
+speed0 time 4501.0
+02:05:26.597 [main] INFO  AV.VCU -  OSD 11 currentime 4501.0
+speed0 time 4502.0
+02:05:26.662 [main] INFO  AV.VCU -  OSD 22 currentime 4502.0
+speed0 time 4503.0
+02:05:26.699 [main] INFO  AV.VCU -  OSD 33 currentime 4503.0
+speed0 time 4520.0
+02:05:27.565 [main] INFO  AV.VCU -  OSD 00 currentime 4520.0
+speed0 time 4521.0
+02:05:27.618 [main] INFO  AV.VCU -  OSD 11 currentime 4521.0
+speed0 time 4522.0
+02:05:27.677 [main] INFO  AV.VCU -  OSD 22 currentime 4522.0
+speed0 time 4523.0
+02:05:27.719 [main] INFO  AV.VCU -  OSD 33 currentime 4523.0
+speed0 time 4540.0
+02:05:28.547 [main] INFO  AV.VCU -  OSD 00 currentime 4540.0
+speed0 time 4541.0
+02:05:28.603 [main] INFO  AV.VCU -  OSD 11 currentime 4541.0
+speed0 time 4542.0
+02:05:28.658 [main] INFO  AV.VCU -  OSD 22 currentime 4542.0
+speed0 time 4543.0
+02:05:28.704 [main] INFO  AV.VCU -  OSD 33 currentime 4543.0
+speed0 time 4560.0
+02:05:29.458 [main] INFO  AV.VCU -  OSD 00 currentime 4560.0
+speed0 time 4561.0
+02:05:29.512 [main] INFO  AV.VCU -  OSD 11 currentime 4561.0
+speed0 time 4562.0
+02:05:29.555 [main] INFO  AV.VCU -  OSD 22 currentime 4562.0
+speed0 time 4563.0
+02:05:29.612 [main] INFO  AV.VCU -  OSD 33 currentime 4563.0
+speed0 time 4580.0
+02:05:30.427 [main] INFO  AV.VCU -  OSD 00 currentime 4580.0
+speed0 time 4581.0
+02:05:30.458 [main] INFO  AV.VCU -  OSD 11 currentime 4581.0
+speed0 time 4582.0
+02:05:30.518 [main] INFO  AV.VCU -  OSD 22 currentime 4582.0
+speed0 time 4583.0
+02:05:30.567 [main] INFO  AV.VCU -  OSD 33 currentime 4583.0
+speed0 time 4600.0
+02:05:31.868 [main] INFO  AV.VCU -  OSD 00 currentime 4600.0
+speed0 time 4601.0
+02:05:31.935 [main] INFO  AV.VCU -  OSD 11 currentime 4601.0
+speed0 time 4602.0
+02:05:31.981 [main] INFO  AV.VCU -  OSD 22 currentime 4602.0
+speed0 time 4603.0
+02:05:32.035 [main] INFO  AV.VCU -  OSD 33 currentime 4603.0
+speed0 time 4620.0
+02:05:32.856 [main] INFO  AV.VCU -  OSD 00 currentime 4620.0
+speed0 time 4621.0
+02:05:32.922 [main] INFO  AV.VCU -  OSD 11 currentime 4621.0
+speed0 time 4622.0
+02:05:32.965 [main] INFO  AV.VCU -  OSD 22 currentime 4622.0
+speed0 time 4623.0
+02:05:33.022 [main] INFO  AV.VCU -  OSD 33 currentime 4623.0
+speed0 time 4640.0
+02:05:34.040 [main] INFO  AV.VCU -  OSD 00 currentime 4640.0
+speed0 time 4641.0
+02:05:34.104 [main] INFO  AV.VCU -  OSD 11 currentime 4641.0
+speed0 time 4642.0
+02:05:34.162 [main] INFO  AV.VCU -  OSD 22 currentime 4642.0
+speed0 time 4643.0
+02:05:34.195 [main] INFO  AV.VCU -  OSD 33 currentime 4643.0
+speed0 time 4660.0
+02:05:35.062 [main] INFO  AV.VCU -  OSD 00 currentime 4660.0
+speed0 time 4661.0
+02:05:35.106 [main] INFO  AV.VCU -  OSD 11 currentime 4661.0
+speed0 time 4662.0
+02:05:35.158 [main] INFO  AV.VCU -  OSD 22 currentime 4662.0
+speed0 time 4663.0
+02:05:35.201 [main] INFO  AV.VCU -  OSD 33 currentime 4663.0
+speed0 time 4680.0
+02:05:36.452 [main] INFO  AV.VCU -  OSD 00 currentime 4680.0
+speed0 time 4681.0
+02:05:36.520 [main] INFO  AV.VCU -  OSD 11 currentime 4681.0
+speed0 time 4682.0
+02:05:36.557 [main] INFO  AV.VCU -  OSD 22 currentime 4682.0
+speed0 time 4683.0
+02:05:36.619 [main] INFO  AV.VCU -  OSD 33 currentime 4683.0
+speed0 time 4700.0
+02:05:37.431 [main] INFO  AV.VCU -  OSD 00 currentime 4700.0
+speed0 time 4701.0
+02:05:37.483 [main] INFO  AV.VCU -  OSD 11 currentime 4701.0
+speed0 time 4702.0
+02:05:37.536 [main] INFO  AV.VCU -  OSD 22 currentime 4702.0
+speed0 time 4703.0
+02:05:37.557 [main] INFO  AV.VCU -  OSD 33 currentime 4703.0
+speed0 time 4720.0
+02:05:38.392 [main] INFO  AV.VCU -  OSD 00 currentime 4720.0
+speed0 time 4721.0
+02:05:38.435 [main] INFO  AV.VCU -  OSD 11 currentime 4721.0
+speed0 time 4722.0
+02:05:38.491 [main] INFO  AV.VCU -  OSD 22 currentime 4722.0
+speed0 time 4723.0
+02:05:38.535 [main] INFO  AV.VCU -  OSD 33 currentime 4723.0
+speed0 time 4740.0
+02:05:39.323 [main] INFO  AV.VCU -  OSD 00 currentime 4740.0
+speed0 time 4741.0
+02:05:39.370 [main] INFO  AV.VCU -  OSD 11 currentime 4741.0
+speed0 time 4742.0
+02:05:39.423 [main] INFO  AV.VCU -  OSD 22 currentime 4742.0
+speed0 time 4743.0
+02:05:39.469 [main] INFO  AV.VCU -  OSD 33 currentime 4743.0
+speed0 time 4760.0
+02:05:40.302 [main] INFO  AV.VCU -  OSD 00 currentime 4760.0
+speed0 time 4761.0
+02:05:40.339 [main] INFO  AV.VCU -  OSD 11 currentime 4761.0
+speed0 time 4762.0
+02:05:40.393 [main] INFO  AV.VCU -  OSD 22 currentime 4762.0
+speed0 time 4763.0
+02:05:40.435 [main] INFO  AV.VCU -  OSD 33 currentime 4763.0
+speed0 time 4780.0
+02:05:41.295 [main] INFO  AV.VCU -  OSD 00 currentime 4780.0
+speed0 time 4781.0
+02:05:41.350 [main] INFO  AV.VCU -  OSD 11 currentime 4781.0
+speed0 time 4782.0
+02:05:41.394 [main] INFO  AV.VCU -  OSD 22 currentime 4782.0
+speed0 time 4783.0
+02:05:41.449 [main] INFO  AV.VCU -  OSD 33 currentime 4783.0
+speed0 time 4800.0
+02:05:42.307 [main] INFO  AV.VCU -  OSD 00 currentime 4800.0
+speed0 time 4801.0
+02:05:42.334 [main] INFO  AV.VCU -  OSD 11 currentime 4801.0
+speed0 time 4802.0
+02:05:42.417 [main] INFO  AV.VCU -  OSD 22 currentime 4802.0
+speed0 time 4803.0
+02:05:42.445 [main] INFO  AV.VCU -  OSD 33 currentime 4803.0
+speed0 time 4820.0
+02:05:43.309 [main] INFO  AV.VCU -  OSD 00 currentime 4820.0
+speed0 time 4821.0
+02:05:43.341 [main] INFO  AV.VCU -  OSD 11 currentime 4821.0
+speed0 time 4822.0
+02:05:43.402 [main] INFO  AV.VCU -  OSD 22 currentime 4822.0
+speed0 time 4823.0
+02:05:43.459 [main] INFO  AV.VCU -  OSD 33 currentime 4823.0
+speed0 time 4840.0
+02:05:44.276 [main] INFO  AV.VCU -  OSD 00 currentime 4840.0
+speed0 time 4841.0
+02:05:44.323 [main] INFO  AV.VCU -  OSD 11 currentime 4841.0
+speed0 time 4842.0
+02:05:44.364 [main] INFO  AV.VCU -  OSD 22 currentime 4842.0
+speed0 time 4843.0
+02:05:44.407 [main] INFO  AV.VCU -  OSD 33 currentime 4843.0
+speed0 time 4860.0
+02:05:45.230 [main] INFO  AV.VCU -  OSD 00 currentime 4860.0
+speed0 time 4861.0
+02:05:45.257 [main] INFO  AV.VCU -  OSD 11 currentime 4861.0
+speed0 time 4862.0
+02:05:45.323 [main] INFO  AV.VCU -  OSD 22 currentime 4862.0
+speed0 time 4863.0
+02:05:45.358 [main] INFO  AV.VCU -  OSD 33 currentime 4863.0
+speed0 time 4880.0
+02:05:46.196 [main] INFO  AV.VCU -  OSD 00 currentime 4880.0
+speed0 time 4881.0
+02:05:46.227 [main] INFO  AV.VCU -  OSD 11 currentime 4881.0
+speed0 time 4882.0
+02:05:46.258 [main] INFO  AV.VCU -  OSD 22 currentime 4882.0
+speed0 time 4883.0
+02:05:46.328 [main] INFO  AV.VCU -  OSD 33 currentime 4883.0
+speed0 time 4900.0
+02:05:47.174 [main] INFO  AV.VCU -  OSD 00 currentime 4900.0
+speed0 time 4901.0
+02:05:47.232 [main] INFO  AV.VCU -  OSD 11 currentime 4901.0
+speed0 time 4902.0
+02:05:47.276 [main] INFO  AV.VCU -  OSD 22 currentime 4902.0
+speed0 time 4903.0
+02:05:47.327 [main] INFO  AV.VCU -  OSD 33 currentime 4903.0
+speed0 time 4920.0
+02:05:48.166 [main] INFO  AV.VCU -  OSD 00 currentime 4920.0
+speed0 time 4921.0
+02:05:48.222 [main] INFO  AV.VCU -  OSD 11 currentime 4921.0
+speed0 time 4922.0
+02:05:48.258 [main] INFO  AV.VCU -  OSD 22 currentime 4922.0
+speed0 time 4923.0
+02:05:48.318 [main] INFO  AV.VCU -  OSD 33 currentime 4923.0
+speed0 time 4940.0
+02:05:49.175 [main] INFO  AV.VCU -  OSD 00 currentime 4940.0
+speed0 time 4941.0
+02:05:49.222 [main] INFO  AV.VCU -  OSD 11 currentime 4941.0
+speed0 time 4942.0
+02:05:49.263 [main] INFO  AV.VCU -  OSD 22 currentime 4942.0
+speed0 time 4943.0
+02:05:49.323 [main] INFO  AV.VCU -  OSD 33 currentime 4943.0
+speed0 time 4960.0
+02:05:50.133 [main] INFO  AV.VCU -  OSD 00 currentime 4960.0
+speed0 time 4961.0
+02:05:50.162 [main] INFO  AV.VCU -  OSD 11 currentime 4961.0
+speed0 time 4962.0
+02:05:50.218 [main] INFO  AV.VCU -  OSD 22 currentime 4962.0
+speed0 time 4963.0
+02:05:50.273 [main] INFO  AV.VCU -  OSD 33 currentime 4963.0
+speed0 time 4980.0
+02:05:51.115 [main] INFO  AV.VCU -  OSD 00 currentime 4980.0
+speed0 time 4981.0
+02:05:51.194 [main] INFO  AV.VCU -  OSD 11 currentime 4981.0
+speed0 time 4982.0
+02:05:51.220 [main] INFO  AV.VCU -  OSD 22 currentime 4982.0
+speed0 time 4983.0
+02:05:51.302 [main] INFO  AV.VCU -  OSD 33 currentime 4983.0
+speed0 time 5000.0
+02:05:52.195 [main] INFO  AV.VCU -  OSD 00 currentime 5000.0
+speed0 time 5001.0
+02:05:52.241 [main] INFO  AV.VCU -  OSD 11 currentime 5001.0
+speed0 time 5002.0
+02:05:52.299 [main] INFO  AV.VCU -  OSD 22 currentime 5002.0
+speed0 time 5003.0
+02:05:52.325 [main] INFO  AV.VCU -  OSD 33 currentime 5003.0
+speed0 time 5020.0
+02:05:53.197 [main] INFO  AV.VCU -  OSD 00 currentime 5020.0
+speed0 time 5021.0
+02:05:53.225 [main] INFO  AV.VCU -  OSD 11 currentime 5021.0
+speed0 time 5022.0
+02:05:53.297 [main] INFO  AV.VCU -  OSD 22 currentime 5022.0
+speed0 time 5023.0
+02:05:53.324 [main] INFO  AV.VCU -  OSD 33 currentime 5023.0
+speed0 time 5040.0
+02:05:54.249 [main] INFO  AV.VCU -  OSD 00 currentime 5040.0
+speed0 time 5041.0
+02:05:54.318 [main] INFO  AV.VCU -  OSD 11 currentime 5041.0
+speed0 time 5042.0
+02:05:54.350 [main] INFO  AV.VCU -  OSD 22 currentime 5042.0
+speed0 time 5043.0
+02:05:54.425 [main] INFO  AV.VCU -  OSD 33 currentime 5043.0
+speed0 time 5060.0
+02:05:55.020 [main] INFO  AV.VCU -  OSD 00 currentime 5060.0
+speed0 time 5061.0
+02:05:55.106 [main] INFO  AV.VCU -  OSD 11 currentime 5061.0
+speed0 time 5062.0
+02:05:55.141 [main] INFO  AV.VCU -  OSD 22 currentime 5062.0
+speed0 time 5063.0
+02:05:55.205 [main] INFO  AV.VCU -  OSD 33 currentime 5063.0
+speed0 time 5080.0
+02:05:56.519 [main] INFO  AV.VCU -  OSD 00 currentime 5080.0
+speed0 time 5081.0
+02:05:56.573 [main] INFO  AV.VCU -  OSD 11 currentime 5081.0
+speed0 time 5082.0
+02:05:56.618 [main] INFO  AV.VCU -  OSD 22 currentime 5082.0
+speed0 time 5083.0
+02:05:56.662 [main] INFO  AV.VCU -  OSD 33 currentime 5083.0
+speed0 time 5100.0
+02:05:57.687 [main] INFO  AV.VCU -  OSD 00 currentime 5100.0
+speed0 time 5101.0
+02:05:57.761 [main] INFO  AV.VCU -  OSD 11 currentime 5101.0
+speed0 time 5102.0
+02:05:57.810 [main] INFO  AV.VCU -  OSD 22 currentime 5102.0
+speed0 time 5103.0
+02:05:57.864 [main] INFO  AV.VCU -  OSD 33 currentime 5103.0
+speed0 time 5120.0
+02:05:58.641 [main] INFO  AV.VCU -  OSD 00 currentime 5120.0
+speed0 time 5121.0
+02:05:58.733 [main] INFO  AV.VCU -  OSD 11 currentime 5121.0
+speed0 time 5122.0
+02:05:58.754 [main] INFO  AV.VCU -  OSD 22 currentime 5122.0
+speed0 time 5123.0
+02:05:58.830 [main] INFO  AV.VCU -  OSD 33 currentime 5123.0
+speed0 time 5140.0
+02:05:59.684 [main] INFO  AV.VCU -  OSD 00 currentime 5140.0
+speed0 time 5141.0
+02:05:59.731 [main] INFO  AV.VCU -  OSD 11 currentime 5141.0
+speed0 time 5142.0
+02:05:59.775 [main] INFO  AV.VCU -  OSD 22 currentime 5142.0
+speed0 time 5143.0
+02:05:59.833 [main] INFO  AV.VCU -  OSD 33 currentime 5143.0
+speed0 time 5160.0
+02:06:00.661 [main] INFO  AV.VCU -  OSD 00 currentime 5160.0
+speed0 time 5161.0
+02:06:00.699 [main] INFO  AV.VCU -  OSD 11 currentime 5161.0
+speed0 time 5162.0
+02:06:00.755 [main] INFO  AV.VCU -  OSD 22 currentime 5162.0
+speed0 time 5163.0
+02:06:00.809 [main] INFO  AV.VCU -  OSD 33 currentime 5163.0
+speed0 time 5180.0
+02:06:01.624 [main] INFO  AV.VCU -  OSD 00 currentime 5180.0
+speed0 time 5181.0
+02:06:01.664 [main] INFO  AV.VCU -  OSD 11 currentime 5181.0
+speed0 time 5182.0
+02:06:01.720 [main] INFO  AV.VCU -  OSD 22 currentime 5182.0
+speed0 time 5183.0
+02:06:01.776 [main] INFO  AV.VCU -  OSD 33 currentime 5183.0
+speed0 time 5200.0
+02:06:02.636 [main] INFO  AV.VCU -  OSD 00 currentime 5200.0
+speed0 time 5201.0
+02:06:02.685 [main] INFO  AV.VCU -  OSD 11 currentime 5201.0
+speed0 time 5202.0
+02:06:02.741 [main] INFO  AV.VCU -  OSD 22 currentime 5202.0
+speed0 time 5203.0
+02:06:02.793 [main] INFO  AV.VCU -  OSD 33 currentime 5203.0
+speed0 time 5220.0
+02:06:03.641 [main] INFO  AV.VCU -  OSD 00 currentime 5220.0
+speed0 time 5221.0
+02:06:03.697 [main] INFO  AV.VCU -  OSD 11 currentime 5221.0
+speed0 time 5222.0
+02:06:03.739 [main] INFO  AV.VCU -  OSD 22 currentime 5222.0
+speed0 time 5223.0
+02:06:03.795 [main] INFO  AV.VCU -  OSD 33 currentime 5223.0
+speed0 time 5240.0
+02:06:04.656 [main] INFO  AV.VCU -  OSD 00 currentime 5240.0
+speed0 time 5241.0
+02:06:04.717 [main] INFO  AV.VCU -  OSD 11 currentime 5241.0
+speed0 time 5242.0
+02:06:04.757 [main] INFO  AV.VCU -  OSD 22 currentime 5242.0
+speed0 time 5243.0
+02:06:04.811 [main] INFO  AV.VCU -  OSD 33 currentime 5243.0
+speed0 time 5260.0
+02:06:05.637 [main] INFO  AV.VCU -  OSD 00 currentime 5260.0
+speed0 time 5261.0
+02:06:05.701 [main] INFO  AV.VCU -  OSD 11 currentime 5261.0
+speed0 time 5262.0
+02:06:05.750 [main] INFO  AV.VCU -  OSD 22 currentime 5262.0
+speed0 time 5263.0
+02:06:05.792 [main] INFO  AV.VCU -  OSD 33 currentime 5263.0
+speed0 time 5280.0
+02:06:06.606 [main] INFO  AV.VCU -  OSD 00 currentime 5280.0
+speed0 time 5281.0
+02:06:06.643 [main] INFO  AV.VCU -  OSD 11 currentime 5281.0
+speed0 time 5282.0
+02:06:06.697 [main] INFO  AV.VCU -  OSD 22 currentime 5282.0
+speed0 time 5283.0
+02:06:06.736 [main] INFO  AV.VCU -  OSD 33 currentime 5283.0
+speed0 time 5300.0
+02:06:07.553 [main] INFO  AV.VCU -  OSD 00 currentime 5300.0
+speed0 time 5301.0
+02:06:07.610 [main] INFO  AV.VCU -  OSD 11 currentime 5301.0
+speed0 time 5302.0
+02:06:07.659 [main] INFO  AV.VCU -  OSD 22 currentime 5302.0
+speed0 time 5303.0
+02:06:07.696 [main] INFO  AV.VCU -  OSD 33 currentime 5303.0
+speed0 time 5320.0
+02:06:08.595 [main] INFO  AV.VCU -  OSD 00 currentime 5320.0
+speed0 time 5321.0
+02:06:08.659 [main] INFO  AV.VCU -  OSD 11 currentime 5321.0
+speed0 time 5322.0
+02:06:08.693 [main] INFO  AV.VCU -  OSD 22 currentime 5322.0
+speed0 time 5323.0
+02:06:08.761 [main] INFO  AV.VCU -  OSD 33 currentime 5323.0
+speed0 time 5340.0
+02:06:09.541 [main] INFO  AV.VCU -  OSD 00 currentime 5340.0
+speed0 time 5341.0
+02:06:09.595 [main] INFO  AV.VCU -  OSD 11 currentime 5341.0
+speed0 time 5342.0
+02:06:09.642 [main] INFO  AV.VCU -  OSD 22 currentime 5342.0
+speed0 time 5343.0
+02:06:09.686 [main] INFO  AV.VCU -  OSD 33 currentime 5343.0
+speed0 time 5360.0
+02:06:10.530 [main] INFO  AV.VCU -  OSD 00 currentime 5360.0
+speed0 time 5361.0
+02:06:10.587 [main] INFO  AV.VCU -  OSD 11 currentime 5361.0
+speed0 time 5362.0
+02:06:10.625 [main] INFO  AV.VCU -  OSD 22 currentime 5362.0
+speed0 time 5363.0
+02:06:10.681 [main] INFO  AV.VCU -  OSD 33 currentime 5363.0
+speed0 time 5380.0
+02:06:11.512 [main] INFO  AV.VCU -  OSD 00 currentime 5380.0
+speed0 time 5381.0
+02:06:11.587 [main] INFO  AV.VCU -  OSD 11 currentime 5381.0
+speed0 time 5382.0
+02:06:11.629 [main] INFO  AV.VCU -  OSD 22 currentime 5382.0
+speed0 time 5383.0
+02:06:11.689 [main] INFO  AV.VCU -  OSD 33 currentime 5383.0
+speed0 time 5400.0
+02:06:12.505 [main] INFO  AV.VCU -  OSD 00 currentime 5400.0
+speed0 time 5401.0
+02:06:12.582 [main] INFO  AV.VCU -  OSD 11 currentime 5401.0
+speed0 time 5402.0
+02:06:12.604 [main] INFO  AV.VCU -  OSD 22 currentime 5402.0
+speed0 time 5403.0
+02:06:12.679 [main] INFO  AV.VCU -  OSD 33 currentime 5403.0
+speed0 time 5420.0
+02:06:13.553 [main] INFO  AV.VCU -  OSD 00 currentime 5420.0
+speed0 time 5421.0
+02:06:13.597 [main] INFO  AV.VCU -  OSD 11 currentime 5421.0
+speed0 time 5422.0
+02:06:13.656 [main] INFO  AV.VCU -  OSD 22 currentime 5422.0
+speed0 time 5423.0
+02:06:13.703 [main] INFO  AV.VCU -  OSD 33 currentime 5423.0
+speed0 time 5440.0
+02:06:14.516 [main] INFO  AV.VCU -  OSD 00 currentime 5440.0
+speed0 time 5441.0
+02:06:14.591 [main] INFO  AV.VCU -  OSD 11 currentime 5441.0
+speed0 time 5442.0
+02:06:14.646 [main] INFO  AV.VCU -  OSD 22 currentime 5442.0
+speed0 time 5443.0
+02:06:14.688 [main] INFO  AV.VCU -  OSD 33 currentime 5443.0
+speed0 time 5460.0
+02:06:15.530 [main] INFO  AV.VCU -  OSD 00 currentime 5460.0
+speed0 time 5461.0
+02:06:15.589 [main] INFO  AV.VCU -  OSD 11 currentime 5461.0
+speed0 time 5462.0
+02:06:15.631 [main] INFO  AV.VCU -  OSD 22 currentime 5462.0
+speed0 time 5463.0
+02:06:15.674 [main] INFO  AV.VCU -  OSD 33 currentime 5463.0
+speed0 time 5480.0
+02:06:16.548 [main] INFO  AV.VCU -  OSD 00 currentime 5480.0
+speed0 time 5481.0
+02:06:16.593 [main] INFO  AV.VCU -  OSD 11 currentime 5481.0
+speed0 time 5482.0
+02:06:16.648 [main] INFO  AV.VCU -  OSD 22 currentime 5482.0
+speed0 time 5483.0
+02:06:16.700 [main] INFO  AV.VCU -  OSD 33 currentime 5483.0
+speed0 time 5500.0
+02:06:17.512 [main] INFO  AV.VCU -  OSD 00 currentime 5500.0
+speed0 time 5501.0
+02:06:17.565 [main] INFO  AV.VCU -  OSD 11 currentime 5501.0
+speed0 time 5502.0
+02:06:17.622 [main] INFO  AV.VCU -  OSD 22 currentime 5502.0
+speed0 time 5503.0
+02:06:17.666 [main] INFO  AV.VCU -  OSD 33 currentime 5503.0
+speed0 time 5520.0
+02:06:18.516 [main] INFO  AV.VCU -  OSD 00 currentime 5520.0
+speed0 time 5521.0
+02:06:18.554 [main] INFO  AV.VCU -  OSD 11 currentime 5521.0
+speed0 time 5522.0
+02:06:18.610 [main] INFO  AV.VCU -  OSD 22 currentime 5522.0
+speed0 time 5523.0
+02:06:18.658 [main] INFO  AV.VCU -  OSD 33 currentime 5523.0
+speed0 time 5540.0
+02:06:19.495 [main] INFO  AV.VCU -  OSD 00 currentime 5540.0
+speed0 time 5541.0
+02:06:19.525 [main] INFO  AV.VCU -  OSD 11 currentime 5541.0
+speed0 time 5542.0
+02:06:19.591 [main] INFO  AV.VCU -  OSD 22 currentime 5542.0
+speed0 time 5543.0
+02:06:19.625 [main] INFO  AV.VCU -  OSD 33 currentime 5543.0
+speed0 time 5560.0
+02:06:20.491 [main] INFO  AV.VCU -  OSD 00 currentime 5560.0
+speed0 time 5561.0
+02:06:20.544 [main] INFO  AV.VCU -  OSD 11 currentime 5561.0
+speed0 time 5562.0
+02:06:20.591 [main] INFO  AV.VCU -  OSD 22 currentime 5562.0
+speed0 time 5563.0
+02:06:20.782 [main] INFO  AV.VCU -  OSD 33 currentime 5563.0
+speed0 time 5580.0
+02:06:21.313 [main] INFO  AV.VCU -  OSD 00 currentime 5580.0
+speed0 time 5581.0
+02:06:21.347 [main] INFO  AV.VCU -  OSD 11 currentime 5581.0
+speed0 time 5582.0
+02:06:21.391 [main] INFO  AV.VCU -  OSD 22 currentime 5582.0
+speed0 time 5583.0
+02:06:21.443 [main] INFO  AV.VCU -  OSD 33 currentime 5583.0
+speed0 time 5600.0
+02:06:22.254 [main] INFO  AV.VCU -  OSD 00 currentime 5600.0
+speed0 time 5601.0
+02:06:22.302 [main] INFO  AV.VCU -  OSD 11 currentime 5601.0
+speed0 time 5602.0
+02:06:22.357 [main] INFO  AV.VCU -  OSD 22 currentime 5602.0
+speed0 time 5603.0
+02:06:22.400 [main] INFO  AV.VCU -  OSD 33 currentime 5603.0
+speed0 time 5620.0
+02:06:23.220 [main] INFO  AV.VCU -  OSD 00 currentime 5620.0
+speed0 time 5621.0
+02:06:23.282 [main] INFO  AV.VCU -  OSD 11 currentime 5621.0
+speed0 time 5622.0
+02:06:23.314 [main] INFO  AV.VCU -  OSD 22 currentime 5622.0
+speed0 time 5623.0
+02:06:23.374 [main] INFO  AV.VCU -  OSD 33 currentime 5623.0
+speed0 time 5640.0
+02:06:24.233 [main] INFO  AV.VCU -  OSD 00 currentime 5640.0
+speed0 time 5641.0
+02:06:24.273 [main] INFO  AV.VCU -  OSD 11 currentime 5641.0
+speed0 time 5642.0
+02:06:24.329 [main] INFO  AV.VCU -  OSD 22 currentime 5642.0
+speed0 time 5643.0
+02:06:24.379 [main] INFO  AV.VCU -  OSD 33 currentime 5643.0
+speed0 time 5660.0
+02:06:25.192 [main] INFO  AV.VCU -  OSD 00 currentime 5660.0
+speed0 time 5661.0
+02:06:25.238 [main] INFO  AV.VCU -  OSD 11 currentime 5661.0
+speed0 time 5662.0
+02:06:25.291 [main] INFO  AV.VCU -  OSD 22 currentime 5662.0
+speed0 time 5663.0
+02:06:25.335 [main] INFO  AV.VCU -  OSD 33 currentime 5663.0
+speed0 time 5680.0
+02:06:26.189 [main] INFO  AV.VCU -  OSD 00 currentime 5680.0
+speed0 time 5681.0
+02:06:26.244 [main] INFO  AV.VCU -  OSD 11 currentime 5681.0
+speed0 time 5682.0
+02:06:26.276 [main] INFO  AV.VCU -  OSD 22 currentime 5682.0
+speed0 time 5683.0
+02:06:26.315 [main] INFO  AV.VCU -  OSD 33 currentime 5683.0
+speed0 time 5700.0
+02:06:27.134 [main] INFO  AV.VCU -  OSD 00 currentime 5700.0
+speed0 time 5701.0
+02:06:27.180 [main] INFO  AV.VCU -  OSD 11 currentime 5701.0
+speed0 time 5702.0
+02:06:27.225 [main] INFO  AV.VCU -  OSD 22 currentime 5702.0
+speed0 time 5703.0
+02:06:27.274 [main] INFO  AV.VCU -  OSD 33 currentime 5703.0
+speed0 time 5720.0
+02:06:28.133 [main] INFO  AV.VCU -  OSD 00 currentime 5720.0
+speed0 time 5721.0
+02:06:28.188 [main] INFO  AV.VCU -  OSD 11 currentime 5721.0
+speed0 time 5722.0
+02:06:28.236 [main] INFO  AV.VCU -  OSD 22 currentime 5722.0
+speed0 time 5723.0
+02:06:28.288 [main] INFO  AV.VCU -  OSD 33 currentime 5723.0
+speed0 time 5740.0
+02:06:29.102 [main] INFO  AV.VCU -  OSD 00 currentime 5740.0
+speed0 time 5741.0
+02:06:29.132 [main] INFO  AV.VCU -  OSD 11 currentime 5741.0
+speed0 time 5742.0
+02:06:29.194 [main] INFO  AV.VCU -  OSD 22 currentime 5742.0
+speed0 time 5743.0
+02:06:29.244 [main] INFO  AV.VCU -  OSD 33 currentime 5743.0
+speed0 time 5760.0
+02:06:30.082 [main] INFO  AV.VCU -  OSD 00 currentime 5760.0
+speed0 time 5761.0
+02:06:30.140 [main] INFO  AV.VCU -  OSD 11 currentime 5761.0
+speed0 time 5762.0
+02:06:30.193 [main] INFO  AV.VCU -  OSD 22 currentime 5762.0
+speed0 time 5763.0
+02:06:30.244 [main] INFO  AV.VCU -  OSD 33 currentime 5763.0
+speed0 time 5780.0
+02:06:31.078 [main] INFO  AV.VCU -  OSD 00 currentime 5780.0
+speed0 time 5781.0
+02:06:31.122 [main] INFO  AV.VCU -  OSD 11 currentime 5781.0
+speed0 time 5782.0
+02:06:31.175 [main] INFO  AV.VCU -  OSD 22 currentime 5782.0
+speed0 time 5783.0
+02:06:31.222 [main] INFO  AV.VCU -  OSD 33 currentime 5783.0
+speed0 time 5800.0
+02:06:32.065 [main] INFO  AV.VCU -  OSD 00 currentime 5800.0
+speed0 time 5801.0
+02:06:32.114 [main] INFO  AV.VCU -  OSD 11 currentime 5801.0
+speed0 time 5802.0
+02:06:32.156 [main] INFO  AV.VCU -  OSD 22 currentime 5802.0
+speed0 time 5803.0
+02:06:32.207 [main] INFO  AV.VCU -  OSD 33 currentime 5803.0
+speed0 time 5820.0
+02:06:33.049 [main] INFO  AV.VCU -  OSD 00 currentime 5820.0
+speed0 time 5821.0
+02:06:33.108 [main] INFO  AV.VCU -  OSD 11 currentime 5821.0
+speed0 time 5822.0
+02:06:33.154 [main] INFO  AV.VCU -  OSD 22 currentime 5822.0
+speed0 time 5823.0
+02:06:33.210 [main] INFO  AV.VCU -  OSD 33 currentime 5823.0
+speed0 time 5840.0
+02:06:34.069 [main] INFO  AV.VCU -  OSD 00 currentime 5840.0
+speed0 time 5841.0
+02:06:34.125 [main] INFO  AV.VCU -  OSD 11 currentime 5841.0
+speed0 time 5842.0
+02:06:34.170 [main] INFO  AV.VCU -  OSD 22 currentime 5842.0
+speed0 time 5843.0
+02:06:34.225 [main] INFO  AV.VCU -  OSD 33 currentime 5843.0
+speed0 time 5860.0
+02:06:35.046 [main] INFO  AV.VCU -  OSD 00 currentime 5860.0
+speed0 time 5861.0
+02:06:35.107 [main] INFO  AV.VCU -  OSD 11 currentime 5861.0
+speed0 time 5862.0
+02:06:35.150 [main] INFO  AV.VCU -  OSD 22 currentime 5862.0
+speed0 time 5863.0
+02:06:35.208 [main] INFO  AV.VCU -  OSD 33 currentime 5863.0
+speed0 time 5880.0
+02:06:36.025 [main] INFO  AV.VCU -  OSD 00 currentime 5880.0
+speed0 time 5881.0
+02:06:36.079 [main] INFO  AV.VCU -  OSD 11 currentime 5881.0
+speed0 time 5882.0
+02:06:36.130 [main] INFO  AV.VCU -  OSD 22 currentime 5882.0
+speed0 time 5883.0
+02:06:36.180 [main] INFO  AV.VCU -  OSD 33 currentime 5883.0
+speed0 time 5900.0
+02:06:36.970 [main] INFO  AV.VCU -  OSD 00 currentime 5900.0
+speed0 time 5901.0
+02:06:37.021 [main] INFO  AV.VCU -  OSD 11 currentime 5901.0
+speed0 time 5902.0
+02:06:37.078 [main] INFO  AV.VCU -  OSD 22 currentime 5902.0
+speed0 time 5903.0
+02:06:37.133 [main] INFO  AV.VCU -  OSD 33 currentime 5903.0
+speed0 time 5920.0
+02:06:37.961 [main] INFO  AV.VCU -  OSD 00 currentime 5920.0
+speed0 time 5921.0
+02:06:38.021 [main] INFO  AV.VCU -  OSD 11 currentime 5921.0
+speed0 time 5922.0
+02:06:38.076 [main] INFO  AV.VCU -  OSD 22 currentime 5922.0
+speed0 time 5923.0
+02:06:38.112 [main] INFO  AV.VCU -  OSD 33 currentime 5923.0
+speed0 time 5940.0
+02:06:38.925 [main] INFO  AV.VCU -  OSD 00 currentime 5940.0
+speed0 time 5941.0
+02:06:38.981 [main] INFO  AV.VCU -  OSD 11 currentime 5941.0
+speed0 time 5942.0
+02:06:39.026 [main] INFO  AV.VCU -  OSD 22 currentime 5942.0
+speed0 time 5943.0
+02:06:39.075 [main] INFO  AV.VCU -  OSD 33 currentime 5943.0
+speed0 time 5960.0
+02:06:39.907 [main] INFO  AV.VCU -  OSD 00 currentime 5960.0
+speed0 time 5961.0
+02:06:39.935 [main] INFO  AV.VCU -  OSD 11 currentime 5961.0
+speed0 time 5962.0
+02:06:40.021 [main] INFO  AV.VCU -  OSD 22 currentime 5962.0
+speed0 time 5963.0
+02:06:40.042 [main] INFO  AV.VCU -  OSD 33 currentime 5963.0
+speed0 time 5980.0
+02:06:40.906 [main] INFO  AV.VCU -  OSD 00 currentime 5980.0
+speed0 time 5981.0
+02:06:40.963 [main] INFO  AV.VCU -  OSD 11 currentime 5981.0
+speed0 time 5982.0
+02:06:41.013 [main] INFO  AV.VCU -  OSD 22 currentime 5982.0
+speed0 time 5983.0
+02:06:41.055 [main] INFO  AV.VCU -  OSD 33 currentime 5983.0
+speed0 time 6000.0
+02:06:41.914 [main] INFO  AV.VCU -  OSD 00 currentime 6000.0
+speed0 time 6001.0
+02:06:41.976 [main] INFO  AV.VCU -  OSD 11 currentime 6001.0
+speed0 time 6002.0
+02:06:42.030 [main] INFO  AV.VCU -  OSD 22 currentime 6002.0
+speed0 time 6003.0
+02:06:42.069 [main] INFO  AV.VCU -  OSD 33 currentime 6003.0
+speed0 time 6020.0
+02:06:42.859 [main] INFO  AV.VCU -  OSD 00 currentime 6020.0
+speed0 time 6021.0
+02:06:42.903 [main] INFO  AV.VCU -  OSD 11 currentime 6021.0
+speed0 time 6022.0
+02:06:42.960 [main] INFO  AV.VCU -  OSD 22 currentime 6022.0
+speed0 time 6023.0
+02:06:43.016 [main] INFO  AV.VCU -  OSD 33 currentime 6023.0
+speed0 time 6040.0
+02:06:43.796 [main] INFO  AV.VCU -  OSD 00 currentime 6040.0
+speed0 time 6041.0
+02:06:43.852 [main] INFO  AV.VCU -  OSD 11 currentime 6041.0
+speed0 time 6042.0
+02:06:43.897 [main] INFO  AV.VCU -  OSD 22 currentime 6042.0
+speed0 time 6043.0
+02:06:43.945 [main] INFO  AV.VCU -  OSD 33 currentime 6043.0
+speed0 time 6060.0
+02:06:44.765 [main] INFO  AV.VCU -  OSD 00 currentime 6060.0
+speed0 time 6061.0
+02:06:44.815 [main] INFO  AV.VCU -  OSD 11 currentime 6061.0
+speed0 time 6062.0
+02:06:44.858 [main] INFO  AV.VCU -  OSD 22 currentime 6062.0
+speed0 time 6063.0
+02:06:44.912 [main] INFO  AV.VCU -  OSD 33 currentime 6063.0
+speed0 time 6080.0
+02:06:45.780 [main] INFO  AV.VCU -  OSD 00 currentime 6080.0
+speed0 time 6081.0
+02:06:45.802 [main] INFO  AV.VCU -  OSD 11 currentime 6081.0
+speed0 time 6082.0
+02:06:45.888 [main] INFO  AV.VCU -  OSD 22 currentime 6082.0
+speed0 time 6083.0
+02:06:45.911 [main] INFO  AV.VCU -  OSD 33 currentime 6083.0
+speed0 time 6100.0
+02:06:46.816 [main] INFO  AV.VCU -  OSD 00 currentime 6100.0
+speed0 time 6101.0
+02:06:46.864 [main] INFO  AV.VCU -  OSD 11 currentime 6101.0
+speed0 time 6102.0
+02:06:46.907 [main] INFO  AV.VCU -  OSD 22 currentime 6102.0
+speed0 time 6103.0
+02:06:46.964 [main] INFO  AV.VCU -  OSD 33 currentime 6103.0
+speed0 time 6120.0
+02:06:47.788 [main] INFO  AV.VCU -  OSD 00 currentime 6120.0
+speed0 time 6121.0
+02:06:47.843 [main] INFO  AV.VCU -  OSD 11 currentime 6121.0
+speed0 time 6122.0
+02:06:47.898 [main] INFO  AV.VCU -  OSD 22 currentime 6122.0
+speed0 time 6123.0
+02:06:47.948 [main] INFO  AV.VCU -  OSD 33 currentime 6123.0
+speed0 time 6140.0
+02:06:48.784 [main] INFO  AV.VCU -  OSD 00 currentime 6140.0
+speed0 time 6141.0
+02:06:48.822 [main] INFO  AV.VCU -  OSD 11 currentime 6141.0
+speed0 time 6142.0
+02:06:48.889 [main] INFO  AV.VCU -  OSD 22 currentime 6142.0
+speed0 time 6143.0
+02:06:48.923 [main] INFO  AV.VCU -  OSD 33 currentime 6143.0
+speed0 time 6160.0
+02:06:49.811 [main] INFO  AV.VCU -  OSD 00 currentime 6160.0
+speed0 time 6161.0
+02:06:49.857 [main] INFO  AV.VCU -  OSD 11 currentime 6161.0
+speed0 time 6162.0
+02:06:49.887 [main] INFO  AV.VCU -  OSD 22 currentime 6162.0
+speed0 time 6163.0
+02:06:49.919 [main] INFO  AV.VCU -  OSD 33 currentime 6163.0
+speed0 time 6180.0
+02:06:50.746 [main] INFO  AV.VCU -  OSD 00 currentime 6180.0
+speed0 time 6181.0
+02:06:50.788 [main] INFO  AV.VCU -  OSD 11 currentime 6181.0
+speed0 time 6182.0
+02:06:50.843 [main] INFO  AV.VCU -  OSD 22 currentime 6182.0
+speed0 time 6183.0
+02:06:50.890 [main] INFO  AV.VCU -  OSD 33 currentime 6183.0
+speed0 time 6200.0
+02:06:51.731 [main] INFO  AV.VCU -  OSD 00 currentime 6200.0
+speed0 time 6201.0
+02:06:51.789 [main] INFO  AV.VCU -  OSD 11 currentime 6201.0
+speed0 time 6202.0
+02:06:51.832 [main] INFO  AV.VCU -  OSD 22 currentime 6202.0
+speed0 time 6203.0
+02:06:51.892 [main] INFO  AV.VCU -  OSD 33 currentime 6203.0
+speed0 time 6220.0
+02:06:52.693 [main] INFO  AV.VCU -  OSD 00 currentime 6220.0
+speed0 time 6221.0
+02:06:52.753 [main] INFO  AV.VCU -  OSD 11 currentime 6221.0
+speed0 time 6222.0
+02:06:52.780 [main] INFO  AV.VCU -  OSD 22 currentime 6222.0
+speed0 time 6223.0
+02:06:52.851 [main] INFO  AV.VCU -  OSD 33 currentime 6223.0
+speed0 time 6240.0
+02:06:53.676 [main] INFO  AV.VCU -  OSD 00 currentime 6240.0
+speed0 time 6241.0
+02:06:53.723 [main] INFO  AV.VCU -  OSD 11 currentime 6241.0
+speed0 time 6242.0
+02:06:53.766 [main] INFO  AV.VCU -  OSD 22 currentime 6242.0
+speed0 time 6243.0
+02:06:53.809 [main] INFO  AV.VCU -  OSD 33 currentime 6243.0
+speed0 time 6260.0
+02:06:54.674 [main] INFO  AV.VCU -  OSD 00 currentime 6260.0
+speed0 time 6261.0
+02:06:54.730 [main] INFO  AV.VCU -  OSD 11 currentime 6261.0
+speed0 time 6262.0
+02:06:54.771 [main] INFO  AV.VCU -  OSD 22 currentime 6262.0
+speed0 time 6263.0
+02:06:54.830 [main] INFO  AV.VCU -  OSD 33 currentime 6263.0
+speed0 time 6280.0
+02:06:55.718 [main] INFO  AV.VCU -  OSD 00 currentime 6280.0
+speed0 time 6281.0
+02:06:55.784 [main] INFO  AV.VCU -  OSD 11 currentime 6281.0
+speed0 time 6282.0
+02:06:55.827 [main] INFO  AV.VCU -  OSD 22 currentime 6282.0
+speed0 time 6283.0
+02:06:55.886 [main] INFO  AV.VCU -  OSD 33 currentime 6283.0
+speed0 time 6300.0
+02:06:56.715 [main] INFO  AV.VCU -  OSD 00 currentime 6300.0
+speed0 time 6301.0
+02:06:56.743 [main] INFO  AV.VCU -  OSD 11 currentime 6301.0
+speed0 time 6302.0
+02:06:56.813 [main] INFO  AV.VCU -  OSD 22 currentime 6302.0
+speed0 time 6303.0
+02:06:56.869 [main] INFO  AV.VCU -  OSD 33 currentime 6303.0
+speed0 time 6320.0
+02:06:57.728 [main] INFO  AV.VCU -  OSD 00 currentime 6320.0
+speed0 time 6321.0
+02:06:57.777 [main] INFO  AV.VCU -  OSD 11 currentime 6321.0
+speed0 time 6322.0
+02:06:57.823 [main] INFO  AV.VCU -  OSD 22 currentime 6322.0
+speed0 time 6323.0
+02:06:57.858 [main] INFO  AV.VCU -  OSD 33 currentime 6323.0
+speed0 time 6340.0
+02:06:58.689 [main] INFO  AV.VCU -  OSD 00 currentime 6340.0
+speed0 time 6341.0
+02:06:58.745 [main] INFO  AV.VCU -  OSD 11 currentime 6341.0
+speed0 time 6342.0
+02:06:58.790 [main] INFO  AV.VCU -  OSD 22 currentime 6342.0
+speed0 time 6343.0
+02:06:58.846 [main] INFO  AV.VCU -  OSD 33 currentime 6343.0
+speed0 time 6360.0
+02:06:59.699 [main] INFO  AV.VCU -  OSD 00 currentime 6360.0
+speed0 time 6361.0
+02:06:59.737 [main] INFO  AV.VCU -  OSD 11 currentime 6361.0
+speed0 time 6362.0
+02:06:59.792 [main] INFO  AV.VCU -  OSD 22 currentime 6362.0
+speed0 time 6363.0
+02:06:59.839 [main] INFO  AV.VCU -  OSD 33 currentime 6363.0
+speed0 time 6380.0
+02:07:00.748 [main] INFO  AV.VCU -  OSD 00 currentime 6380.0
+speed0 time 6381.0
+02:07:00.802 [main] INFO  AV.VCU -  OSD 11 currentime 6381.0
+speed0 time 6382.0
+02:07:00.845 [main] INFO  AV.VCU -  OSD 22 currentime 6382.0
+speed0 time 6383.0
+02:07:00.893 [main] INFO  AV.VCU -  OSD 33 currentime 6383.0
+speed0 time 6400.0
+02:07:01.753 [main] INFO  AV.VCU -  OSD 00 currentime 6400.0
+speed0 time 6401.0
+02:07:01.795 [main] INFO  AV.VCU -  OSD 11 currentime 6401.0
+speed0 time 6402.0
+02:07:01.845 [main] INFO  AV.VCU -  OSD 22 currentime 6402.0
+speed0 time 6403.0
+02:07:01.889 [main] INFO  AV.VCU -  OSD 33 currentime 6403.0
+speed0 time 6420.0
+02:07:02.735 [main] INFO  AV.VCU -  OSD 00 currentime 6420.0
+speed0 time 6421.0
+02:07:02.783 [main] INFO  AV.VCU -  OSD 11 currentime 6421.0
+speed0 time 6422.0
+02:07:02.839 [main] INFO  AV.VCU -  OSD 22 currentime 6422.0
+speed0 time 6423.0
+02:07:02.883 [main] INFO  AV.VCU -  OSD 33 currentime 6423.0
+speed0 time 6440.0
+02:07:03.778 [main] INFO  AV.VCU -  OSD 00 currentime 6440.0
+speed0 time 6441.0
+02:07:03.825 [main] INFO  AV.VCU -  OSD 11 currentime 6441.0
+speed0 time 6442.0
+02:07:03.875 [main] INFO  AV.VCU -  OSD 22 currentime 6442.0
+speed0 time 6443.0
+02:07:03.919 [main] INFO  AV.VCU -  OSD 33 currentime 6443.0
+speed0 time 6460.0
+02:07:04.740 [main] INFO  AV.VCU -  OSD 00 currentime 6460.0
+speed0 time 6461.0
+02:07:04.787 [main] INFO  AV.VCU -  OSD 11 currentime 6461.0
+speed0 time 6462.0
+02:07:04.837 [main] INFO  AV.VCU -  OSD 22 currentime 6462.0
+speed0 time 6463.0
+02:07:04.881 [main] INFO  AV.VCU -  OSD 33 currentime 6463.0
+speed0 time 6480.0
+02:07:05.702 [main] INFO  AV.VCU -  OSD 00 currentime 6480.0
+speed0 time 6481.0
+02:07:05.771 [main] INFO  AV.VCU -  OSD 11 currentime 6481.0
+speed0 time 6482.0
+02:07:05.806 [main] INFO  AV.VCU -  OSD 22 currentime 6482.0
+speed0 time 6483.0
+02:07:05.872 [main] INFO  AV.VCU -  OSD 33 currentime 6483.0
+speed0 time 6500.0
+02:07:06.642 [main] INFO  AV.VCU -  OSD 00 currentime 6500.0
+speed0 time 6501.0
+02:07:06.723 [main] INFO  AV.VCU -  OSD 11 currentime 6501.0
+speed0 time 6502.0
+02:07:06.788 [main] INFO  AV.VCU -  OSD 22 currentime 6502.0
+speed0 time 6503.0
+02:07:06.843 [main] INFO  AV.VCU -  OSD 33 currentime 6503.0
+speed0 time 6520.0
+02:07:07.596 [main] INFO  AV.VCU -  OSD 00 currentime 6520.0
+speed0 time 6521.0
+02:07:07.640 [main] INFO  AV.VCU -  OSD 11 currentime 6521.0
+speed0 time 6522.0
+02:07:07.689 [main] INFO  AV.VCU -  OSD 22 currentime 6522.0
+speed0 time 6523.0
+02:07:07.747 [main] INFO  AV.VCU -  OSD 33 currentime 6523.0
+speed0 time 6540.0
+02:07:08.606 [main] INFO  AV.VCU -  OSD 00 currentime 6540.0
+speed0 time 6541.0
+02:07:08.644 [main] INFO  AV.VCU -  OSD 11 currentime 6541.0
+speed0 time 6542.0
+02:07:08.697 [main] INFO  AV.VCU -  OSD 22 currentime 6542.0
+speed0 time 6543.0
+02:07:08.737 [main] INFO  AV.VCU -  OSD 33 currentime 6543.0
+speed0 time 6560.0
+02:07:09.612 [main] INFO  AV.VCU -  OSD 00 currentime 6560.0
+speed0 time 6561.0
+02:07:09.666 [main] INFO  AV.VCU -  OSD 11 currentime 6561.0
+speed0 time 6562.0
+02:07:09.714 [main] INFO  AV.VCU -  OSD 22 currentime 6562.0
+speed0 time 6563.0
+02:07:09.766 [main] INFO  AV.VCU -  OSD 33 currentime 6563.0
+speed0 time 6580.0
+02:07:10.824 [main] INFO  AV.VCU -  OSD 00 currentime 6580.0
+speed0 time 6581.0
+02:07:10.870 [main] INFO  AV.VCU -  OSD 11 currentime 6581.0
+speed0 time 6582.0
+02:07:10.927 [main] INFO  AV.VCU -  OSD 22 currentime 6582.0
+speed0 time 6583.0
+02:07:10.970 [main] INFO  AV.VCU -  OSD 33 currentime 6583.0
+speed0 time 6600.0
+02:07:11.785 [main] INFO  AV.VCU -  OSD 00 currentime 6600.0
+speed0 time 6601.0
+02:07:11.842 [main] INFO  AV.VCU -  OSD 11 currentime 6601.0
+speed0 time 6602.0
+02:07:11.885 [main] INFO  AV.VCU -  OSD 22 currentime 6602.0
+speed0 time 6603.0
+02:07:11.943 [main] INFO  AV.VCU -  OSD 33 currentime 6603.0
+speed0 time 6620.0
+02:07:12.785 [main] INFO  AV.VCU -  OSD 00 currentime 6620.0
+speed0 time 6621.0
+02:07:12.843 [main] INFO  AV.VCU -  OSD 11 currentime 6621.0
+speed0 time 6622.0
+02:07:12.893 [main] INFO  AV.VCU -  OSD 22 currentime 6622.0
+speed0 time 6623.0
+02:07:12.937 [main] INFO  AV.VCU -  OSD 33 currentime 6623.0
+speed0 time 6640.0
+02:07:13.786 [main] INFO  AV.VCU -  OSD 00 currentime 6640.0
+speed0 time 6641.0
+02:07:13.846 [main] INFO  AV.VCU -  OSD 11 currentime 6641.0
+speed0 time 6642.0
+02:07:13.889 [main] INFO  AV.VCU -  OSD 22 currentime 6642.0
+speed0 time 6643.0
+02:07:13.952 [main] INFO  AV.VCU -  OSD 33 currentime 6643.0
+speed0 time 6660.0
+02:07:14.781 [main] INFO  AV.VCU -  OSD 00 currentime 6660.0
+speed0 time 6661.0
+02:07:14.814 [main] INFO  AV.VCU -  OSD 11 currentime 6661.0
+speed0 time 6662.0
+02:07:14.837 [main] INFO  AV.VCU -  OSD 22 currentime 6662.0
+speed0 time 6663.0
+02:07:14.872 [main] INFO  AV.VCU -  OSD 33 currentime 6663.0
+speed0 time 6680.0
+02:07:15.641 [main] INFO  AV.VCU -  OSD 00 currentime 6680.0
+speed0 time 6681.0
+02:07:15.700 [main] INFO  AV.VCU -  OSD 11 currentime 6681.0
+speed0 time 6682.0
+02:07:15.732 [main] INFO  AV.VCU -  OSD 22 currentime 6682.0
+speed0 time 6683.0
+02:07:15.793 [main] INFO  AV.VCU -  OSD 33 currentime 6683.0
+speed0 time 6700.0
+02:07:16.628 [main] INFO  AV.VCU -  OSD 00 currentime 6700.0
+speed0 time 6701.0
+02:07:16.688 [main] INFO  AV.VCU -  OSD 11 currentime 6701.0
+speed0 time 6702.0
+02:07:16.732 [main] INFO  AV.VCU -  OSD 22 currentime 6702.0
+speed0 time 6703.0
+02:07:16.791 [main] INFO  AV.VCU -  OSD 33 currentime 6703.0
+speed0 time 6720.0
+02:07:17.468 [main] INFO  AV.VCU -  OSD 00 currentime 6720.0
+speed0 time 6721.0
+02:07:17.499 [main] INFO  AV.VCU -  OSD 11 currentime 6721.0
+speed0 time 6722.0
+02:07:17.530 [main] INFO  AV.VCU -  OSD 22 currentime 6722.0
+speed0 time 6723.0
+02:07:17.571 [main] INFO  AV.VCU -  OSD 33 currentime 6723.0
+speed0 time 6740.0
+02:07:18.348 [main] INFO  AV.VCU -  OSD 00 currentime 6740.0
+speed0 time 6741.0
+02:07:18.392 [main] INFO  AV.VCU -  OSD 11 currentime 6741.0
+speed0 time 6742.0
+02:07:18.457 [main] INFO  AV.VCU -  OSD 22 currentime 6742.0
+speed0 time 6743.0
+02:07:18.498 [main] INFO  AV.VCU -  OSD 33 currentime 6743.0
+speed0 time 6760.0
+02:07:19.394 [main] INFO  AV.VCU -  OSD 00 currentime 6760.0
+speed0 time 6761.0
+02:07:19.429 [main] INFO  AV.VCU -  OSD 11 currentime 6761.0
+speed0 time 6762.0
+02:07:19.505 [main] INFO  AV.VCU -  OSD 22 currentime 6762.0
+speed0 time 6763.0
+02:07:19.528 [main] INFO  AV.VCU -  OSD 33 currentime 6763.0
+speed0 time 6780.0
+02:07:20.401 [main] INFO  AV.VCU -  OSD 00 currentime 6780.0
+speed0 time 6781.0
+02:07:20.452 [main] INFO  AV.VCU -  OSD 11 currentime 6781.0
+speed0 time 6782.0
+02:07:20.511 [main] INFO  AV.VCU -  OSD 22 currentime 6782.0
+speed0 time 6783.0
+02:07:20.552 [main] INFO  AV.VCU -  OSD 33 currentime 6783.0
+speed0 time 6800.0
+02:07:21.403 [main] INFO  AV.VCU -  OSD 00 currentime 6800.0
+speed0 time 6801.0
+02:07:21.448 [main] INFO  AV.VCU -  OSD 11 currentime 6801.0
+speed0 time 6802.0
+02:07:21.502 [main] INFO  AV.VCU -  OSD 22 currentime 6802.0
+speed0 time 6803.0
+02:07:21.544 [main] INFO  AV.VCU -  OSD 33 currentime 6803.0
+speed0 time 6820.0
+02:07:22.394 [main] INFO  AV.VCU -  OSD 00 currentime 6820.0
+speed0 time 6821.0
+02:07:22.426 [main] INFO  AV.VCU -  OSD 11 currentime 6821.0
+speed0 time 6822.0
+02:07:22.455 [main] INFO  AV.VCU -  OSD 22 currentime 6822.0
+speed0 time 6823.0
+02:07:22.484 [main] INFO  AV.VCU -  OSD 33 currentime 6823.0
+speed0 time 6840.0
+02:07:23.242 [main] INFO  AV.VCU -  OSD 00 currentime 6840.0
+speed0 time 6841.0
+02:07:23.298 [main] INFO  AV.VCU -  OSD 11 currentime 6841.0
+speed0 time 6842.0
+02:07:23.339 [main] INFO  AV.VCU -  OSD 22 currentime 6842.0
+speed0 time 6843.0
+02:07:23.399 [main] INFO  AV.VCU -  OSD 33 currentime 6843.0
+speed0 time 6860.0
+02:07:24.250 [main] INFO  AV.VCU -  OSD 00 currentime 6860.0
+speed0 time 6861.0
+02:07:24.320 [main] INFO  AV.VCU -  OSD 11 currentime 6861.0
+speed0 time 6862.0
+02:07:24.369 [main] INFO  AV.VCU -  OSD 22 currentime 6862.0
+speed0 time 6863.0
+02:07:24.414 [main] INFO  AV.VCU -  OSD 33 currentime 6863.0
+speed0 time 6880.0
+02:07:25.256 [main] INFO  AV.VCU -  OSD 00 currentime 6880.0
+speed0 time 6881.0
+02:07:25.310 [main] INFO  AV.VCU -  OSD 11 currentime 6881.0
+speed0 time 6882.0
+02:07:25.350 [main] INFO  AV.VCU -  OSD 22 currentime 6882.0
+speed0 time 6883.0
+02:07:25.414 [main] INFO  AV.VCU -  OSD 33 currentime 6883.0
+speed0 time 6900.0
+02:07:26.278 [main] INFO  AV.VCU -  OSD 00 currentime 6900.0
+speed0 time 6901.0
+02:07:26.312 [main] INFO  AV.VCU -  OSD 11 currentime 6901.0
+speed0 time 6902.0
+02:07:26.372 [main] INFO  AV.VCU -  OSD 22 currentime 6902.0
+speed0 time 6903.0
+02:07:26.411 [main] INFO  AV.VCU -  OSD 33 currentime 6903.0
+speed0 time 6920.0
+02:07:27.259 [main] INFO  AV.VCU -  OSD 00 currentime 6920.0
+speed0 time 6921.0
+02:07:27.315 [main] INFO  AV.VCU -  OSD 11 currentime 6921.0
+speed0 time 6922.0
+02:07:27.346 [main] INFO  AV.VCU -  OSD 22 currentime 6922.0
+speed0 time 6923.0
+02:07:27.379 [main] INFO  AV.VCU -  OSD 33 currentime 6923.0
+speed0 time 6940.0
+02:07:28.169 [main] INFO  AV.VCU -  OSD 00 currentime 6940.0
+speed0 time 6941.0
+02:07:28.215 [main] INFO  AV.VCU -  OSD 11 currentime 6941.0
+speed0 time 6942.0
+02:07:28.257 [main] INFO  AV.VCU -  OSD 22 currentime 6942.0
+speed0 time 6943.0
+02:07:28.289 [main] INFO  AV.VCU -  OSD 33 currentime 6943.0
+speed0 time 6960.0
+02:07:29.105 [main] INFO  AV.VCU -  OSD 00 currentime 6960.0
+speed0 time 6961.0
+02:07:29.153 [main] INFO  AV.VCU -  OSD 11 currentime 6961.0
+speed0 time 6962.0
+02:07:29.180 [main] INFO  AV.VCU -  OSD 22 currentime 6962.0
+speed0 time 6963.0
+02:07:29.256 [main] INFO  AV.VCU -  OSD 33 currentime 6963.0
+speed0 time 6980.0
+02:07:30.100 [main] INFO  AV.VCU -  OSD 00 currentime 6980.0
+speed0 time 6981.0
+02:07:30.155 [main] INFO  AV.VCU -  OSD 11 currentime 6981.0
+speed0 time 6982.0
+02:07:30.208 [main] INFO  AV.VCU -  OSD 22 currentime 6982.0
+speed0 time 6983.0
+02:07:30.259 [main] INFO  AV.VCU -  OSD 33 currentime 6983.0
+speed0 time 7000.0
+02:07:31.130 [main] INFO  AV.VCU -  OSD 00 currentime 7000.0
+speed0 time 7001.0
+02:07:31.159 [main] INFO  AV.VCU -  OSD 11 currentime 7001.0
+speed0 time 7002.0
+02:07:31.237 [main] INFO  AV.VCU -  OSD 22 currentime 7002.0
+speed0 time 7003.0
+02:07:31.296 [main] INFO  AV.VCU -  OSD 33 currentime 7003.0
+speed0 time 7020.0
+02:07:32.116 [main] INFO  AV.VCU -  OSD 00 currentime 7020.0
+speed0 time 7021.0
+02:07:32.164 [main] INFO  AV.VCU -  OSD 11 currentime 7021.0
+speed0 time 7022.0
+02:07:32.199 [main] INFO  AV.VCU -  OSD 22 currentime 7022.0
+speed0 time 7023.0
+02:07:32.255 [main] INFO  AV.VCU -  OSD 33 currentime 7023.0
+speed0 time 7040.0
+02:07:33.104 [main] INFO  AV.VCU -  OSD 00 currentime 7040.0
+speed0 time 7041.0
+02:07:33.159 [main] INFO  AV.VCU -  OSD 11 currentime 7041.0
+speed0 time 7042.0
+02:07:33.225 [main] INFO  AV.VCU -  OSD 22 currentime 7042.0
+speed0 time 7043.0
+02:07:33.267 [main] INFO  AV.VCU -  OSD 33 currentime 7043.0
+speed0 time 7060.0
+02:07:34.114 [main] INFO  AV.VCU -  OSD 00 currentime 7060.0
+speed0 time 7061.0
+02:07:34.195 [main] INFO  AV.VCU -  OSD 11 currentime 7061.0
+speed0 time 7062.0
+02:07:34.250 [main] INFO  AV.VCU -  OSD 22 currentime 7062.0
+speed0 time 7063.0
+02:07:34.297 [main] INFO  AV.VCU -  OSD 33 currentime 7063.0
+speed0 time 7080.0
+02:07:35.162 [main] INFO  AV.VCU -  OSD 00 currentime 7080.0
+speed0 time 7081.0
+02:07:35.218 [main] INFO  AV.VCU -  OSD 11 currentime 7081.0
+speed0 time 7082.0
+02:07:35.273 [main] INFO  AV.VCU -  OSD 22 currentime 7082.0
+speed0 time 7083.0
+02:07:35.341 [main] INFO  AV.VCU -  OSD 33 currentime 7083.0
+speed0 time 7100.0
+02:07:36.215 [main] INFO  AV.VCU -  OSD 00 currentime 7100.0
+speed0 time 7101.0
+02:07:36.280 [main] INFO  AV.VCU -  OSD 11 currentime 7101.0
+speed0 time 7102.0
+02:07:36.325 [main] INFO  AV.VCU -  OSD 22 currentime 7102.0
+speed0 time 7103.0
+02:07:36.390 [main] INFO  AV.VCU -  OSD 33 currentime 7103.0
+speed0 time 7120.0
+02:07:37.407 [main] INFO  AV.VCU -  OSD 00 currentime 7120.0
+speed0 time 7121.0
+02:07:37.441 [main] INFO  AV.VCU -  OSD 11 currentime 7121.0
+speed0 time 7122.0
+02:07:37.481 [main] INFO  AV.VCU -  OSD 22 currentime 7122.0
+speed0 time 7123.0
+02:07:37.539 [main] INFO  AV.VCU -  OSD 33 currentime 7123.0
+speed0 time 7140.0
+02:07:38.409 [main] INFO  AV.VCU -  OSD 00 currentime 7140.0
+speed0 time 7141.0
+02:07:38.451 [main] INFO  AV.VCU -  OSD 11 currentime 7141.0
+speed0 time 7142.0
+02:07:38.505 [main] INFO  AV.VCU -  OSD 22 currentime 7142.0
+speed0 time 7143.0
+02:07:38.533 [main] INFO  AV.VCU -  OSD 33 currentime 7143.0
+speed0 time 7160.0
+02:07:39.429 [main] INFO  AV.VCU -  OSD 00 currentime 7160.0
+speed0 time 7161.0
+02:07:39.463 [main] INFO  AV.VCU -  OSD 11 currentime 7161.0
+speed0 time 7162.0
+02:07:39.522 [main] INFO  AV.VCU -  OSD 22 currentime 7162.0
+speed0 time 7163.0
+02:07:39.552 [main] INFO  AV.VCU -  OSD 33 currentime 7163.0
+speed0 time 7180.0
+02:07:40.413 [main] INFO  AV.VCU -  OSD 00 currentime 7180.0
+speed0 time 7181.0
+02:07:40.454 [main] INFO  AV.VCU -  OSD 11 currentime 7181.0
+speed0 time 7182.0
+02:07:40.500 [main] INFO  AV.VCU -  OSD 22 currentime 7182.0
+speed0 time 7183.0
+02:07:40.562 [main] INFO  AV.VCU -  OSD 33 currentime 7183.0
+speed0 time 7200.0
+02:07:41.387 [main] INFO  AV.VCU -  OSD 00 currentime 7200.0
+speed0 time 7201.0
+02:07:41.418 [main] INFO  AV.VCU -  OSD 11 currentime 7201.0
+speed0 time 7202.0
+02:07:41.489 [main] INFO  AV.VCU -  OSD 22 currentime 7202.0
+speed0 time 7203.0
+02:07:41.516 [main] INFO  AV.VCU -  OSD 33 currentime 7203.0
+speed0 time 7220.0
+02:07:42.348 [main] INFO  AV.VCU -  OSD 00 currentime 7220.0
+speed0 time 7221.0
+02:07:42.402 [main] INFO  AV.VCU -  OSD 11 currentime 7221.0
+speed0 time 7222.0
+02:07:42.447 [main] INFO  AV.VCU -  OSD 22 currentime 7222.0
+speed0 time 7223.0
+02:07:42.529 [main] INFO  AV.VCU -  OSD 33 currentime 7223.0
+speed0 time 7240.0
+02:07:43.372 [main] INFO  AV.VCU -  OSD 00 currentime 7240.0
+speed0 time 7241.0
+02:07:43.437 [main] INFO  AV.VCU -  OSD 11 currentime 7241.0
+speed0 time 7242.0
+02:07:43.465 [main] INFO  AV.VCU -  OSD 22 currentime 7242.0
+speed0 time 7243.0
+02:07:43.553 [main] INFO  AV.VCU -  OSD 33 currentime 7243.0
+speed0 time 7260.0
+02:07:44.384 [main] INFO  AV.VCU -  OSD 00 currentime 7260.0
+speed0 time 7261.0
+02:07:44.449 [main] INFO  AV.VCU -  OSD 11 currentime 7261.0
+speed0 time 7262.0
+02:07:44.498 [main] INFO  AV.VCU -  OSD 22 currentime 7262.0
+speed0 time 7263.0
+02:07:44.553 [main] INFO  AV.VCU -  OSD 33 currentime 7263.0
+speed0 time 7280.0
+02:07:45.385 [main] INFO  AV.VCU -  OSD 00 currentime 7280.0
+speed0 time 7281.0
+02:07:45.457 [main] INFO  AV.VCU -  OSD 11 currentime 7281.0
+speed0 time 7282.0
+02:07:45.478 [main] INFO  AV.VCU -  OSD 22 currentime 7282.0
+speed0 time 7283.0
+02:07:45.565 [main] INFO  AV.VCU -  OSD 33 currentime 7283.0
+speed0 time 7300.0
+02:07:46.379 [main] INFO  AV.VCU -  OSD 00 currentime 7300.0
+speed0 time 7301.0
+02:07:46.436 [main] INFO  AV.VCU -  OSD 11 currentime 7301.0
+speed0 time 7302.0
+02:07:46.481 [main] INFO  AV.VCU -  OSD 22 currentime 7302.0
+speed0 time 7303.0
+02:07:46.539 [main] INFO  AV.VCU -  OSD 33 currentime 7303.0
+speed0 time 7320.0
+02:07:47.376 [main] INFO  AV.VCU -  OSD 00 currentime 7320.0
+speed0 time 7321.0
+02:07:47.421 [main] INFO  AV.VCU -  OSD 11 currentime 7321.0
+speed0 time 7322.0
+02:07:47.463 [main] INFO  AV.VCU -  OSD 22 currentime 7322.0
+speed0 time 7323.0
+02:07:47.505 [main] INFO  AV.VCU -  OSD 33 currentime 7323.0
+speed0 time 7340.0
+02:07:48.351 [main] INFO  AV.VCU -  OSD 00 currentime 7340.0
+speed0 time 7341.0
+02:07:48.400 [main] INFO  AV.VCU -  OSD 11 currentime 7341.0
+speed0 time 7342.0
+02:07:48.433 [main] INFO  AV.VCU -  OSD 22 currentime 7342.0
+speed0 time 7343.0
+02:07:48.465 [main] INFO  AV.VCU -  OSD 33 currentime 7343.0
+speed0 time 7360.0
+02:07:49.338 [main] INFO  AV.VCU -  OSD 00 currentime 7360.0
+speed0 time 7361.0
+02:07:49.380 [main] INFO  AV.VCU -  OSD 11 currentime 7361.0
+speed0 time 7362.0
+02:07:49.448 [main] INFO  AV.VCU -  OSD 22 currentime 7362.0
+speed0 time 7363.0
+02:07:49.495 [main] INFO  AV.VCU -  OSD 33 currentime 7363.0
+speed0 time 7380.0
+02:07:50.317 [main] INFO  AV.VCU -  OSD 00 currentime 7380.0
+speed0 time 7381.0
+02:07:50.369 [main] INFO  AV.VCU -  OSD 11 currentime 7381.0
+speed0 time 7382.0
+02:07:50.413 [main] INFO  AV.VCU -  OSD 22 currentime 7382.0
+speed0 time 7383.0
+02:07:50.482 [main] INFO  AV.VCU -  OSD 33 currentime 7383.0
+speed0 time 7400.0
+02:07:51.342 [main] INFO  AV.VCU -  OSD 00 currentime 7400.0
+speed0 time 7401.0
+02:07:51.390 [main] INFO  AV.VCU -  OSD 11 currentime 7401.0
+speed0 time 7402.0
+02:07:51.433 [main] INFO  AV.VCU -  OSD 22 currentime 7402.0
+speed0 time 7403.0
+02:07:51.485 [main] INFO  AV.VCU -  OSD 33 currentime 7403.0
+speed0 time 7420.0
+02:07:52.309 [main] INFO  AV.VCU -  OSD 00 currentime 7420.0
+speed0 time 7421.0
+02:07:52.355 [main] INFO  AV.VCU -  OSD 11 currentime 7421.0
+speed0 time 7422.0
+02:07:52.396 [main] INFO  AV.VCU -  OSD 22 currentime 7422.0
+speed0 time 7423.0
+02:07:52.446 [main] INFO  AV.VCU -  OSD 33 currentime 7423.0
+speed0 time 7440.0
+02:07:53.312 [main] INFO  AV.VCU -  OSD 00 currentime 7440.0
+speed0 time 7441.0
+02:07:53.356 [main] INFO  AV.VCU -  OSD 11 currentime 7441.0
+speed0 time 7442.0
+02:07:53.409 [main] INFO  AV.VCU -  OSD 22 currentime 7442.0
+speed0 time 7443.0
+02:07:53.452 [main] INFO  AV.VCU -  OSD 33 currentime 7443.0
+speed0 time 7460.0
+02:07:54.306 [main] INFO  AV.VCU -  OSD 00 currentime 7460.0
+speed0 time 7461.0
+02:07:54.348 [main] INFO  AV.VCU -  OSD 11 currentime 7461.0
+speed0 time 7462.0
+02:07:54.409 [main] INFO  AV.VCU -  OSD 22 currentime 7462.0
+speed0 time 7463.0
+02:07:54.448 [main] INFO  AV.VCU -  OSD 33 currentime 7463.0
+speed0 time 7480.0
+02:07:55.304 [main] INFO  AV.VCU -  OSD 00 currentime 7480.0
+speed0 time 7481.0
+02:07:55.355 [main] INFO  AV.VCU -  OSD 11 currentime 7481.0
+speed0 time 7482.0
+02:07:55.409 [main] INFO  AV.VCU -  OSD 22 currentime 7482.0
+speed0 time 7483.0
+02:07:55.441 [main] INFO  AV.VCU -  OSD 33 currentime 7483.0
+speed0 time 7500.0
+02:07:56.284 [main] INFO  AV.VCU -  OSD 00 currentime 7500.0
+speed0 time 7501.0
+02:07:56.345 [main] INFO  AV.VCU -  OSD 11 currentime 7501.0
+speed0 time 7502.0
+02:07:56.387 [main] INFO  AV.VCU -  OSD 22 currentime 7502.0
+speed0 time 7503.0
+02:07:56.445 [main] INFO  AV.VCU -  OSD 33 currentime 7503.0
+speed0 time 7520.0
+02:07:57.317 [main] INFO  AV.VCU -  OSD 00 currentime 7520.0
+speed0 time 7521.0
+02:07:57.360 [main] INFO  AV.VCU -  OSD 11 currentime 7521.0
+speed0 time 7522.0
+02:07:57.421 [main] INFO  AV.VCU -  OSD 22 currentime 7522.0
+speed0 time 7523.0
+02:07:57.479 [main] INFO  AV.VCU -  OSD 33 currentime 7523.0
+speed0 time 7540.0
+02:07:58.353 [main] INFO  AV.VCU -  OSD 00 currentime 7540.0
+speed0 time 7541.0
+02:07:58.394 [main] INFO  AV.VCU -  OSD 11 currentime 7541.0
+speed0 time 7542.0
+02:07:58.427 [main] INFO  AV.VCU -  OSD 22 currentime 7542.0
+speed0 time 7543.0
+02:07:58.490 [main] INFO  AV.VCU -  OSD 33 currentime 7543.0
+speed0 time 7560.0
+02:07:59.341 [main] INFO  AV.VCU -  OSD 00 currentime 7560.0
+speed0 time 7561.0
+02:07:59.384 [main] INFO  AV.VCU -  OSD 11 currentime 7561.0
+speed0 time 7562.0
+02:07:59.443 [main] INFO  AV.VCU -  OSD 22 currentime 7562.0
+speed0 time 7563.0
+02:07:59.490 [main] INFO  AV.VCU -  OSD 33 currentime 7563.0
+speed0 time 7580.0
+02:08:00.393 [main] INFO  AV.VCU -  OSD 00 currentime 7580.0
+speed0 time 7581.0
+02:08:00.445 [main] INFO  AV.VCU -  OSD 11 currentime 7581.0
+speed0 time 7582.0
+02:08:00.492 [main] INFO  AV.VCU -  OSD 22 currentime 7582.0
+speed0 time 7583.0
+02:08:00.540 [main] INFO  AV.VCU -  OSD 33 currentime 7583.0
+speed0 time 7600.0
+02:08:01.385 [main] INFO  AV.VCU -  OSD 00 currentime 7600.0
+speed0 time 7601.0
+02:08:01.441 [main] INFO  AV.VCU -  OSD 11 currentime 7601.0
+speed0 time 7602.0
+02:08:01.493 [main] INFO  AV.VCU -  OSD 22 currentime 7602.0
+speed0 time 7603.0
+02:08:01.541 [main] INFO  AV.VCU -  OSD 33 currentime 7603.0
+speed0 time 7620.0
+02:08:02.427 [main] INFO  AV.VCU -  OSD 00 currentime 7620.0
+speed0 time 7621.0
+02:08:02.470 [main] INFO  AV.VCU -  OSD 11 currentime 7621.0
+speed0 time 7622.0
+02:08:02.509 [main] INFO  AV.VCU -  OSD 22 currentime 7622.0
+speed0 time 7623.0
+02:08:02.579 [main] INFO  AV.VCU -  OSD 33 currentime 7623.0
+speed0 time 7640.0
+02:08:03.419 [main] INFO  AV.VCU -  OSD 00 currentime 7640.0
+speed0 time 7641.0
+02:08:03.473 [main] INFO  AV.VCU -  OSD 11 currentime 7641.0
+speed0 time 7642.0
+02:08:03.517 [main] INFO  AV.VCU -  OSD 22 currentime 7642.0
+speed0 time 7643.0
+02:08:03.574 [main] INFO  AV.VCU -  OSD 33 currentime 7643.0
+speed0 time 7660.0
+02:08:04.642 [main] INFO  AV.VCU -  OSD 00 currentime 7660.0
+speed0 time 7661.0
+02:08:04.693 [main] INFO  AV.VCU -  OSD 11 currentime 7661.0
+speed0 time 7662.0
+02:08:04.736 [main] INFO  AV.VCU -  OSD 22 currentime 7662.0
+speed0 time 7663.0
+02:08:04.799 [main] INFO  AV.VCU -  OSD 33 currentime 7663.0
+speed0 time 7680.0
+02:08:05.681 [main] INFO  AV.VCU -  OSD 00 currentime 7680.0
+speed0 time 7681.0
+02:08:05.727 [main] INFO  AV.VCU -  OSD 11 currentime 7681.0
+speed0 time 7682.0
+02:08:05.770 [main] INFO  AV.VCU -  OSD 22 currentime 7682.0
+speed0 time 7683.0
+02:08:05.829 [main] INFO  AV.VCU -  OSD 33 currentime 7683.0
+speed0 time 7700.0
+02:08:06.627 [main] INFO  AV.VCU -  OSD 00 currentime 7700.0
+speed0 time 7701.0
+02:08:06.698 [main] INFO  AV.VCU -  OSD 11 currentime 7701.0
+speed0 time 7702.0
+02:08:06.733 [main] INFO  AV.VCU -  OSD 22 currentime 7702.0
+speed0 time 7703.0
+02:08:06.794 [main] INFO  AV.VCU -  OSD 33 currentime 7703.0
+speed0 time 7720.0
+02:08:07.651 [main] INFO  AV.VCU -  OSD 00 currentime 7720.0
+speed0 time 7721.0
+02:08:07.717 [main] INFO  AV.VCU -  OSD 11 currentime 7721.0
+speed0 time 7722.0
+02:08:07.768 [main] INFO  AV.VCU -  OSD 22 currentime 7722.0
+speed0 time 7723.0
+02:08:07.822 [main] INFO  AV.VCU -  OSD 33 currentime 7723.0
+speed0 time 7740.0
+02:08:08.691 [main] INFO  AV.VCU -  OSD 00 currentime 7740.0
+speed0 time 7741.0
+02:08:08.734 [main] INFO  AV.VCU -  OSD 11 currentime 7741.0
+speed0 time 7742.0
+02:08:08.790 [main] INFO  AV.VCU -  OSD 22 currentime 7742.0
+speed0 time 7743.0
+02:08:08.841 [main] INFO  AV.VCU -  OSD 33 currentime 7743.0
+speed0 time 7760.0
+02:08:09.685 [main] INFO  AV.VCU -  OSD 00 currentime 7760.0
+speed0 time 7761.0
+02:08:09.732 [main] INFO  AV.VCU -  OSD 11 currentime 7761.0
+speed0 time 7762.0
+02:08:09.788 [main] INFO  AV.VCU -  OSD 22 currentime 7762.0
+speed0 time 7763.0
+02:08:09.844 [main] INFO  AV.VCU -  OSD 33 currentime 7763.0
+speed0 time 7780.0
+02:08:10.693 [main] INFO  AV.VCU -  OSD 00 currentime 7780.0
+speed0 time 7781.0
+02:08:10.745 [main] INFO  AV.VCU -  OSD 11 currentime 7781.0
+speed0 time 7782.0
+02:08:10.791 [main] INFO  AV.VCU -  OSD 22 currentime 7782.0
+speed0 time 7783.0
+02:08:10.845 [main] INFO  AV.VCU -  OSD 33 currentime 7783.0
+speed0 time 7800.0
+02:08:11.695 [main] INFO  AV.VCU -  OSD 00 currentime 7800.0
+speed0 time 7801.0
+02:08:11.749 [main] INFO  AV.VCU -  OSD 11 currentime 7801.0
+speed0 time 7802.0
+02:08:11.788 [main] INFO  AV.VCU -  OSD 22 currentime 7802.0
+speed0 time 7803.0
+02:08:11.843 [main] INFO  AV.VCU -  OSD 33 currentime 7803.0
+speed0 time 7820.0
+02:08:12.660 [main] INFO  AV.VCU -  OSD 00 currentime 7820.0
+speed0 time 7821.0
+02:08:12.718 [main] INFO  AV.VCU -  OSD 11 currentime 7821.0
+speed0 time 7822.0
+02:08:12.771 [main] INFO  AV.VCU -  OSD 22 currentime 7822.0
+speed0 time 7823.0
+02:08:12.825 [main] INFO  AV.VCU -  OSD 33 currentime 7823.0
+speed0 time 7840.0
+02:08:13.675 [main] INFO  AV.VCU -  OSD 00 currentime 7840.0
+speed0 time 7841.0
+02:08:13.732 [main] INFO  AV.VCU -  OSD 11 currentime 7841.0
+speed0 time 7842.0
+02:08:13.776 [main] INFO  AV.VCU -  OSD 22 currentime 7842.0
+speed0 time 7843.0
+02:08:13.833 [main] INFO  AV.VCU -  OSD 33 currentime 7843.0
+speed0 time 7860.0
+02:08:14.665 [main] INFO  AV.VCU -  OSD 00 currentime 7860.0
+speed0 time 7861.0
+02:08:14.731 [main] INFO  AV.VCU -  OSD 11 currentime 7861.0
+speed0 time 7862.0
+02:08:14.760 [main] INFO  AV.VCU -  OSD 22 currentime 7862.0
+speed0 time 7863.0
+02:08:14.834 [main] INFO  AV.VCU -  OSD 33 currentime 7863.0
+speed0 time 7880.0
+02:08:15.653 [main] INFO  AV.VCU -  OSD 00 currentime 7880.0
+speed0 time 7881.0
+02:08:15.733 [main] INFO  AV.VCU -  OSD 11 currentime 7881.0
+speed0 time 7882.0
+02:08:15.757 [main] INFO  AV.VCU -  OSD 22 currentime 7882.0
+speed0 time 7883.0
+02:08:15.851 [main] INFO  AV.VCU -  OSD 33 currentime 7883.0
+speed0 time 7900.0
+02:08:16.667 [main] INFO  AV.VCU -  OSD 00 currentime 7900.0
+speed0 time 7901.0
+02:08:16.709 [main] INFO  AV.VCU -  OSD 11 currentime 7901.0
+speed0 time 7902.0
+02:08:16.769 [main] INFO  AV.VCU -  OSD 22 currentime 7902.0
+speed0 time 7903.0
+02:08:16.791 [main] INFO  AV.VCU -  OSD 33 currentime 7903.0
+speed0 time 7920.0
+02:08:17.700 [main] INFO  AV.VCU -  OSD 00 currentime 7920.0
+speed0 time 7921.0
+02:08:17.736 [main] INFO  AV.VCU -  OSD 11 currentime 7921.0
+speed0 time 7922.0
+02:08:17.799 [main] INFO  AV.VCU -  OSD 22 currentime 7922.0
+speed0 time 7923.0
+02:08:17.837 [main] INFO  AV.VCU -  OSD 33 currentime 7923.0
+speed0 time 7940.0
+02:08:18.686 [main] INFO  AV.VCU -  OSD 00 currentime 7940.0
+speed0 time 7941.0
+02:08:18.725 [main] INFO  AV.VCU -  OSD 11 currentime 7941.0
+speed0 time 7942.0
+02:08:18.755 [main] INFO  AV.VCU -  OSD 22 currentime 7942.0
+speed0 time 7943.0
+02:08:18.825 [main] INFO  AV.VCU -  OSD 33 currentime 7943.0
+speed0 time 7960.0
+02:08:19.659 [main] INFO  AV.VCU -  OSD 00 currentime 7960.0
+speed0 time 7961.0
+02:08:19.706 [main] INFO  AV.VCU -  OSD 11 currentime 7961.0
+speed0 time 7962.0
+02:08:19.758 [main] INFO  AV.VCU -  OSD 22 currentime 7962.0
+speed0 time 7963.0
+02:08:19.800 [main] INFO  AV.VCU -  OSD 33 currentime 7963.0
+speed0 time 7980.0
+02:08:20.669 [main] INFO  AV.VCU -  OSD 00 currentime 7980.0
+speed0 time 7981.0
+02:08:20.729 [main] INFO  AV.VCU -  OSD 11 currentime 7981.0
+speed0 time 7982.0
+02:08:20.769 [main] INFO  AV.VCU -  OSD 22 currentime 7982.0
+speed0 time 7983.0
+02:08:20.828 [main] INFO  AV.VCU -  OSD 33 currentime 7983.0
+speed0 time 8000.0
+02:08:21.714 [main] INFO  AV.VCU -  OSD 00 currentime 8000.0
+speed0 time 8001.0
+02:08:21.762 [main] INFO  AV.VCU -  OSD 11 currentime 8001.0
+speed0 time 8002.0
+02:08:21.806 [main] INFO  AV.VCU -  OSD 22 currentime 8002.0
+speed0 time 8003.0
+02:08:21.864 [main] INFO  AV.VCU -  OSD 33 currentime 8003.0
+speed0 time 8020.0
+02:08:22.758 [main] INFO  AV.VCU -  OSD 00 currentime 8020.0
+speed0 time 8021.0
+02:08:22.797 [main] INFO  AV.VCU -  OSD 11 currentime 8021.0
+speed0 time 8022.0
+02:08:22.827 [main] INFO  AV.VCU -  OSD 22 currentime 8022.0
+speed0 time 8023.0
+02:08:22.901 [main] INFO  AV.VCU -  OSD 33 currentime 8023.0
+speed0 time 8040.0
+02:08:23.768 [main] INFO  AV.VCU -  OSD 00 currentime 8040.0
+speed0 time 8041.0
+02:08:23.822 [main] INFO  AV.VCU -  OSD 11 currentime 8041.0
+speed0 time 8042.0
+02:08:23.880 [main] INFO  AV.VCU -  OSD 22 currentime 8042.0
+speed0 time 8043.0
+02:08:23.923 [main] INFO  AV.VCU -  OSD 33 currentime 8043.0
+speed0 time 8060.0
+02:08:24.805 [main] INFO  AV.VCU -  OSD 00 currentime 8060.0
+speed0 time 8061.0
+02:08:24.857 [main] INFO  AV.VCU -  OSD 11 currentime 8061.0
+speed0 time 8062.0
+02:08:24.900 [main] INFO  AV.VCU -  OSD 22 currentime 8062.0
+speed0 time 8063.0
+02:08:24.958 [main] INFO  AV.VCU -  OSD 33 currentime 8063.0
+speed0 time 8080.0
+02:08:25.767 [main] INFO  AV.VCU -  OSD 00 currentime 8080.0
+speed0 time 8081.0
+02:08:25.813 [main] INFO  AV.VCU -  OSD 11 currentime 8081.0
+speed0 time 8082.0
+02:08:25.828 [main] INFO  AV.VCU -  OSD 22 currentime 8082.0
+speed0 time 8083.0
+02:08:25.915 [main] INFO  AV.VCU -  OSD 33 currentime 8083.0
+speed0 time 8100.0
+02:08:26.733 [main] INFO  AV.VCU -  OSD 00 currentime 8100.0
+speed0 time 8101.0
+02:08:26.778 [main] INFO  AV.VCU -  OSD 11 currentime 8101.0
+speed0 time 8102.0
+02:08:26.834 [main] INFO  AV.VCU -  OSD 22 currentime 8102.0
+speed0 time 8103.0
+02:08:26.881 [main] INFO  AV.VCU -  OSD 33 currentime 8103.0
+speed0 time 8120.0
+02:08:27.734 [main] INFO  AV.VCU -  OSD 00 currentime 8120.0
+speed0 time 8121.0
+02:08:27.778 [main] INFO  AV.VCU -  OSD 11 currentime 8121.0
+speed0 time 8122.0
+02:08:27.831 [main] INFO  AV.VCU -  OSD 22 currentime 8122.0
+speed0 time 8123.0
+02:08:27.875 [main] INFO  AV.VCU -  OSD 33 currentime 8123.0
+speed0 time 8140.0
+02:08:28.688 [main] INFO  AV.VCU -  OSD 00 currentime 8140.0
+speed0 time 8141.0
+02:08:28.765 [main] INFO  AV.VCU -  OSD 11 currentime 8141.0
+speed0 time 8142.0
+02:08:28.793 [main] INFO  AV.VCU -  OSD 22 currentime 8142.0
+speed0 time 8143.0
+02:08:28.863 [main] INFO  AV.VCU -  OSD 33 currentime 8143.0
+speed0 time 8160.0
+02:08:29.732 [main] INFO  AV.VCU -  OSD 00 currentime 8160.0
+speed0 time 8161.0
+02:08:29.775 [main] INFO  AV.VCU -  OSD 11 currentime 8161.0
+speed0 time 8162.0
+02:08:29.833 [main] INFO  AV.VCU -  OSD 22 currentime 8162.0
+speed0 time 8163.0
+02:08:29.871 [main] INFO  AV.VCU -  OSD 33 currentime 8163.0
+speed0 time 8180.0
+02:08:30.709 [main] INFO  AV.VCU -  OSD 00 currentime 8180.0
+speed0 time 8181.0
+02:08:30.764 [main] INFO  AV.VCU -  OSD 11 currentime 8181.0
+speed0 time 8182.0
+02:08:30.821 [main] INFO  AV.VCU -  OSD 22 currentime 8182.0
+speed0 time 8183.0
+02:08:30.865 [main] INFO  AV.VCU -  OSD 33 currentime 8183.0
+speed0 time 8200.0
+02:08:31.662 [main] INFO  AV.VCU -  OSD 00 currentime 8200.0
+speed0 time 8201.0
+02:08:31.720 [main] INFO  AV.VCU -  OSD 11 currentime 8201.0
+speed0 time 8202.0
+02:08:31.756 [main] INFO  AV.VCU -  OSD 22 currentime 8202.0
+speed0 time 8203.0
+02:08:31.815 [main] INFO  AV.VCU -  OSD 33 currentime 8203.0
+speed0 time 8220.0
+02:08:32.645 [main] INFO  AV.VCU -  OSD 00 currentime 8220.0
+speed0 time 8221.0
+02:08:32.706 [main] INFO  AV.VCU -  OSD 11 currentime 8221.0
+speed0 time 8222.0
+02:08:32.753 [main] INFO  AV.VCU -  OSD 22 currentime 8222.0
+speed0 time 8223.0
+02:08:32.799 [main] INFO  AV.VCU -  OSD 33 currentime 8223.0
+speed0 time 8240.0
+02:08:33.916 [main] INFO  AV.VCU -  OSD 00 currentime 8240.0
+speed0 time 8241.0
+02:08:33.965 [main] INFO  AV.VCU -  OSD 11 currentime 8241.0
+speed0 time 8242.0
+02:08:34.019 [main] INFO  AV.VCU -  OSD 22 currentime 8242.0
+speed0 time 8243.0
+02:08:34.056 [main] INFO  AV.VCU -  OSD 33 currentime 8243.0
+speed0 time 8260.0
+02:08:34.896 [main] INFO  AV.VCU -  OSD 00 currentime 8260.0
+speed0 time 8261.0
+02:08:34.953 [main] INFO  AV.VCU -  OSD 11 currentime 8261.0
+speed0 time 8262.0
+02:08:35.006 [main] INFO  AV.VCU -  OSD 22 currentime 8262.0
+speed0 time 8263.0
+02:08:35.049 [main] INFO  AV.VCU -  OSD 33 currentime 8263.0
+speed0 time 8280.0
+02:08:35.884 [main] INFO  AV.VCU -  OSD 00 currentime 8280.0
+speed0 time 8281.0
+02:08:35.941 [main] INFO  AV.VCU -  OSD 11 currentime 8281.0
+speed0 time 8282.0
+02:08:35.985 [main] INFO  AV.VCU -  OSD 22 currentime 8282.0
+speed0 time 8283.0
+02:08:36.035 [main] INFO  AV.VCU -  OSD 33 currentime 8283.0
+speed0 time 8300.0
+02:08:36.887 [main] INFO  AV.VCU -  OSD 00 currentime 8300.0
+speed0 time 8301.0
+02:08:36.941 [main] INFO  AV.VCU -  OSD 11 currentime 8301.0
+speed0 time 8302.0
+02:08:37.010 [main] INFO  AV.VCU -  OSD 22 currentime 8302.0
+speed0 time 8303.0
+02:08:37.053 [main] INFO  AV.VCU -  OSD 33 currentime 8303.0
+speed0 time 8320.0
+02:08:37.912 [main] INFO  AV.VCU -  OSD 00 currentime 8320.0
+speed0 time 8321.0
+02:08:37.960 [main] INFO  AV.VCU -  OSD 11 currentime 8321.0
+speed0 time 8322.0
+02:08:38.028 [main] INFO  AV.VCU -  OSD 22 currentime 8322.0
+speed0 time 8323.0
+02:08:38.107 [main] INFO  AV.VCU -  OSD 33 currentime 8323.0
+speed0 time 8340.0
+02:08:38.965 [main] INFO  AV.VCU -  OSD 00 currentime 8340.0
+speed0 time 8341.0
+02:08:39.011 [main] INFO  AV.VCU -  OSD 11 currentime 8341.0
+speed0 time 8342.0
+02:08:39.052 [main] INFO  AV.VCU -  OSD 22 currentime 8342.0
+speed0 time 8343.0
+02:08:39.113 [main] INFO  AV.VCU -  OSD 33 currentime 8343.0
+speed0 time 8360.0
+02:08:39.942 [main] INFO  AV.VCU -  OSD 00 currentime 8360.0
+speed0 time 8361.0
+02:08:39.999 [main] INFO  AV.VCU -  OSD 11 currentime 8361.0
+speed0 time 8362.0
+02:08:40.048 [main] INFO  AV.VCU -  OSD 22 currentime 8362.0
+speed0 time 8363.0
+02:08:40.114 [main] INFO  AV.VCU -  OSD 33 currentime 8363.0
+speed0 time 8380.0
+02:08:40.945 [main] INFO  AV.VCU -  OSD 00 currentime 8380.0
+speed0 time 8381.0
+02:08:40.990 [main] INFO  AV.VCU -  OSD 11 currentime 8381.0
+speed0 time 8382.0
+02:08:41.053 [main] INFO  AV.VCU -  OSD 22 currentime 8382.0
+speed0 time 8383.0
+02:08:41.106 [main] INFO  AV.VCU -  OSD 33 currentime 8383.0
+speed0 time 8400.0
+02:08:41.917 [main] INFO  AV.VCU -  OSD 00 currentime 8400.0
+speed0 time 8401.0
+02:08:41.964 [main] INFO  AV.VCU -  OSD 11 currentime 8401.0
+speed0 time 8402.0
+02:08:42.015 [main] INFO  AV.VCU -  OSD 22 currentime 8402.0
+speed0 time 8403.0
+02:08:42.066 [main] INFO  AV.VCU -  OSD 33 currentime 8403.0
+speed0 time 8420.0
+02:08:42.909 [main] INFO  AV.VCU -  OSD 00 currentime 8420.0
+speed0 time 8421.0
+02:08:42.962 [main] INFO  AV.VCU -  OSD 11 currentime 8421.0
+speed0 time 8422.0
+02:08:43.002 [main] INFO  AV.VCU -  OSD 22 currentime 8422.0
+speed0 time 8423.0
+02:08:43.061 [main] INFO  AV.VCU -  OSD 33 currentime 8423.0
+speed0 time 8440.0
+02:08:43.914 [main] INFO  AV.VCU -  OSD 00 currentime 8440.0
+speed0 time 8441.0
+02:08:43.953 [main] INFO  AV.VCU -  OSD 11 currentime 8441.0
+speed0 time 8442.0
+02:08:44.015 [main] INFO  AV.VCU -  OSD 22 currentime 8442.0
+speed0 time 8443.0
+02:08:44.059 [main] INFO  AV.VCU -  OSD 33 currentime 8443.0
+speed0 time 8460.0
+02:08:44.927 [main] INFO  AV.VCU -  OSD 00 currentime 8460.0
+speed0 time 8461.0
+02:08:44.984 [main] INFO  AV.VCU -  OSD 11 currentime 8461.0
+speed0 time 8462.0
+02:08:45.032 [main] INFO  AV.VCU -  OSD 22 currentime 8462.0
+speed0 time 8463.0
+02:08:45.077 [main] INFO  AV.VCU -  OSD 33 currentime 8463.0
+speed0 time 8480.0
+02:08:45.902 [main] INFO  AV.VCU -  OSD 00 currentime 8480.0
+speed0 time 8481.0
+02:08:45.948 [main] INFO  AV.VCU -  OSD 11 currentime 8481.0
+speed0 time 8482.0
+02:08:46.005 [main] INFO  AV.VCU -  OSD 22 currentime 8482.0
+speed0 time 8483.0
+02:08:46.059 [main] INFO  AV.VCU -  OSD 33 currentime 8483.0
+speed0 time 8500.0
+02:08:46.875 [main] INFO  AV.VCU -  OSD 00 currentime 8500.0
+speed0 time 8501.0
+02:08:46.942 [main] INFO  AV.VCU -  OSD 11 currentime 8501.0
+speed0 time 8502.0
+02:08:46.984 [main] INFO  AV.VCU -  OSD 22 currentime 8502.0
+speed0 time 8503.0
+02:08:47.041 [main] INFO  AV.VCU -  OSD 33 currentime 8503.0
+speed0 time 8520.0
+02:08:47.914 [main] INFO  AV.VCU -  OSD 00 currentime 8520.0
+speed0 time 8521.0
+02:08:47.952 [main] INFO  AV.VCU -  OSD 11 currentime 8521.0
+speed0 time 8522.0
+02:08:48.014 [main] INFO  AV.VCU -  OSD 22 currentime 8522.0
+speed0 time 8523.0
+02:08:48.070 [main] INFO  AV.VCU -  OSD 33 currentime 8523.0
+speed0 time 8540.0
+02:08:48.910 [main] INFO  AV.VCU -  OSD 00 currentime 8540.0
+speed0 time 8541.0
+02:08:48.961 [main] INFO  AV.VCU -  OSD 11 currentime 8541.0
+speed0 time 8542.0
+02:08:49.004 [main] INFO  AV.VCU -  OSD 22 currentime 8542.0
+speed0 time 8543.0
+02:08:49.058 [main] INFO  AV.VCU -  OSD 33 currentime 8543.0
+speed0 time 8560.0
+02:08:49.907 [main] INFO  AV.VCU -  OSD 00 currentime 8560.0
+speed0 time 8561.0
+02:08:49.946 [main] INFO  AV.VCU -  OSD 11 currentime 8561.0
+speed0 time 8562.0
+02:08:50.000 [main] INFO  AV.VCU -  OSD 22 currentime 8562.0
+speed0 time 8563.0
+02:08:50.056 [main] INFO  AV.VCU -  OSD 33 currentime 8563.0
+speed0 time 8580.0
+02:08:50.887 [main] INFO  AV.VCU -  OSD 00 currentime 8580.0
+speed0 time 8581.0
+02:08:50.939 [main] INFO  AV.VCU -  OSD 11 currentime 8581.0
+speed0 time 8582.0
+02:08:50.984 [main] INFO  AV.VCU -  OSD 22 currentime 8582.0
+speed0 time 8583.0
+02:08:51.037 [main] INFO  AV.VCU -  OSD 33 currentime 8583.0
+speed0 time 8600.0
+02:08:51.896 [main] INFO  AV.VCU -  OSD 00 currentime 8600.0
+speed0 time 8601.0
+02:08:51.950 [main] INFO  AV.VCU -  OSD 11 currentime 8601.0
+speed0 time 8602.0
+02:08:51.990 [main] INFO  AV.VCU -  OSD 22 currentime 8602.0
+speed0 time 8603.0
+02:08:52.049 [main] INFO  AV.VCU -  OSD 33 currentime 8603.0
+speed0 time 8620.0
+02:08:52.887 [main] INFO  AV.VCU -  OSD 00 currentime 8620.0
+speed0 time 8621.0
+02:08:52.949 [main] INFO  AV.VCU -  OSD 11 currentime 8621.0
+speed0 time 8622.0
+02:08:53.001 [main] INFO  AV.VCU -  OSD 22 currentime 8622.0
+speed0 time 8623.0
+02:08:53.051 [main] INFO  AV.VCU -  OSD 33 currentime 8623.0
+speed0 time 8640.0
+02:08:53.897 [main] INFO  AV.VCU -  OSD 00 currentime 8640.0
+speed0 time 8641.0
+02:08:53.949 [main] INFO  AV.VCU -  OSD 11 currentime 8641.0
+speed0 time 8642.0
+02:08:54.005 [main] INFO  AV.VCU -  OSD 22 currentime 8642.0
+speed0 time 8643.0
+02:08:54.066 [main] INFO  AV.VCU -  OSD 33 currentime 8643.0
+speed0 time 8660.0
+02:08:54.913 [main] INFO  AV.VCU -  OSD 00 currentime 8660.0
+speed0 time 8661.0
+02:08:54.942 [main] INFO  AV.VCU -  OSD 11 currentime 8661.0
+speed0 time 8662.0
+02:08:55.013 [main] INFO  AV.VCU -  OSD 22 currentime 8662.0
+speed0 time 8663.0
+02:08:55.037 [main] INFO  AV.VCU -  OSD 33 currentime 8663.0
+speed0 time 8680.0
+02:08:55.909 [main] INFO  AV.VCU -  OSD 00 currentime 8680.0
+speed0 time 8681.0
+02:08:55.948 [main] INFO  AV.VCU -  OSD 11 currentime 8681.0
+speed0 time 8682.0
+02:08:56.005 [main] INFO  AV.VCU -  OSD 22 currentime 8682.0
+speed0 time 8683.0
+02:08:56.067 [main] INFO  AV.VCU -  OSD 33 currentime 8683.0
+speed0 time 8700.0
+02:08:56.905 [main] INFO  AV.VCU -  OSD 00 currentime 8700.0
+speed0 time 8701.0
+02:08:56.958 [main] INFO  AV.VCU -  OSD 11 currentime 8701.0
+speed0 time 8702.0
+02:08:57.007 [main] INFO  AV.VCU -  OSD 22 currentime 8702.0
+speed0 time 8703.0
+02:08:57.057 [main] INFO  AV.VCU -  OSD 33 currentime 8703.0
+speed0 time 8720.0
+02:08:57.891 [main] INFO  AV.VCU -  OSD 00 currentime 8720.0
+speed0 time 8721.0
+02:08:57.949 [main] INFO  AV.VCU -  OSD 11 currentime 8721.0
+speed0 time 8722.0
+02:08:57.993 [main] INFO  AV.VCU -  OSD 22 currentime 8722.0
+speed0 time 8723.0
+02:08:58.036 [main] INFO  AV.VCU -  OSD 33 currentime 8723.0
+speed0 time 8740.0
+02:08:58.869 [main] INFO  AV.VCU -  OSD 00 currentime 8740.0
+speed0 time 8741.0
+02:08:58.913 [main] INFO  AV.VCU -  OSD 11 currentime 8741.0
+speed0 time 8742.0
+02:08:58.977 [main] INFO  AV.VCU -  OSD 22 currentime 8742.0
+speed0 time 8743.0
+02:08:59.022 [main] INFO  AV.VCU -  OSD 33 currentime 8743.0

@@ -1,0 +1,729 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-47114, cluster=AV, physical address=10.0.2.15:55542
+-------------------------------------------------------------------
+22:55:36.667 [main] INFO  AV.VCU - waiting on readyToRun...
+22:55:36.935 [main] INFO  AV.VCU - ...synchronized on readyToRun
+22:55:36.960 [main] INFO  AV.VCU - started logical time progression
+22:55:37.162 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.0  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  1.0 current simulation time  0.002
+22:55:38.412 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 84 ABS_Event_Status    : placeholder & current time is  2.0  message time is 0.2 case 0
+22:55:38.465 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 86 ABS_Event_Status    : placeholder & current time is  3.0  message time is 1.2 case 1
+22:55:38.548 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  4.0 current simulation time  0.008
+22:55:38.775 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  7.0 current simulation time  0.014
+22:55:38.880 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  8.0 current simulation time  0.016
+22:55:39.114 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  11.0 current simulation time  0.022
+22:55:39.165 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  12.0 current simulation time  0.024
+22:55:39.314 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 86 ABS_Event_Status    : BtUHLBScst & current time is  14.0  message time is 13.2 case 3
+22:55:39.385 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  15.0 current simulation time  0.03
+22:55:39.389 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 86 ABS_Event_Status    : BtUHLBScst & current time is  15.0  message time is 13.2 case 3
+22:55:39.441 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  16.0 current simulation time  0.032
+22:55:39.503 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  17.0 current simulation time  0.034
+22:55:39.573 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  18.0 current simulation time  0.036000000000000004
+22:55:39.666 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  19.0 current simulation time  0.038
+22:55:39.723 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  20.0 current simulation time  0.04
+22:55:39.887 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : BtUHLBScst & current time is  22.0  message time is 21.2 case 1
+22:55:39.945 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  23.0 current simulation time  0.046
+22:55:39.946 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : BtUHLBScst & current time is  23.0  message time is 21.2 case 1
+22:55:40.009 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  24.0 current simulation time  0.048
+22:55:40.220 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  27.0 current simulation time  0.054
+22:55:40.274 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  28.0 current simulation time  0.056
+22:55:40.469 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  31.0 current simulation time  0.062
+22:55:40.529 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  32.0 current simulation time  0.064
+22:55:40.652 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : OPYUivrmka & current time is  34.0  message time is 33.2 case 3
+22:55:40.709 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  35.0 current simulation time  0.07
+22:55:40.710 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : OPYUivrmka & current time is  35.0  message time is 33.2 case 3
+22:55:40.779 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  36.0 current simulation time  0.07200000000000001
+22:55:40.835 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  37.0 current simulation time  0.074
+22:55:40.938 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  38.0 current simulation time  0.076
+22:55:40.989 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  39.0 current simulation time  0.078
+22:55:41.056 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  40.0 current simulation time  0.08
+22:55:41.164 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : OPYUivrmka & current time is  42.0  message time is 41.2 case 1
+22:55:41.210 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  43.0 current simulation time  0.08600000000000001
+22:55:41.211 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : OPYUivrmka & current time is  43.0  message time is 41.2 case 1
+22:55:41.297 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  44.0 current simulation time  0.088
+22:55:41.466 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  47.0 current simulation time  0.094
+22:55:41.497 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  48.0 current simulation time  0.096
+22:55:41.692 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  51.0 current simulation time  0.10200000000000001
+22:55:41.765 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  52.0 current simulation time  0.10400000000000001
+22:55:41.868 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : IHDyFgoAnv & current time is  54.0  message time is 53.2 case 3
+22:55:41.952 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  55.0 current simulation time  0.11
+22:55:41.953 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : IHDyFgoAnv & current time is  55.0  message time is 53.2 case 3
+22:55:42.001 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  56.0 current simulation time  0.112
+22:55:42.071 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  57.0 current simulation time  0.114
+22:55:42.122 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  58.0 current simulation time  0.116
+22:55:42.217 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  59.0 current simulation time  0.11800000000000001
+22:55:42.282 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  60.0 current simulation time  0.12
+22:55:42.378 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : IHDyFgoAnv & current time is  62.0  message time is 61.2 case 1
+22:55:42.463 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  63.0 current simulation time  0.126
+22:55:42.464 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : IHDyFgoAnv & current time is  63.0  message time is 61.2 case 1
+22:55:42.516 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  64.0 current simulation time  0.128
+22:55:42.770 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  67.0 current simulation time  0.134
+22:55:42.822 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  68.0 current simulation time  0.136
+22:55:43.086 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  71.0 current simulation time  0.14200000000000002
+22:55:43.133 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  72.0 current simulation time  0.14400000000000002
+22:55:43.269 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : bjCIBgLAyH & current time is  74.0  message time is 73.2 case 3
+22:55:43.331 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  75.0 current simulation time  0.15
+22:55:43.331 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : bjCIBgLAyH & current time is  75.0  message time is 73.2 case 3
+22:55:43.380 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  76.0 current simulation time  0.152
+22:55:43.442 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  77.0 current simulation time  0.154
+22:55:43.509 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  78.0 current simulation time  0.156
+22:55:43.565 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  79.0 current simulation time  0.158
+22:55:43.610 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  80.0 current simulation time  0.16
+22:55:43.724 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : bjCIBgLAyH & current time is  82.0  message time is 81.2 case 1
+22:55:43.769 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  83.0 current simulation time  0.166
+22:55:43.770 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : bjCIBgLAyH & current time is  83.0  message time is 81.2 case 1
+22:55:43.817 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  84.0 current simulation time  0.168
+22:55:43.983 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  87.0 current simulation time  0.17400000000000002
+22:55:44.030 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  88.0 current simulation time  0.176
+22:55:44.199 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  91.0 current simulation time  0.182
+22:55:44.242 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  92.0 current simulation time  0.184
+22:55:44.338 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : wDPkdCgqhs & current time is  94.0  message time is 93.2 case 3
+22:55:44.410 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  95.0 current simulation time  0.19
+22:55:44.411 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : wDPkdCgqhs & current time is  95.0  message time is 93.2 case 3
+22:55:44.467 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  96.0 current simulation time  0.192
+22:55:44.500 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  97.0 current simulation time  0.194
+22:55:44.561 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  98.0 current simulation time  0.196
+22:55:44.706 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  99.0 current simulation time  0.198
+22:55:44.766 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  100.0 current simulation time  0.2
+22:55:44.876 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : wDPkdCgqhs & current time is  102.0  message time is 101.2 case 1
+22:55:44.933 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  103.0 current simulation time  0.20600000000000002
+22:55:44.934 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : wDPkdCgqhs & current time is  103.0  message time is 101.2 case 1
+22:55:44.978 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  104.0 current simulation time  0.20800000000000002
+22:55:45.150 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  107.0 current simulation time  0.214
+22:55:45.203 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  108.0 current simulation time  0.216
+22:55:45.372 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  111.0 current simulation time  0.222
+22:55:45.420 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  112.0 current simulation time  0.224
+22:55:45.530 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : lMnibVXtEm & current time is  114.0  message time is 113.2 case 3
+22:55:45.572 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  115.0 current simulation time  0.23
+22:55:45.574 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : lMnibVXtEm & current time is  115.0  message time is 113.2 case 3
+22:55:45.640 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  116.0 current simulation time  0.232
+22:55:45.695 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  117.0 current simulation time  0.234
+22:55:45.758 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  118.0 current simulation time  0.23600000000000002
+22:55:45.805 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  119.0 current simulation time  0.23800000000000002
+22:55:45.867 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  120.0 current simulation time  0.24
+22:55:45.987 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : lMnibVXtEm & current time is  122.0  message time is 121.2 case 1
+22:55:46.045 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  123.0 current simulation time  0.246
+22:55:46.046 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : lMnibVXtEm & current time is  123.0  message time is 121.2 case 1
+22:55:46.099 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  124.0 current simulation time  0.248
+22:55:46.284 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  127.0 current simulation time  0.254
+22:55:46.348 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  128.0 current simulation time  0.256
+22:55:46.517 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  131.0 current simulation time  0.262
+22:55:46.573 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  132.0 current simulation time  0.264
+22:55:46.667 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : XunzjHTwqs & current time is  134.0  message time is 133.2 case 3
+22:55:46.761 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  135.0 current simulation time  0.27
+22:55:46.762 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : XunzjHTwqs & current time is  135.0  message time is 133.2 case 3
+22:55:46.819 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  136.0 current simulation time  0.272
+22:55:46.874 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  137.0 current simulation time  0.274
+22:55:46.926 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  138.0 current simulation time  0.276
+22:55:46.992 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  139.0 current simulation time  0.278
+22:55:47.049 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  140.0 current simulation time  0.28
+22:55:47.157 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 57 ABS_Event_Status    : XunzjHTwqs & current time is  142.0  message time is 141.2 case 1
+22:55:47.211 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  143.0 current simulation time  0.28600000000000003
+22:55:47.212 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 57 ABS_Event_Status    : XunzjHTwqs & current time is  143.0  message time is 141.2 case 1
+22:55:47.267 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  144.0 current simulation time  0.28800000000000003
+22:55:47.600 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  147.0 current simulation time  0.294
+22:55:47.662 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  148.0 current simulation time  0.296
+22:55:47.850 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  151.0 current simulation time  0.302
+22:55:47.904 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  152.0 current simulation time  0.304
+22:55:48.018 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 57 ABS_Event_Status    : VEqCLbkNFE & current time is  154.0  message time is 153.2 case 3
+22:55:48.091 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  155.0 current simulation time  0.31
+22:55:48.094 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 57 ABS_Event_Status    : VEqCLbkNFE & current time is  155.0  message time is 153.2 case 3
+22:55:48.146 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  156.0 current simulation time  0.312
+22:55:48.194 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  157.0 current simulation time  0.314
+22:55:48.247 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  158.0 current simulation time  0.316
+22:55:48.324 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  159.0 current simulation time  0.318
+22:55:48.379 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  160.0 current simulation time  0.32
+22:55:48.474 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 85 ABS_Event_Status    : VEqCLbkNFE & current time is  162.0  message time is 161.2 case 1
+22:55:48.533 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  163.0 current simulation time  0.326
+22:55:48.534 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 85 ABS_Event_Status    : VEqCLbkNFE & current time is  163.0  message time is 161.2 case 1
+22:55:48.587 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  164.0 current simulation time  0.328
+22:55:48.765 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  167.0 current simulation time  0.334
+22:55:48.996 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  168.0 current simulation time  0.336
+22:55:49.367 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  171.0 current simulation time  0.342
+22:55:49.417 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  172.0 current simulation time  0.34400000000000003
+22:55:49.544 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 85 ABS_Event_Status    : bCblETbZpp & current time is  174.0  message time is 173.2 case 3
+22:55:49.605 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  175.0 current simulation time  0.35000000000000003
+22:55:49.605 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 85 ABS_Event_Status    : bCblETbZpp & current time is  175.0  message time is 173.2 case 3
+22:55:49.659 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  176.0 current simulation time  0.352
+22:55:49.731 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  177.0 current simulation time  0.354
+22:55:49.782 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  178.0 current simulation time  0.356
+22:55:49.850 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  179.0 current simulation time  0.358
+22:55:49.906 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  180.0 current simulation time  0.36
+22:55:50.009 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 58 ABS_Event_Status    : bCblETbZpp & current time is  182.0  message time is 181.2 case 1
+22:55:50.063 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  183.0 current simulation time  0.366
+22:55:50.063 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 58 ABS_Event_Status    : bCblETbZpp & current time is  183.0  message time is 181.2 case 1
+22:55:50.116 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  184.0 current simulation time  0.368
+22:55:50.268 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  187.0 current simulation time  0.374
+22:55:50.329 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  188.0 current simulation time  0.376
+22:55:50.490 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  191.0 current simulation time  0.382
+22:55:50.541 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  192.0 current simulation time  0.384
+22:55:50.656 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 58 ABS_Event_Status    : MmrgrkEMzc & current time is  194.0  message time is 193.2 case 3
+22:55:50.698 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  195.0 current simulation time  0.39
+22:55:50.698 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 58 ABS_Event_Status    : MmrgrkEMzc & current time is  195.0  message time is 193.2 case 3
+22:55:50.746 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  196.0 current simulation time  0.392
+22:55:50.806 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  197.0 current simulation time  0.394
+22:55:50.846 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  198.0 current simulation time  0.396
+22:55:50.913 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  199.0 current simulation time  0.398
+22:55:50.973 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  200.0 current simulation time  0.4
+22:55:51.077 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 56 ABS_Event_Status    : MmrgrkEMzc & current time is  202.0  message time is 201.2 case 1
+22:55:51.143 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  203.0 current simulation time  0.406
+22:55:51.144 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 56 ABS_Event_Status    : MmrgrkEMzc & current time is  203.0  message time is 201.2 case 1
+22:55:51.190 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  204.0 current simulation time  0.40800000000000003
+22:55:51.370 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  207.0 current simulation time  0.41400000000000003
+22:55:51.424 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  208.0 current simulation time  0.41600000000000004
+22:55:51.601 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  211.0 current simulation time  0.422
+22:55:51.656 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  212.0 current simulation time  0.424
+22:55:51.770 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 56 ABS_Event_Status    : irsAxZRtLO & current time is  214.0  message time is 213.2 case 3
+22:55:51.826 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  215.0 current simulation time  0.43
+22:55:51.828 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 56 ABS_Event_Status    : irsAxZRtLO & current time is  215.0  message time is 213.2 case 3
+22:55:51.867 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  216.0 current simulation time  0.432
+22:55:51.920 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  217.0 current simulation time  0.434
+22:55:51.984 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  218.0 current simulation time  0.436
+22:55:52.044 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  219.0 current simulation time  0.438
+22:55:52.104 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  220.0 current simulation time  0.44
+22:55:52.205 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : irsAxZRtLO & current time is  222.0  message time is 221.2 case 1
+22:55:52.273 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  223.0 current simulation time  0.446
+22:55:52.273 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : irsAxZRtLO & current time is  223.0  message time is 221.2 case 1
+22:55:52.335 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  224.0 current simulation time  0.448
+22:55:52.485 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  227.0 current simulation time  0.454
+22:55:52.536 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  228.0 current simulation time  0.456
+22:55:52.894 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  231.0 current simulation time  0.462
+22:55:52.988 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  232.0 current simulation time  0.464
+22:55:53.105 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : vPrTmLhMHl & current time is  234.0  message time is 233.2 case 3
+22:55:53.161 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  235.0 current simulation time  0.47000000000000003
+22:55:53.162 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : vPrTmLhMHl & current time is  235.0  message time is 233.2 case 3
+22:55:53.201 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  236.0 current simulation time  0.47200000000000003
+22:55:53.262 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  237.0 current simulation time  0.47400000000000003
+22:55:53.320 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  238.0 current simulation time  0.47600000000000003
+22:55:53.367 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  239.0 current simulation time  0.47800000000000004
+22:55:53.396 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  240.0 current simulation time  0.48
+22:55:53.505 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 70 ABS_Event_Status    : vPrTmLhMHl & current time is  242.0  message time is 241.2 case 1
+22:55:53.566 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  243.0 current simulation time  0.486
+22:55:53.567 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 70 ABS_Event_Status    : vPrTmLhMHl & current time is  243.0  message time is 241.2 case 1
+22:55:53.595 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  244.0 current simulation time  0.488
+22:55:53.791 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  247.0 current simulation time  0.494
+22:55:53.840 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  248.0 current simulation time  0.496
+22:55:53.988 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  251.0 current simulation time  0.502
+22:55:54.044 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  252.0 current simulation time  0.504
+22:55:54.136 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 70 ABS_Event_Status    : bXlvOjIqVA & current time is  254.0  message time is 253.2 case 3
+22:55:54.196 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  255.0 current simulation time  0.51
+22:55:54.197 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 70 ABS_Event_Status    : bXlvOjIqVA & current time is  255.0  message time is 253.2 case 3
+22:55:54.238 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  256.0 current simulation time  0.512
+22:55:54.305 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  257.0 current simulation time  0.514
+22:55:54.362 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  258.0 current simulation time  0.516
+22:55:54.425 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  259.0 current simulation time  0.518
+22:55:54.474 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  260.0 current simulation time  0.52
+22:55:54.567 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : bXlvOjIqVA & current time is  262.0  message time is 261.2 case 1
+22:55:54.629 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  263.0 current simulation time  0.526
+22:55:54.629 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : bXlvOjIqVA & current time is  263.0  message time is 261.2 case 1
+22:55:54.682 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  264.0 current simulation time  0.528
+22:55:54.834 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  267.0 current simulation time  0.534
+22:55:54.888 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  268.0 current simulation time  0.536
+22:55:55.037 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  271.0 current simulation time  0.542
+22:55:55.092 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  272.0 current simulation time  0.544
+22:55:55.213 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : zJHArcXwbB & current time is  274.0  message time is 273.2 case 3
+22:55:55.280 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  275.0 current simulation time  0.55
+22:55:55.282 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : zJHArcXwbB & current time is  275.0  message time is 273.2 case 3
+22:55:55.333 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  276.0 current simulation time  0.552
+22:55:55.375 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  277.0 current simulation time  0.554
+22:55:55.430 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  278.0 current simulation time  0.556
+22:55:55.474 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  279.0 current simulation time  0.558
+22:55:55.533 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  280.0 current simulation time  0.56
+22:55:55.624 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : zJHArcXwbB & current time is  282.0  message time is 281.2 case 1
+22:55:55.688 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  283.0 current simulation time  0.5660000000000001
+22:55:55.689 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : zJHArcXwbB & current time is  283.0  message time is 281.2 case 1
+22:55:55.718 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  284.0 current simulation time  0.5680000000000001
+22:55:55.904 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  287.0 current simulation time  0.5740000000000001
+22:55:55.957 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  288.0 current simulation time  0.5760000000000001
+22:55:56.136 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  291.0 current simulation time  0.582
+22:55:56.193 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  292.0 current simulation time  0.584
+22:55:56.288 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : JxYPqNgSEi & current time is  294.0  message time is 293.2 case 3
+22:55:56.346 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  295.0 current simulation time  0.59
+22:55:56.349 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : JxYPqNgSEi & current time is  295.0  message time is 293.2 case 3
+22:55:56.407 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  296.0 current simulation time  0.592
+22:55:56.436 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  297.0 current simulation time  0.594
+22:55:56.505 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  298.0 current simulation time  0.596
+22:55:56.544 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  299.0 current simulation time  0.598
+22:55:56.610 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  300.0 current simulation time  0.6
+22:55:56.705 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 68 ABS_Event_Status    : JxYPqNgSEi & current time is  302.0  message time is 301.2 case 1
+22:55:56.761 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  303.0 current simulation time  0.606
+22:55:56.761 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 68 ABS_Event_Status    : JxYPqNgSEi & current time is  303.0  message time is 301.2 case 1
+22:55:56.819 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  304.0 current simulation time  0.608
+22:55:56.975 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  307.0 current simulation time  0.614
+22:55:57.056 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  308.0 current simulation time  0.616
+22:55:57.207 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  311.0 current simulation time  0.622
+22:55:57.257 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  312.0 current simulation time  0.624
+22:55:57.352 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 68 ABS_Event_Status    : TjyKMGjeVl & current time is  314.0  message time is 313.2 case 3
+22:55:57.409 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  315.0 current simulation time  0.63
+22:55:57.410 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 68 ABS_Event_Status    : TjyKMGjeVl & current time is  315.0  message time is 313.2 case 3
+22:55:57.455 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  316.0 current simulation time  0.632
+22:55:57.507 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  317.0 current simulation time  0.634
+22:55:57.560 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  318.0 current simulation time  0.636
+22:55:57.616 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  319.0 current simulation time  0.638
+22:55:57.662 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  320.0 current simulation time  0.64
+22:55:57.773 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : TjyKMGjeVl & current time is  322.0  message time is 321.2 case 1
+22:55:57.827 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  323.0 current simulation time  0.646
+22:55:57.828 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : TjyKMGjeVl & current time is  323.0  message time is 321.2 case 1
+22:55:57.882 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  324.0 current simulation time  0.648
+22:55:58.047 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  327.0 current simulation time  0.654
+22:55:58.107 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  328.0 current simulation time  0.656
+22:55:58.249 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  331.0 current simulation time  0.662
+22:55:58.306 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  332.0 current simulation time  0.664
+22:55:58.405 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : TLaciuYXuq & current time is  334.0  message time is 333.2 case 3
+22:55:58.453 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  335.0 current simulation time  0.67
+22:55:58.454 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : TLaciuYXuq & current time is  335.0  message time is 333.2 case 3
+22:55:58.500 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  336.0 current simulation time  0.672
+22:55:58.552 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  337.0 current simulation time  0.674
+22:55:58.639 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  338.0 current simulation time  0.676
+22:55:58.696 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  339.0 current simulation time  0.678
+22:55:58.750 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  340.0 current simulation time  0.68
+22:55:58.865 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 53 ABS_Event_Status    : TLaciuYXuq & current time is  342.0  message time is 341.2 case 1
+22:55:58.915 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  343.0 current simulation time  0.686
+22:55:58.915 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 53 ABS_Event_Status    : TLaciuYXuq & current time is  343.0  message time is 341.2 case 1
+22:55:58.990 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  344.0 current simulation time  0.6880000000000001
+22:55:59.192 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  347.0 current simulation time  0.6940000000000001
+22:55:59.227 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  348.0 current simulation time  0.6960000000000001
+22:55:59.386 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  351.0 current simulation time  0.7020000000000001
+22:55:59.450 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  352.0 current simulation time  0.704
+22:55:59.560 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 53 ABS_Event_Status    : BIVfclAYMF & current time is  354.0  message time is 353.2 case 3
+22:55:59.613 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  355.0 current simulation time  0.71
+22:55:59.614 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 53 ABS_Event_Status    : BIVfclAYMF & current time is  355.0  message time is 353.2 case 3
+22:55:59.657 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  356.0 current simulation time  0.712
+22:55:59.697 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  357.0 current simulation time  0.714
+22:55:59.761 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  358.0 current simulation time  0.716
+22:55:59.815 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  359.0 current simulation time  0.718
+22:55:59.866 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  360.0 current simulation time  0.72
+22:55:59.969 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : BIVfclAYMF & current time is  362.0  message time is 361.2 case 1
+22:56:00.019 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  363.0 current simulation time  0.726
+22:56:00.020 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : BIVfclAYMF & current time is  363.0  message time is 361.2 case 1
+22:56:00.063 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  364.0 current simulation time  0.728
+22:56:00.223 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  367.0 current simulation time  0.734
+22:56:00.269 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  368.0 current simulation time  0.736
+22:56:00.418 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  371.0 current simulation time  0.742
+22:56:00.478 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  372.0 current simulation time  0.744
+22:56:00.585 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : dmskcUFhLy & current time is  374.0  message time is 373.2 case 3
+22:56:00.620 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  375.0 current simulation time  0.75
+22:56:00.620 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : dmskcUFhLy & current time is  375.0  message time is 373.2 case 3
+22:56:00.681 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  376.0 current simulation time  0.752
+22:56:00.716 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  377.0 current simulation time  0.754
+22:56:00.783 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  378.0 current simulation time  0.756
+22:56:00.824 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  379.0 current simulation time  0.758
+22:56:00.889 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  380.0 current simulation time  0.76
+22:56:00.987 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : dmskcUFhLy & current time is  382.0  message time is 381.2 case 1
+22:56:01.037 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  383.0 current simulation time  0.766
+22:56:01.041 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : dmskcUFhLy & current time is  383.0  message time is 381.2 case 1
+22:56:01.120 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  384.0 current simulation time  0.768
+22:56:01.283 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  387.0 current simulation time  0.774
+22:56:01.336 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  388.0 current simulation time  0.776
+22:56:01.500 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  391.0 current simulation time  0.782
+22:56:01.533 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  392.0 current simulation time  0.784
+22:56:01.656 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : tSFfgjaRPe & current time is  394.0  message time is 393.2 case 3
+22:56:01.707 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  395.0 current simulation time  0.79
+22:56:01.707 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : tSFfgjaRPe & current time is  395.0  message time is 393.2 case 3
+22:56:01.751 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  396.0 current simulation time  0.792
+22:56:01.809 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  397.0 current simulation time  0.794
+22:56:01.863 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  398.0 current simulation time  0.796
+22:56:01.938 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  399.0 current simulation time  0.798
+22:56:01.992 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  400.0 current simulation time  0.8
+22:56:02.088 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : tSFfgjaRPe & current time is  402.0  message time is 401.2 case 1
+22:56:02.164 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  403.0 current simulation time  0.806
+22:56:02.165 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : tSFfgjaRPe & current time is  403.0  message time is 401.2 case 1
+22:56:02.217 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  404.0 current simulation time  0.808
+22:56:02.373 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  407.0 current simulation time  0.8140000000000001
+22:56:02.432 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  408.0 current simulation time  0.8160000000000001
+22:56:02.636 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  411.0 current simulation time  0.8220000000000001
+22:56:02.694 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  412.0 current simulation time  0.8240000000000001
+22:56:02.818 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : JylMgqjdpP & current time is  414.0  message time is 413.2 case 3
+22:56:02.872 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  415.0 current simulation time  0.8300000000000001
+22:56:02.873 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 60 ABS_Event_Status    : JylMgqjdpP & current time is  415.0  message time is 413.2 case 3
+22:56:02.908 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  416.0 current simulation time  0.8320000000000001
+22:56:02.932 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  417.0 current simulation time  0.834
+22:56:02.991 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  418.0 current simulation time  0.836
+22:56:03.037 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  419.0 current simulation time  0.838
+22:56:03.082 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  420.0 current simulation time  0.84
+22:56:03.198 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 61 ABS_Event_Status    : JylMgqjdpP & current time is  422.0  message time is 421.2 case 1
+22:56:03.250 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  423.0 current simulation time  0.846
+22:56:03.251 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 61 ABS_Event_Status    : JylMgqjdpP & current time is  423.0  message time is 421.2 case 1
+22:56:03.295 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  424.0 current simulation time  0.848
+22:56:03.458 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  427.0 current simulation time  0.854
+22:56:03.512 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  428.0 current simulation time  0.856
+22:56:03.670 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  431.0 current simulation time  0.862
+22:56:03.709 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  432.0 current simulation time  0.864
+22:56:03.809 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 61 ABS_Event_Status    : GusFUNUqNq & current time is  434.0  message time is 433.2 case 3
+22:56:04.520 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  435.0 current simulation time  0.87
+22:56:04.522 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 61 ABS_Event_Status    : GusFUNUqNq & current time is  435.0  message time is 433.2 case 3
+22:56:04.577 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  436.0 current simulation time  0.872
+22:56:04.608 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  437.0 current simulation time  0.874
+22:56:04.669 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  438.0 current simulation time  0.876
+22:56:04.708 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  439.0 current simulation time  0.878
+22:56:04.765 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  440.0 current simulation time  0.88
+22:56:04.873 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : GusFUNUqNq & current time is  442.0  message time is 441.2 case 1
+22:56:04.925 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  443.0 current simulation time  0.886
+22:56:04.925 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : GusFUNUqNq & current time is  443.0  message time is 441.2 case 1
+22:56:04.977 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  444.0 current simulation time  0.888
+22:56:05.134 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  447.0 current simulation time  0.894
+22:56:05.188 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  448.0 current simulation time  0.896
+22:56:05.329 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  451.0 current simulation time  0.902
+22:56:05.392 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  452.0 current simulation time  0.904
+22:56:05.495 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : GwtjFRAaek & current time is  454.0  message time is 453.2 case 3
+22:56:05.551 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  455.0 current simulation time  0.91
+22:56:05.551 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : GwtjFRAaek & current time is  455.0  message time is 453.2 case 3
+22:56:05.580 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  456.0 current simulation time  0.912
+22:56:05.636 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  457.0 current simulation time  0.914
+22:56:05.674 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  458.0 current simulation time  0.916
+22:56:05.768 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  459.0 current simulation time  0.918
+22:56:05.807 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  460.0 current simulation time  0.92
+22:56:05.904 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : GwtjFRAaek & current time is  462.0  message time is 461.2 case 1
+22:56:05.948 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  463.0 current simulation time  0.926
+22:56:05.949 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : GwtjFRAaek & current time is  463.0  message time is 461.2 case 1
+22:56:06.007 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  464.0 current simulation time  0.928
+22:56:06.167 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  467.0 current simulation time  0.934
+22:56:06.219 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  468.0 current simulation time  0.936
+22:56:06.340 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  471.0 current simulation time  0.9420000000000001
+22:56:06.403 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  472.0 current simulation time  0.9440000000000001
+22:56:06.471 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : MTLTWYFAVK & current time is  474.0  message time is 473.2 case 3
+22:56:06.528 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  475.0 current simulation time  0.9500000000000001
+22:56:06.529 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : MTLTWYFAVK & current time is  475.0  message time is 473.2 case 3
+22:56:06.568 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  476.0 current simulation time  0.9520000000000001
+22:56:06.617 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  477.0 current simulation time  0.9540000000000001
+22:56:06.673 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  478.0 current simulation time  0.9560000000000001
+22:56:06.707 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  479.0 current simulation time  0.9580000000000001
+22:56:06.778 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  480.0 current simulation time  0.96
+22:56:06.877 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : MTLTWYFAVK & current time is  482.0  message time is 481.2 case 1
+22:56:06.907 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  483.0 current simulation time  0.966
+22:56:06.907 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : MTLTWYFAVK & current time is  483.0  message time is 481.2 case 1
+22:56:06.982 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  484.0 current simulation time  0.968
+22:56:07.124 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  487.0 current simulation time  0.974
+22:56:07.172 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  488.0 current simulation time  0.976
+22:56:07.317 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  491.0 current simulation time  0.982
+22:56:07.360 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  492.0 current simulation time  0.984
+22:56:07.468 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : jDNrbcyeds & current time is  494.0  message time is 493.2 case 3
+22:56:07.512 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  495.0 current simulation time  0.99
+22:56:07.512 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 59 ABS_Event_Status    : jDNrbcyeds & current time is  495.0  message time is 493.2 case 3
+22:56:07.557 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  496.0 current simulation time  0.992
+22:56:07.614 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  497.0 current simulation time  0.994
+22:56:07.652 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  498.0 current simulation time  0.996
+22:56:07.709 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  499.0 current simulation time  0.998
+22:56:07.755 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  500.0 current simulation time  1.0
+22:56:07.853 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 90 ABS_Event_Status    : jDNrbcyeds & current time is  502.0  message time is 501.2 case 1
+22:56:07.903 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  503.0 current simulation time  1.006
+22:56:07.903 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 90 ABS_Event_Status    : jDNrbcyeds & current time is  503.0  message time is 501.2 case 1
+22:56:07.960 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  504.0 current simulation time  1.008
+22:56:08.102 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  507.0 current simulation time  1.014
+22:56:08.164 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  508.0 current simulation time  1.016
+22:56:08.308 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  511.0 current simulation time  1.022
+22:56:08.365 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  512.0 current simulation time  1.024
+22:56:08.467 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 90 ABS_Event_Status    : DrhpleamiP & current time is  514.0  message time is 513.2 case 3
+22:56:08.528 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  515.0 current simulation time  1.03
+22:56:08.528 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 90 ABS_Event_Status    : DrhpleamiP & current time is  515.0  message time is 513.2 case 3
+22:56:08.573 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  516.0 current simulation time  1.032
+22:56:08.624 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  517.0 current simulation time  1.034
+22:56:08.663 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  518.0 current simulation time  1.036
+22:56:08.728 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  519.0 current simulation time  1.038
+22:56:08.781 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  520.0 current simulation time  1.04
+22:56:08.875 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : DrhpleamiP & current time is  522.0  message time is 521.2 case 1
+22:56:08.926 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  523.0 current simulation time  1.046
+22:56:08.927 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : DrhpleamiP & current time is  523.0  message time is 521.2 case 1
+22:56:08.974 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  524.0 current simulation time  1.048
+22:56:09.119 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  527.0 current simulation time  1.054
+22:56:09.164 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  528.0 current simulation time  1.056
+22:56:09.328 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  531.0 current simulation time  1.062
+22:56:09.382 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  532.0 current simulation time  1.064
+22:56:09.484 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : HwbQItVNuy & current time is  534.0  message time is 533.2 case 3
+22:56:09.512 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  535.0 current simulation time  1.07
+22:56:09.512 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 66 ABS_Event_Status    : HwbQItVNuy & current time is  535.0  message time is 533.2 case 3
+22:56:09.594 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  536.0 current simulation time  1.072
+22:56:09.615 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  537.0 current simulation time  1.074
+22:56:09.717 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  538.0 current simulation time  1.076
+22:56:09.776 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  539.0 current simulation time  1.078
+22:56:09.819 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  540.0 current simulation time  1.08
+22:56:09.922 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 76 ABS_Event_Status    : HwbQItVNuy & current time is  542.0  message time is 541.2 case 1
+22:56:09.983 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  543.0 current simulation time  1.086
+22:56:09.984 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 76 ABS_Event_Status    : HwbQItVNuy & current time is  543.0  message time is 541.2 case 1
+22:56:10.031 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  544.0 current simulation time  1.088
+22:56:10.192 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  547.0 current simulation time  1.094
+22:56:10.229 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  548.0 current simulation time  1.096
+22:56:10.382 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  551.0 current simulation time  1.102
+22:56:10.431 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  552.0 current simulation time  1.104
+22:56:10.538 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 76 ABS_Event_Status    : FvjPjFQagH & current time is  554.0  message time is 553.2 case 3
+22:56:10.591 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  555.0 current simulation time  1.11
+22:56:10.591 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 76 ABS_Event_Status    : FvjPjFQagH & current time is  555.0  message time is 553.2 case 3
+22:56:10.644 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  556.0 current simulation time  1.112
+22:56:10.697 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  557.0 current simulation time  1.114
+22:56:10.739 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  558.0 current simulation time  1.116
+22:56:10.808 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  559.0 current simulation time  1.118
+22:56:10.841 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  560.0 current simulation time  1.12
+22:56:10.945 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : FvjPjFQagH & current time is  562.0  message time is 561.2 case 1
+22:56:11.002 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  563.0 current simulation time  1.1260000000000001
+22:56:11.002 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : FvjPjFQagH & current time is  563.0  message time is 561.2 case 1
+22:56:11.047 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  564.0 current simulation time  1.1280000000000001
+22:56:11.210 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  567.0 current simulation time  1.1340000000000001
+22:56:11.264 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  568.0 current simulation time  1.1360000000000001
+22:56:11.387 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  571.0 current simulation time  1.1420000000000001
+22:56:11.425 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  572.0 current simulation time  1.1440000000000001
+22:56:11.513 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : WSYWvnOHAl & current time is  574.0  message time is 573.2 case 3
+22:56:11.581 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  575.0 current simulation time  1.1500000000000001
+22:56:11.582 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 82 ABS_Event_Status    : WSYWvnOHAl & current time is  575.0  message time is 573.2 case 3
+22:56:11.626 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  576.0 current simulation time  1.1520000000000001
+22:56:11.677 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  577.0 current simulation time  1.154
+22:56:11.735 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  578.0 current simulation time  1.156
+22:56:11.793 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  579.0 current simulation time  1.158
+22:56:11.847 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  580.0 current simulation time  1.16
+22:56:11.947 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 65 ABS_Event_Status    : WSYWvnOHAl & current time is  582.0  message time is 581.2 case 1
+22:56:12.027 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  583.0 current simulation time  1.166
+22:56:12.029 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 65 ABS_Event_Status    : WSYWvnOHAl & current time is  583.0  message time is 581.2 case 1
+22:56:12.069 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  584.0 current simulation time  1.168
+22:56:12.233 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  587.0 current simulation time  1.174
+22:56:12.262 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  588.0 current simulation time  1.176
+22:56:12.452 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  591.0 current simulation time  1.182
+22:56:12.502 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  592.0 current simulation time  1.184
+22:56:12.593 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 65 ABS_Event_Status    : QJYFgBijpn & current time is  594.0  message time is 593.2 case 3
+22:56:12.647 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  595.0 current simulation time  1.19
+22:56:12.647 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 65 ABS_Event_Status    : QJYFgBijpn & current time is  595.0  message time is 593.2 case 3
+22:56:12.688 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  596.0 current simulation time  1.192
+22:56:12.746 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  597.0 current simulation time  1.194
+22:56:12.803 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  598.0 current simulation time  1.196
+22:56:12.868 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  599.0 current simulation time  1.198
+22:56:12.920 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  600.0 current simulation time  1.2
+22:56:13.038 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 69 ABS_Event_Status    : QJYFgBijpn & current time is  602.0  message time is 601.2 case 1
+22:56:13.092 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  603.0 current simulation time  1.206
+22:56:13.092 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 69 ABS_Event_Status    : QJYFgBijpn & current time is  603.0  message time is 601.2 case 1
+22:56:13.141 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  604.0 current simulation time  1.208
+22:56:13.291 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  607.0 current simulation time  1.214
+22:56:13.346 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  608.0 current simulation time  1.216
+22:56:13.496 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  611.0 current simulation time  1.222
+22:56:13.553 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  612.0 current simulation time  1.224
+22:56:13.649 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 69 ABS_Event_Status    : XrLlnXNpgy & current time is  614.0  message time is 613.2 case 3
+22:56:13.698 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  615.0 current simulation time  1.23
+22:56:13.698 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 69 ABS_Event_Status    : XrLlnXNpgy & current time is  615.0  message time is 613.2 case 3
+22:56:13.751 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  616.0 current simulation time  1.232
+22:56:13.787 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  617.0 current simulation time  1.234
+22:56:13.848 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  618.0 current simulation time  1.236
+22:56:13.895 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  619.0 current simulation time  1.238
+22:56:13.948 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  620.0 current simulation time  1.24
+22:56:14.052 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : XrLlnXNpgy & current time is  622.0  message time is 621.2 case 1
+22:56:14.095 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  623.0 current simulation time  1.246
+22:56:14.095 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : XrLlnXNpgy & current time is  623.0  message time is 621.2 case 1
+22:56:14.152 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  624.0 current simulation time  1.248
+22:56:14.289 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  627.0 current simulation time  1.254
+22:56:14.348 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  628.0 current simulation time  1.256
+22:56:14.488 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  631.0 current simulation time  1.262
+22:56:14.549 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  632.0 current simulation time  1.264
+22:56:14.644 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : xtMMAXxgVI & current time is  634.0  message time is 633.2 case 3
+22:56:14.695 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  635.0 current simulation time  1.27
+22:56:14.696 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : xtMMAXxgVI & current time is  635.0  message time is 633.2 case 3
+22:56:14.738 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  636.0 current simulation time  1.272
+22:56:14.791 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  637.0 current simulation time  1.274
+22:56:14.844 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  638.0 current simulation time  1.276
+22:56:14.891 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  639.0 current simulation time  1.278
+22:56:14.937 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  640.0 current simulation time  1.28
+22:56:15.033 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : xtMMAXxgVI & current time is  642.0  message time is 641.2 case 1
+22:56:15.086 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  643.0 current simulation time  1.286
+22:56:15.086 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : xtMMAXxgVI & current time is  643.0  message time is 641.2 case 1
+22:56:15.127 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  644.0 current simulation time  1.288
+22:56:15.251 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  647.0 current simulation time  1.294
+22:56:15.324 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  648.0 current simulation time  1.296
+22:56:15.450 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  651.0 current simulation time  1.302
+22:56:15.522 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  652.0 current simulation time  1.304
+22:56:15.619 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : VTDhZMvtYZ & current time is  654.0  message time is 653.2 case 3
+22:56:15.666 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  655.0 current simulation time  1.31
+22:56:15.667 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : VTDhZMvtYZ & current time is  655.0  message time is 653.2 case 3
+22:56:15.722 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  656.0 current simulation time  1.312
+22:56:15.772 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  657.0 current simulation time  1.314
+22:56:15.822 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  658.0 current simulation time  1.316
+22:56:15.875 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  659.0 current simulation time  1.318
+22:56:15.929 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  660.0 current simulation time  1.32
+22:56:16.128 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 74 ABS_Event_Status    : VTDhZMvtYZ & current time is  662.0  message time is 661.2 case 1
+22:56:16.171 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  663.0 current simulation time  1.326
+22:56:16.172 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 74 ABS_Event_Status    : VTDhZMvtYZ & current time is  663.0  message time is 661.2 case 1
+22:56:16.223 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  664.0 current simulation time  1.328
+22:56:16.370 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  667.0 current simulation time  1.334
+22:56:16.419 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  668.0 current simulation time  1.336
+22:56:16.564 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  671.0 current simulation time  1.342
+22:56:16.614 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  672.0 current simulation time  1.344
+22:56:16.709 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 74 ABS_Event_Status    : hBxgvLRuid & current time is  674.0  message time is 673.2 case 3
+22:56:16.761 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  675.0 current simulation time  1.35
+22:56:16.761 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 74 ABS_Event_Status    : hBxgvLRuid & current time is  675.0  message time is 673.2 case 3
+22:56:16.806 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  676.0 current simulation time  1.352
+22:56:16.863 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  677.0 current simulation time  1.354
+22:56:16.904 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  678.0 current simulation time  1.356
+22:56:16.973 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  679.0 current simulation time  1.358
+22:56:17.025 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  680.0 current simulation time  1.36
+22:56:17.113 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : hBxgvLRuid & current time is  682.0  message time is 681.2 case 1
+22:56:17.173 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  683.0 current simulation time  1.366
+22:56:17.173 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : hBxgvLRuid & current time is  683.0  message time is 681.2 case 1
+22:56:17.229 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  684.0 current simulation time  1.368
+22:56:17.412 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  687.0 current simulation time  1.374
+22:56:17.465 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  688.0 current simulation time  1.3760000000000001
+22:56:17.614 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  691.0 current simulation time  1.3820000000000001
+22:56:17.663 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  692.0 current simulation time  1.3840000000000001
+22:56:17.763 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : OwMOZFthNb & current time is  694.0  message time is 693.2 case 3
+22:56:17.811 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  695.0 current simulation time  1.3900000000000001
+22:56:17.812 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 72 ABS_Event_Status    : OwMOZFthNb & current time is  695.0  message time is 693.2 case 3
+22:56:17.859 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  696.0 current simulation time  1.3920000000000001
+22:56:17.902 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  697.0 current simulation time  1.3940000000000001
+22:56:17.954 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  698.0 current simulation time  1.3960000000000001
+22:56:18.014 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  699.0 current simulation time  1.3980000000000001
+22:56:18.058 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  700.0 current simulation time  1.4000000000000001
+22:56:18.165 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : OwMOZFthNb & current time is  702.0  message time is 701.2 case 1
+22:56:18.218 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  703.0 current simulation time  1.4060000000000001
+22:56:18.219 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : OwMOZFthNb & current time is  703.0  message time is 701.2 case 1
+22:56:18.272 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  704.0 current simulation time  1.408
+22:56:18.429 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  707.0 current simulation time  1.414
+22:56:18.469 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  708.0 current simulation time  1.416
+22:56:18.637 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  711.0 current simulation time  1.422
+22:56:18.674 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  712.0 current simulation time  1.424
+22:56:18.789 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : obhXesCJCy & current time is  714.0  message time is 713.2 case 3
+22:56:18.841 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  715.0 current simulation time  1.43
+22:56:18.842 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : obhXesCJCy & current time is  715.0  message time is 713.2 case 3
+22:56:18.883 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  716.0 current simulation time  1.432
+22:56:18.942 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  717.0 current simulation time  1.434
+22:56:18.984 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  718.0 current simulation time  1.436
+22:56:19.044 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  719.0 current simulation time  1.438
+22:56:19.087 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  720.0 current simulation time  1.44
+22:56:19.187 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 78 ABS_Event_Status    : obhXesCJCy & current time is  722.0  message time is 721.2 case 1
+22:56:19.238 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  723.0 current simulation time  1.446
+22:56:19.239 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 78 ABS_Event_Status    : obhXesCJCy & current time is  723.0  message time is 721.2 case 1
+22:56:19.292 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  724.0 current simulation time  1.448
+22:56:19.445 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  727.0 current simulation time  1.454
+22:56:19.497 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  728.0 current simulation time  1.456
+22:56:19.655 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  731.0 current simulation time  1.462
+22:56:19.701 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  732.0 current simulation time  1.464
+22:56:19.789 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 78 ABS_Event_Status    : aehhNjsrZe & current time is  734.0  message time is 733.2 case 3
+22:56:19.844 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  735.0 current simulation time  1.47
+22:56:19.845 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 78 ABS_Event_Status    : aehhNjsrZe & current time is  735.0  message time is 733.2 case 3
+22:56:19.899 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  736.0 current simulation time  1.472
+22:56:19.937 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  737.0 current simulation time  1.474
+22:56:19.991 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  738.0 current simulation time  1.476
+22:56:20.045 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  739.0 current simulation time  1.478
+22:56:20.093 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  740.0 current simulation time  1.48
+22:56:20.183 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 55 ABS_Event_Status    : aehhNjsrZe & current time is  742.0  message time is 741.2 case 1
+22:56:20.237 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  743.0 current simulation time  1.486
+22:56:20.237 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 55 ABS_Event_Status    : aehhNjsrZe & current time is  743.0  message time is 741.2 case 1
+22:56:20.277 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  744.0 current simulation time  1.488
+22:56:20.466 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  747.0 current simulation time  1.494
+22:56:20.516 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  748.0 current simulation time  1.496
+22:56:20.669 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  751.0 current simulation time  1.502
+22:56:20.717 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  752.0 current simulation time  1.504
+22:56:20.805 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 55 ABS_Event_Status    : gvYXTCgQZp & current time is  754.0  message time is 753.2 case 3
+22:56:20.866 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  755.0 current simulation time  1.51
+22:56:20.866 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 55 ABS_Event_Status    : gvYXTCgQZp & current time is  755.0  message time is 753.2 case 3
+22:56:20.908 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  756.0 current simulation time  1.512
+22:56:20.965 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  757.0 current simulation time  1.514
+22:56:21.012 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  758.0 current simulation time  1.516
+22:56:21.079 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  759.0 current simulation time  1.518
+22:56:21.132 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  760.0 current simulation time  1.52
+22:56:21.205 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : gvYXTCgQZp & current time is  762.0  message time is 761.2 case 1
+22:56:21.246 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  763.0 current simulation time  1.526
+22:56:21.246 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : gvYXTCgQZp & current time is  763.0  message time is 761.2 case 1
+22:56:21.300 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  764.0 current simulation time  1.528
+22:56:21.452 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  767.0 current simulation time  1.534
+22:56:21.501 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  768.0 current simulation time  1.536
+22:56:21.655 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  771.0 current simulation time  1.542
+22:56:21.712 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  772.0 current simulation time  1.544
+22:56:21.810 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : shCJNEBHbl & current time is  774.0  message time is 773.2 case 3
+22:56:21.871 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  775.0 current simulation time  1.55
+22:56:21.871 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 75 ABS_Event_Status    : shCJNEBHbl & current time is  775.0  message time is 773.2 case 3
+22:56:21.919 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  776.0 current simulation time  1.552
+22:56:21.963 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  777.0 current simulation time  1.554
+22:56:22.020 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  778.0 current simulation time  1.556
+22:56:22.071 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  779.0 current simulation time  1.558
+22:56:22.124 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  780.0 current simulation time  1.56
+22:56:22.219 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : shCJNEBHbl & current time is  782.0  message time is 781.2 case 1
+22:56:22.271 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  783.0 current simulation time  1.566
+22:56:22.271 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : shCJNEBHbl & current time is  783.0  message time is 781.2 case 1
+22:56:22.325 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  784.0 current simulation time  1.568
+22:56:22.472 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  787.0 current simulation time  1.574
+22:56:22.519 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  788.0 current simulation time  1.576
+22:56:22.665 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  791.0 current simulation time  1.582
+22:56:22.709 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  792.0 current simulation time  1.584
+22:56:22.825 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : HBZABuwbGr & current time is  794.0  message time is 793.2 case 3
+22:56:22.879 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  795.0 current simulation time  1.59
+22:56:22.880 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 62 ABS_Event_Status    : HBZABuwbGr & current time is  795.0  message time is 793.2 case 3
+22:56:22.923 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  796.0 current simulation time  1.592
+22:56:22.970 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  797.0 current simulation time  1.594
+22:56:23.018 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  798.0 current simulation time  1.596
+22:56:23.064 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  799.0 current simulation time  1.598
+22:56:23.112 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  800.0 current simulation time  1.6
+22:56:23.216 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : HBZABuwbGr & current time is  802.0  message time is 801.2 case 1
+22:56:23.272 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  803.0 current simulation time  1.606
+22:56:23.272 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : HBZABuwbGr & current time is  803.0  message time is 801.2 case 1
+22:56:23.307 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  804.0 current simulation time  1.608
+22:56:23.463 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  807.0 current simulation time  1.614
+22:56:23.504 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  808.0 current simulation time  1.616
+22:56:23.666 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  811.0 current simulation time  1.622
+22:56:23.722 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  812.0 current simulation time  1.624
+22:56:23.825 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : tPkLzClKmr & current time is  814.0  message time is 813.2 case 3
+22:56:23.883 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  815.0 current simulation time  1.6300000000000001
+22:56:23.883 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 50 ABS_Event_Status    : tPkLzClKmr & current time is  815.0  message time is 813.2 case 3
+22:56:23.919 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  816.0 current simulation time  1.6320000000000001
+22:56:23.979 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  817.0 current simulation time  1.6340000000000001
+22:56:24.026 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  818.0 current simulation time  1.6360000000000001
+22:56:24.081 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  819.0 current simulation time  1.6380000000000001
+22:56:24.126 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  820.0 current simulation time  1.6400000000000001
+22:56:24.228 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : tPkLzClKmr & current time is  822.0  message time is 821.2 case 1
+22:56:24.283 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  823.0 current simulation time  1.6460000000000001
+22:56:24.284 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : tPkLzClKmr & current time is  823.0  message time is 821.2 case 1
+22:56:24.326 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  824.0 current simulation time  1.6480000000000001
+22:56:24.486 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  827.0 current simulation time  1.6540000000000001
+22:56:24.531 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  828.0 current simulation time  1.6560000000000001
+22:56:24.695 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  831.0 current simulation time  1.6620000000000001
+22:56:24.742 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  832.0 current simulation time  1.6640000000000001
+22:56:24.850 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : PidCBqQbFK & current time is  834.0  message time is 833.2 case 3
+22:56:24.903 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  835.0 current simulation time  1.67
+22:56:24.903 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 64 ABS_Event_Status    : PidCBqQbFK & current time is  835.0  message time is 833.2 case 3
+22:56:24.944 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  836.0 current simulation time  1.672
+22:56:25.002 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  837.0 current simulation time  1.674
+22:56:25.057 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  838.0 current simulation time  1.676
+22:56:25.110 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  839.0 current simulation time  1.678
+22:56:25.152 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  840.0 current simulation time  1.68
+22:56:25.253 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : PidCBqQbFK & current time is  842.0  message time is 841.2 case 1
+22:56:25.318 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  843.0 current simulation time  1.686
+22:56:25.319 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : PidCBqQbFK & current time is  843.0  message time is 841.2 case 1
+22:56:25.374 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  844.0 current simulation time  1.688
+22:56:25.526 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  847.0 current simulation time  1.694
+22:56:25.568 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  848.0 current simulation time  1.696
+22:56:25.740 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  851.0 current simulation time  1.702
+22:56:25.778 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  852.0 current simulation time  1.704
+22:56:25.885 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : sIkCEPnVET & current time is  854.0  message time is 853.2 case 3
+22:56:25.943 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  855.0 current simulation time  1.71
+22:56:25.944 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 77 ABS_Event_Status    : sIkCEPnVET & current time is  855.0  message time is 853.2 case 3
+22:56:25.987 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  856.0 current simulation time  1.712
+22:56:26.038 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  857.0 current simulation time  1.714
+22:56:26.095 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  858.0 current simulation time  1.716
+22:56:26.138 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  859.0 current simulation time  1.718
+22:56:26.181 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  860.0 current simulation time  1.72
+22:56:26.280 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 81 ABS_Event_Status    : sIkCEPnVET & current time is  862.0  message time is 861.2 case 1
+22:56:26.336 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  863.0 current simulation time  1.726
+22:56:26.336 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 81 ABS_Event_Status    : sIkCEPnVET & current time is  863.0  message time is 861.2 case 1
+22:56:26.381 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  864.0 current simulation time  1.728
+22:56:26.542 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  867.0 current simulation time  1.734
+22:56:26.592 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  868.0 current simulation time  1.736
+22:56:26.747 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  871.0 current simulation time  1.742
+22:56:26.781 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  872.0 current simulation time  1.744
+22:56:26.905 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 81 ABS_Event_Status    : DsMzSWtbuv & current time is  874.0  message time is 873.2 case 3
+22:56:26.940 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  875.0 current simulation time  1.75
+22:56:26.940 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 81 ABS_Event_Status    : DsMzSWtbuv & current time is  875.0  message time is 873.2 case 3
+22:56:26.996 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  876.0 current simulation time  1.752
+22:56:27.041 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  877.0 current simulation time  1.754
+22:56:27.073 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  878.0 current simulation time  1.756
+22:56:27.125 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  879.0 current simulation time  1.758
+22:56:27.172 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  880.0 current simulation time  1.76
+22:56:27.276 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : DsMzSWtbuv & current time is  882.0  message time is 881.2 case 1
+22:56:27.332 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  883.0 current simulation time  1.766
+22:56:27.332 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : DsMzSWtbuv & current time is  883.0  message time is 881.2 case 1
+22:56:27.378 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  884.0 current simulation time  1.768
+22:56:27.527 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  887.0 current simulation time  1.774
+22:56:27.584 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  888.0 current simulation time  1.776
+22:56:27.730 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  891.0 current simulation time  1.782
+22:56:27.784 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  892.0 current simulation time  1.784
+22:56:27.898 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : OrENXovCQM & current time is  894.0  message time is 893.2 case 3
+22:56:27.945 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  895.0 current simulation time  1.79
+22:56:27.946 [main] INFO  AV.VCU - VCU OBSTACLE0ABS Speed : 88 ABS_Event_Status    : OrENXovCQM & current time is  895.0  message time is 893.2 case 3
+22:56:27.999 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  896.0 current simulation time  1.792
+22:56:28.058 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  897.0 current simulation time  1.794
+22:56:28.116 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  898.0 current simulation time  1.796
+22:56:28.174 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  899.0 current simulation time  1.798
+22:56:28.217 [main] INFO  AV.VCU - speed(t-1)=  0 time(t-1)= 0.10001  speed(t)=  0 time(t)= 0.10001  Scenario  PARKED cuRRent logical time  900.0 current simulation time  1.8
+22:56:28.274 [main] INFO  org.cpswt.hla.SynchronizedFederate - VCU-b6585120-b90a-463d-a676-e93ec05acfa2: SimEnd interaction received, exiting...
+22:56:28.274 [main] INFO  org.cpswt.hla.SynchronizedFederate - Exiting gracefully ....

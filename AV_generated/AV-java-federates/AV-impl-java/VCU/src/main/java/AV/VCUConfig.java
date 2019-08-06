@@ -64,6 +64,8 @@ public class VCUConfig extends FederateConfig {
 	@FederateParameter
 	 public String BMS_Battery_Pack_Power_limit;
 	@FederateParameter
+	public String BMS_Obstacle_Presence_distance;    
+	@FederateParameter
 	            
 	  
 	 public String ABS_Wheel_Speed;

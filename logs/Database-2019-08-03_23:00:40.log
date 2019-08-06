@@ -1,0 +1,227 @@
+2019-01-03 23:01:56 [main] INFO  gov.nist.hla.federates.database.Database - Reading JSON configuration file at conf/Database.json
+2019-01-03 23:01:57 [main] INFO  gov.nist.hla.gateway.ObjectModel - creating object model from conf/AV.xml
+2019-02-03 23:02:01 [main] TRACE gov.nist.sds4emf.AbstractSerializeDeserialize - AbstractSerializeDeserialize==>org.eclipse.emf.ecore.resource.impl.ResourceSetImpl@3a62c01e resources=[]
+2019-02-03 23:02:01 [main] TRACE gov.nist.sds4emf.AbstractSerializeDeserialize - <==AbstractSerializeDeserialize
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - initializeInteractionVariables
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass InteractionRoot
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot with 0 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass C2WInteractionRoot
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters [originFed, federateFilter, sourceFed, actualLogicalGenerationTime]
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass ActionBase
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.ActionBase with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass FederateJoinInteraction
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters [FederateType, IsLateJoiner, FederateId]
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.FederateJoinInteraction with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass FederateResignInteraction
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters [FederateType, IsLateJoiner, FederateId]
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.FederateResignInteraction with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass OutcomeBase
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.OutcomeBase with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass SimLog
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters [Comment, FedName, Time]
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimLog with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass SimulationControl
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimulationControl with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass CAN
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters [ID11B, ID18B, ACKslot, EndOfFrame, IDE, StartOfFrame, RTR, ReservedBit1, SRR, ReservedBit2, DataField, CRC, Parameter, DLC]
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.CAN with 18 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass HighPrio
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter FedName
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Comment
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Time
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimLog.HighPrio with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass LowPrio
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter FedName
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Comment
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Time
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimLog.LowPrio with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass MediumPrio
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter FedName
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Comment
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Time
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimLog.MediumPrio with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass VeryLowPrio
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter FedName
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Comment
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter Time
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimLog.VeryLowPrio with 7 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass SimEnd
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimulationControl.SimEnd with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass SimPause
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimulationControl.SimPause with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processInteractionClass SimResume
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with parameters []
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter sourceFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter federateFilter
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter originFed
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with inherited parameter actualLogicalGenerationTime
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed InteractionRoot.C2WInteractionRoot.SimulationControl.SimResume with 4 parameters
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - initializeObjectVariables
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processObjectClass ObjectRoot
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with attributes []
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed ObjectRoot with 0 attributes
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - processObjectClass FederateObject
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	with attributes [FederateType, FederateHandle, FederateHost]
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as publication
+2019-02-03 23:02:01 [main] TRACE gov.nist.hla.gateway.ObjectModel - 	marked as subscription
+2019-02-03 23:02:01 [main] DEBUG gov.nist.hla.gateway.ObjectModel - processed ObjectRoot.FederateObject with 3 attributes
+Sat Aug 03 23:02:03 UTC 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+2019-02-03 23:02:03 [main] INFO  gov.nist.hla.federates.database.Database - A schema named AV_2019_08_03_23_02_02has been created in MySQL.
+2019-02-03 23:02:04 [main] INFO  gov.nist.hla.federates.database.Database - The IndexTable has been created.
+2019-02-03 23:02:04 [main] TRACE gov.nist.hla.gateway.GatewayFederate - run
+2019-02-03 23:02:04 [main] TRACE gov.nist.hla.gateway.GatewayFederate - joinFederationExecution
+2019-02-03 23:02:04 [main] INFO  gov.nist.hla.gateway.GatewayFederate - joining federation AV as Database (attempt 1)
+
+-------------------------------------------------------------------
+GMS: address=vagrant-56750, cluster=AV, physical address=10.0.2.15:33201
+-------------------------------------------------------------------
+2019-02-03 23:02:07 [Regular] INFO  gov.nist.hla.FederateAmbassador - synchronization point announced: readyToResign
+2019-02-03 23:02:07 [Regular] INFO  gov.nist.hla.FederateAmbassador - synchronization point announced: readyToPopulate
+2019-02-03 23:02:07 [Regular] INFO  gov.nist.hla.FederateAmbassador - synchronization point announced: readyToRun
+2019-02-03 23:02:07 [main] TRACE gov.nist.hla.gateway.GatewayFederate - enableAsynchronousDelivery
+2019-02-03 23:02:07 [main] INFO  gov.nist.hla.gateway.GatewayFederate - asynchronous delivery enabled
+2019-02-03 23:02:07 [main] TRACE gov.nist.hla.gateway.GatewayFederate - enableTimeConstrained
+2019-02-03 23:02:07 [main] INFO  gov.nist.hla.FederateAmbassador - time constrained enabled: t=0.0
+2019-02-03 23:02:07 [main] TRACE gov.nist.hla.gateway.GatewayFederate - enableTimeRegulation
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.FederateAmbassador - time regulation enabled: t=0.0
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - publishAndSubscribe
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.CAN
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.FederateJoinInteraction
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.FederateResignInteraction
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimulationControl
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.ActionBase
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimLog.LowPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimulationControl.SimPause
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimulationControl.SimResume
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimLog
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimLog.MediumPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimLog.VeryLowPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimulationControl.SimEnd
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.OutcomeBase
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for InteractionRoot.C2WInteractionRoot.SimLog.HighPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.CAN
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.FederateJoinInteraction
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.FederateResignInteraction
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimulationControl
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.ActionBase
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimLog.LowPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimulationControl.SimPause
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimulationControl.SimResume
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimLog
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimLog.MediumPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimLog.VeryLowPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimulationControl.SimEnd
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.OutcomeBase
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for InteractionRoot.C2WInteractionRoot.SimLog.HighPrio
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating publication for ObjectRoot.FederateObject attributes [FederateType, FederateHandle, FederateHost]
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - convertToAttributeHandleSet 538 [FederateType, FederateHandle, FederateHost]
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - creating subscription for ObjectRoot.FederateObject attributes[FederateType, FederateHandle, FederateHost]
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - convertToAttributeHandleSet 538 [FederateType, FederateHandle, FederateHost]
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - notifyOfFederationJoin
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - sendInteraction InteractionRoot.C2WInteractionRoot.FederateJoinInteraction [FederateType=Database, IsLateJoiner=false, FederateId=Database]
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - addRootParameters InteractionRoot.C2WInteractionRoot.FederateJoinInteraction {FederateType=Database, IsLateJoiner=false, FederateId=Database}
+2019-02-03 23:02:08 [main] DEBUG gov.nist.hla.gateway.GatewayFederate - added InteractionRoot.C2WInteractionRoot parameters to InteractionRoot.C2WInteractionRoot.FederateJoinInteraction
+2019-02-03 23:02:08 [main] TRACE gov.nist.hla.gateway.GatewayFederate - convertToSuppliedParameters 702 {originFed=Database, FederateType=Database, federateFilter=, IsLateJoiner=false, sourceFed=Database, actualLogicalGenerationTime=0.0, FederateId=Database}
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - waiting for announcement of the synchronization point readyToPopulate
+2019-02-03 23:02:08 [main] INFO  gov.nist.hla.gateway.GatewayFederate - waiting for federation to synchronize on synchronization point readyToPopulate
+2019-02-03 23:02:09 [main] INFO  gov.nist.hla.FederateAmbassador - synchronization point achieved: readyToPopulate
+2019-02-03 23:02:09 [main] INFO  gov.nist.hla.gateway.GatewayFederate - waiting for announcement of the synchronization point readyToRun
+2019-02-03 23:02:09 [main] INFO  gov.nist.hla.gateway.GatewayFederate - waiting for federation to synchronize on synchronization point readyToRun
+2019-02-03 23:02:09 [main] INFO  gov.nist.hla.FederateAmbassador - synchronization point achieved: readyToRun
+2019-02-03 23:02:09 [main] TRACE gov.nist.hla.gateway.GatewayFederate - run t=0.0
+2019-02-03 23:02:09 [main] INFO  gov.nist.hla.gateway.GatewayFederate - advancing logical time to 1.0
+2019-02-03 23:02:09 [main] DEBUG gov.nist.hla.FederateAmbassador - received interaction class=723 parameters=18
+2019-02-03 23:02:09 [main] DEBUG gov.nist.hla.FederateAmbassador - received interaction class=723 parameters=18
+2019-02-03 23:02:09 [main] DEBUG gov.nist.hla.FederateAmbassador - received interaction class=723 parameters=18
+2019-02-03 23:02:10 [main] INFO  gov.nist.hla.federates.database.Database - An interaction table named InteractionRoot.C2WInteractionRoot.CANhas been created in MySQL.

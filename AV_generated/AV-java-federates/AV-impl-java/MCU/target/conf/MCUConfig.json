@@ -3,7 +3,7 @@
   "federateType": "MCU",
   "federationId": "AV",
   "isLateJoiner": false,
-  "lookAhead": 0.2,
+  "lookAhead": 1.0,
   "stepSize": 1.0,
     "messageTime" : 0,
   "Engine_Speed":"0",       

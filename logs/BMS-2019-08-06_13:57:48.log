@@ -1,0 +1,11 @@
+
+-------------------------------------------------------------------
+GMS: address=vagrant-42598, cluster=AV, physical address=10.0.2.15:58294
+-------------------------------------------------------------------
+13:58:21.193 [main] INFO  AV.BMS - waiting on readyToPopulate...
+13:58:42.984 [main] INFO  AV.BMS - ...synchronized on readyToPopulate
+13:58:42.984 [main] INFO  AV.BMS - waiting on readyToRun...
+13:58:43.235 [main] INFO  AV.BMS - ...synchronized on readyToRun
+13:58:43.237 [main] INFO  AV.BMS - started logical time progression
+obstacle not detected currenttime 0.0
+13:58:43.240 [main] INFO  AV.BMS -  OSD 00 currentime 0.0
